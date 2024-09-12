@@ -1,18 +1,22 @@
 package Beans;
 
 import java.io.*;
+import java.time.LocalDate;
 import java.util.ArrayList;
+import java.util.Date;
 import java.util.List;
 import java.util.UUID;
 
 public class Estoque {
     private final List<Produto> produtos;
+    private final List<Operacao> operacoes;
 
     //TODO: fazer o CRUD dos produtos no estoque.
 
     // CONSTRUTOR:
     public Estoque() {
         this.produtos = new ArrayList<>();
+        this.operacoes = new ArrayList<>();
     }
 
     public void adicionarProduto(Produto produto) {
@@ -48,6 +52,9 @@ public class Estoque {
             produto.setQuantidade(novaQuantidade);
             System.out.println("Reposto: " + quantidadeReposta + " unidades de " + produto.getNome()
                     + ".\nEstoque atual: " + novaQuantidade + "\nExecutado pela thread: " + idThread + '\n');
+
+            registrarOperacao("Reposição", produto, quantidadeReposta, idThread, produto.getPrecoCompra());
+
             salvarParaArquivo();
 
         } else {
@@ -64,6 +71,8 @@ public class Estoque {
                 produto.setQuantidade(novaQuantidade);
                 System.out.println("Vendido: " + quantidadeVendida + " unidades de " + produto.getNome()
                         + ".\nEstoque atual: " + novaQuantidade + "\nExecutado pela thread: " + idThread + '\n');
+
+                registrarOperacao("Venda", produto, quantidadeVendida, idThread, produto.getPrecoVenda());
                 salvarParaArquivo();
             } else {
                 System.out.println("Estoque insuficiente para " + produto.getNome());
@@ -84,6 +93,33 @@ public class Estoque {
             }
         }
         return produtoEncontrado;
+    }
+
+    private void registrarOperacao(String tipo, Produto produto, int quantidade, String idThread, double precoUnitario) {
+        Date dataAtual = new Date();
+        Operacao operacao = new Operacao(
+
+                UUID.randomUUID(),
+                tipo,
+                produto.getId(),
+                quantidade,
+                dataAtual,
+                produto.getPrecoVenda() * quantidade
+        );
+        operacoes.add(operacao);
+        salvarOperacoesParaArquivo();
+    }
+
+    public void salvarOperacoesParaArquivo() {
+        try (BufferedWriter writer = new BufferedWriter(new FileWriter("operacoes.txt"))) {
+            for (Operacao operacao : operacoes) {
+                writer.write(operacao.toString());
+                writer.newLine();
+            }
+            System.out.println("Operações salvas com sucesso em operacoes.txt");
+        } catch (IOException e) {
+            System.out.println("Erro ao salvar as operações: " + e.getMessage());
+        }
     }
 
     public void salvarParaArquivo() {

@@ -18,6 +18,8 @@ public class Produto {
         this.precoVenda = precoVenda;
     }
 
+
+
     //GETs AND SETs:
     public UUID getId() {
         return id;

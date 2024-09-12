@@ -18,7 +18,7 @@ public class ThreadRetirar extends Thread {
 
     @Override
     public void run() {
-        estoque.vender(produto.getId(), quantidadeVendida, getIdThread());
+        estoque.retirar(produto.getId(), quantidadeVendida, getIdThread());
     }
 
     //GETs AND SETs
