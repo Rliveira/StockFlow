@@ -86,7 +86,6 @@ public class Main {
     private void adicionarProduto(Estoque estoque) {
         System.out.println("Digite o nome do produto:");
         String nome = scanner.nextLine();
-
     }
 
     private void editarProduto() {

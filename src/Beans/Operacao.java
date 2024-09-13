@@ -1,5 +1,6 @@
 package Beans;
 
+import java.time.LocalDateTime;
 import java.util.Date;
 import java.util.UUID;
 
@@ -9,11 +10,11 @@ public class Operacao
     private String tipoOperacao;
     private UUID idProduto;
     private int quantidade;
-    private Date dataOperacao;
+    private LocalDateTime dataOperacao;
 
     private double valor;
 
-    public Operacao(UUID idOperacao, String tipoOperacao, UUID idProduto, int quantidade, Date dataOperacao, double valor) {
+    public Operacao(UUID idOperacao, String tipoOperacao, UUID idProduto, int quantidade, LocalDateTime dataOperacao, double valor) {
         this.idOperacao = idOperacao;
         this.tipoOperacao = tipoOperacao;
         this.idProduto = idProduto;
@@ -63,11 +64,11 @@ public class Operacao
         this.quantidade = quantidade;
     }
 
-    public Date getDataOperacao() {
+    public LocalDateTime getDataOperacao() {
         return dataOperacao;
     }
 
-    public void setDataOperacao(Date dataOperacao) {
+    public void setDataOperacao(LocalDateTime dataOperacao) {
         this.dataOperacao = dataOperacao;
     }
 

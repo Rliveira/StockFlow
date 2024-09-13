@@ -2,12 +2,13 @@ package Beans;
 
 import java.io.*;
 import java.time.LocalDate;
-import java.util.ArrayList;
-import java.util.Date;
-import java.util.List;
-import java.util.UUID;
+import java.time.LocalDateTime;
+import java.util.*;
+import java.util.stream.Collectors;
 
 public class Estoque {
+
+    private static Estoque instanciaUnica;
     private final List<Produto> produtos;
     private final List<Operacao> operacoes;
 
@@ -17,6 +18,14 @@ public class Estoque {
     public Estoque() {
         this.produtos = new ArrayList<>();
         this.operacoes = new ArrayList<>();
+    }
+
+    public static synchronized Estoque getInstancia()
+    {
+        if (instanciaUnica == null) {
+            instanciaUnica = new Estoque();
+        }
+        return instanciaUnica;
     }
 
     public void adicionarProduto(Produto produto) {
@@ -82,7 +91,7 @@ public class Estoque {
         }
     }
 
-    private Produto encontrarProduto(UUID id) {
+    public Produto encontrarProduto(UUID id) {
         boolean achou = false;
         Produto produtoEncontrado = null;
 
@@ -95,15 +104,32 @@ public class Estoque {
         return produtoEncontrado;
     }
 
+    public Map<String, List<Integer>> listarVendas() {
+        return operacoes.stream()
+                .filter(operacao -> operacao.getTipoOperacao().equalsIgnoreCase("Venda"))
+                .collect(Collectors.groupingBy(
+                        operacao -> encontrarProduto(operacao.getIdProduto()).getNome(),   // chave: nome do produto
+                        Collectors.mapping(Operacao::getQuantidade, Collectors.toList())   // valor: lista de quantidades vendidas
+                ));
+    }
+
+    public Map<String, List<Integer>> listarReposicoes() {
+        return operacoes.stream()
+                .filter(operacao -> operacao.getTipoOperacao().equalsIgnoreCase("Reposição"))
+                .collect(Collectors.groupingBy(
+                        operacao -> encontrarProduto(operacao.getIdProduto()).getNome(),   // chave: nome do produto
+                        Collectors.mapping(Operacao::getQuantidade, Collectors.toList())   // valor: lista de quantidades repostas
+                ));
+    }
+
     private void registrarOperacao(String tipo, Produto produto, int quantidade, String idThread, double precoUnitario) {
-        Date dataAtual = new Date();
         Operacao operacao = new Operacao(
 
                 UUID.randomUUID(),
                 tipo,
                 produto.getId(),
                 quantidade,
-                dataAtual,
+                LocalDateTime.now(),
                 produto.getPrecoVenda() * quantidade
         );
         operacoes.add(operacao);

@@ -2,22 +2,32 @@ package Repositorios;
 
 import Beans.Operacao;
 
+import java.util.ArrayList;
 import java.util.List;
 import java.util.UUID;
 import java.util.stream.Collectors;
 
 public class RepositorioOperacao
 {
+    private static RepositorioOperacao instanciaUnica;
     private final List<Operacao> operacoes;
 
     public RepositorioOperacao(List<Operacao> operacoes) {
         this.operacoes = operacoes;
     }
 
+
+    public static synchronized RepositorioOperacao getInstancia() {
+        if (instanciaUnica == null) {
+            instanciaUnica = new RepositorioOperacao(instanciaUnica.listarOperacoes());
+        }
+        return instanciaUnica;
+    }
+
     public void adicionarOperacao(Operacao operacao)
     {
         operacoes.add(operacao);
-        System.out.println("Operacao adicionada: " + operacao);
+        System.out.println("Operação adicionada: " + operacao);
     }
 
     public Operacao buscarPorId(UUID idOperacao)
@@ -29,7 +39,7 @@ public class RepositorioOperacao
                 return operacao;
             }
         }
-        System.out.println("Operacção não encontrada com o ID: " + idOperacao);
+        System.out.println("Operação não encontrada com o ID: " + idOperacao);
         return null;
     }
     public boolean atualizarOperacao(UUID idOperacao, int novaQuantidade) {
@@ -68,5 +78,10 @@ public class RepositorioOperacao
     public int contarOperacoes() {
         return operacoes.size();
     }
+
+    public List<Operacao> listarOperacoes() {
+        return new ArrayList<>(operacoes);
+    }
+
 
 }
