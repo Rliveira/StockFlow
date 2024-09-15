@@ -1,26 +1,26 @@
 package Beans;
 
+import Repositorios.RepositorioOperacao;
+
 import java.io.*;
-import java.time.LocalDate;
 import java.time.LocalDateTime;
 import java.util.*;
-import java.util.stream.Collectors;
 
-public class Estoque {
-
+public class Estoque implements Serializable{
+    private static final long serialVersionUID = 3L;
     private static Estoque instanciaUnica;
-    private final List<Produto> produtos;
-    private final List<Operacao> operacoes;
-
-    //TODO: fazer o CRUD dos produtos no estoque.
+    private List<Produto> produtos;
+    private RepositorioOperacao repositorioOperacao;
 
     // CONSTRUTOR:
-    public Estoque() {
+    private Estoque() {
         this.produtos = new ArrayList<>();
-        this.operacoes = new ArrayList<>();
+        this.repositorioOperacao = RepositorioOperacao.getInstancia();
+        lerArquivo();
     }
 
-    public static synchronized Estoque getInstancia()
+    //SINGLETON:
+    public static Estoque getInstancia()
     {
         if (instanciaUnica == null) {
             instanciaUnica = new Estoque();
@@ -29,41 +29,52 @@ public class Estoque {
     }
 
     public void adicionarProduto(Produto produto) {
-        produtos.add(produto);
-        salvarParaArquivo();
+        boolean contemNomesIguais = verificarProdutosComNomesIguais(produto.getNome());
+
+        if(!contemNomesIguais){
+            produtos.add(produto);
+            salvarParaArquivo();
+        }
+        else{
+            System.out.println("Produto já cadastrado no sistema.");
+        }
     }
 
     public void removerProduto(Produto produto){
-        Produto produto1 = encontrarProduto(produto.getId());
+        Produto produto1 = buscarProduto(produto.getId());
 
         if(produto1 != null){
             produtos.remove(produto1);
             salvarParaArquivo();
         }
+        else{
+            System.out.println("Produto não cadastrado no sistema.");
+        }
     }
 
-    public void editarProduto(Produto produto, String novoNome, double novoPrecoCompra, Double novoPrecoVenda){
-        Produto produto1 = encontrarProduto(produto.getId());
+    public void editarProduto(Produto produto, String novoNome){
+        Produto produto1 = buscarProduto(produto.getId());
 
         if(produto1 != null){
             produto1.setNome(novoNome);
             produto1.setPrecoCompra(novoPrecoCompra);
             produto1.setPrecoVenda(novoPrecoVenda);
             salvarParaArquivo();
+            System.out.println("Produto editado com sucesso!");
+        } else {
+            System.out.println("Produto não encontrado.");
         }
     }
 
-    public void repor(UUID id, int quantidadeReposta, String idThread) {
-        Produto produto = encontrarProduto(id);
+    public void repor(Produto produto, int quantidadeReposta, double precoUnitario) {
 
         if (produto != null) {
             int novaQuantidade = produto.getQuantidade() + quantidadeReposta;
             produto.setQuantidade(novaQuantidade);
-            System.out.println("Reposto: " + quantidadeReposta + " unidades de " + produto.getNome()
-                    + ".\nEstoque atual: " + novaQuantidade + "\nExecutado pela thread: " + idThread + '\n');
 
-            registrarOperacao("Reposição", produto, quantidadeReposta, idThread, produto.getPrecoCompra());
-
+            Operacao operacao = new Operacao("Reposição", produto.getId(), quantidadeReposta,
+                                             LocalDateTime.now(), precoUnitario);
+            repositorioOperacao.adicionarOperacao(operacao);
             salvarParaArquivo();
 
         } else {
@@ -71,17 +82,16 @@ public class Estoque {
         }
     }
 
-    public void retirar(UUID id, int quantidadeVendida, String idThread) {
-        Produto produto = encontrarProduto(id);
+    public void retirar(Produto produto, int quantidadeRetirada, double precoUnitario) {
 
         if (produto != null) {
-            if (produto.getQuantidade() >= quantidadeVendida) {
-                int novaQuantidade = produto.getQuantidade() - quantidadeVendida;
+            if (produto.getQuantidade() >= quantidadeRetirada) {
+                int novaQuantidade = produto.getQuantidade() - quantidadeRetirada;
                 produto.setQuantidade(novaQuantidade);
-                System.out.println("Vendido: " + quantidadeVendida + " unidades de " + produto.getNome()
-                        + ".\nEstoque atual: " + novaQuantidade + "\nExecutado pela thread: " + idThread + '\n');
 
-                registrarOperacao("Venda", produto, quantidadeVendida, idThread, produto.getPrecoVenda());
+                Operacao operacao = new Operacao("Retirada", produto.getId(), quantidadeRetirada,
+                        LocalDateTime.now(), precoUnitario);
+                repositorioOperacao.adicionarOperacao(operacao);
                 salvarParaArquivo();
             } else {
                 System.out.println("Estoque insuficiente para " + produto.getNome());
@@ -91,7 +101,7 @@ public class Estoque {
         }
     }
 
-    public Produto encontrarProduto(UUID id) {
+    public Produto buscarProduto(UUID id) {
         boolean achou = false;
         Produto produtoEncontrado = null;
 
@@ -104,55 +114,22 @@ public class Estoque {
         return produtoEncontrado;
     }
 
-    public Map<String, List<Integer>> listarVendas() {
-        return operacoes.stream()
-                .filter(operacao -> operacao.getTipoOperacao().equalsIgnoreCase("Venda"))
-                .collect(Collectors.groupingBy(
-                        operacao -> encontrarProduto(operacao.getIdProduto()).getNome(),   // chave: nome do produto
-                        Collectors.mapping(Operacao::getQuantidade, Collectors.toList())   // valor: lista de quantidades vendidas
-                ));
-    }
+    public boolean verificarProdutosComNomesIguais(String nome){
+        boolean contemNomeIgual = false;
 
-    public Map<String, List<Integer>> listarReposicoes() {
-        return operacoes.stream()
-                .filter(operacao -> operacao.getTipoOperacao().equalsIgnoreCase("Reposição"))
-                .collect(Collectors.groupingBy(
-                        operacao -> encontrarProduto(operacao.getIdProduto()).getNome(),   // chave: nome do produto
-                        Collectors.mapping(Operacao::getQuantidade, Collectors.toList())   // valor: lista de quantidades repostas
-                ));
-    }
-
-    private void registrarOperacao(String tipo, Produto produto, int quantidade, String idThread, double precoUnitario) {
-        Operacao operacao = new Operacao(
-
-                UUID.randomUUID(),
-                tipo,
-                produto.getId(),
-                quantidade,
-                LocalDateTime.now(),
-                produto.getPrecoVenda() * quantidade
-        );
-        operacoes.add(operacao);
-        salvarOperacoesParaArquivo();
-    }
-
-    public void salvarOperacoesParaArquivo() {
-        try (BufferedWriter writer = new BufferedWriter(new FileWriter("operacoes.txt"))) {
-            for (Operacao operacao : operacoes) {
-                writer.write(operacao.toString());
-                writer.newLine();
+        for(int i = 0; i < produtos.size() && !contemNomeIgual; i++){
+            if(produtos.get(i).getNome().equals(nome)){
+                contemNomeIgual = true;
             }
-            System.out.println("Operações salvas com sucesso em operacoes.txt");
-        } catch (IOException e) {
-            System.out.println("Erro ao salvar as operações: " + e.getMessage());
         }
+
+        return contemNomeIgual;
     }
 
     public void salvarParaArquivo() {
         try (BufferedWriter writer = new BufferedWriter(new FileWriter("estoque.txt"))) {
             for (Produto produto : produtos) {
-                writer.write(produto.getId() + "," + produto.getNome() + "," + produto.getPrecoCompra() + ","
-                        + produto.getPrecoVenda() + "," + produto.getQuantidade());
+                writer.write(produto.getId() + "," + produto.getNome() + "," + produto.getQuantidade());
                 writer.newLine();
             }
             System.out.println("Estoque salvo com sucesso em estoque.txt");
@@ -161,21 +138,21 @@ public class Estoque {
         }
     }
 
-    // Método para ler o estoque de um arquivo
-    public void lerDeArquivo() {
+    public void lerArquivo() {
         produtos.clear(); // Limpa o estoque atual antes de carregar do arquivo
         try (BufferedReader reader = new BufferedReader(new FileReader("estoque.txt"))) {
-
             String linha;
+
+            //Loop lê linha por linha de estoque.txt, pegando os atributos salvos,
+            //convertendo de string para os tipos correspondentes e cria o objeto produto.
             while ((linha = reader.readLine()) != null) {
                 String[] dados = linha.split(",");
                 UUID id = UUID.fromString(dados[0]);
                 String nome = dados[1];
-                double precoCompra = Double.parseDouble(dados[2]);
-                double precoVenda = Double.parseDouble(dados[3]);
-                int quantidade = Integer.parseInt(dados[4]);
+                int quantidade = Integer.parseInt(dados[2]);
 
-                Produto produto = new Produto(nome, quantidade, precoCompra, precoVenda);
+                Produto produto = new Produto(nome);
+                produto.setQuantidade(quantidade);
                 produto.setId(id);
                 produtos.add(produto);
             }
