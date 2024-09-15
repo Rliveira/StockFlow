@@ -1,34 +1,37 @@
 package Beans;
 
+import java.io.Serializable;
 import java.time.LocalDateTime;
-import java.util.Date;
 import java.util.UUID;
 
-public class Operacao
+public class Operacao implements Serializable
 {
+    private static final long serialVersionUID = 2L;
     private UUID idOperacao;
-    private String tipoOperacao;
+    private String tipoOperacao; //reposição ou retirada
     private UUID idProduto;
     private int quantidade;
     private LocalDateTime dataOperacao;
+    private double valorUnitario;
 
-    private double valor;
-
-    public Operacao(UUID idOperacao, String tipoOperacao, UUID idProduto, int quantidade, LocalDateTime dataOperacao, double valor) {
-        this.idOperacao = idOperacao;
+    //CONSTRUTOR:
+    public Operacao(String tipoOperacao, UUID idProduto, int quantidade, LocalDateTime dataOperacao,
+                    double valor) {
+        this.idOperacao = UUID.randomUUID();
         this.tipoOperacao = tipoOperacao;
         this.idProduto = idProduto;
         this.quantidade = quantidade;
         this.dataOperacao = dataOperacao;
-        this.valor = valor;
+        this.valorUnitario = valor;
     }
 
-    public double getValor() {
-        return valor;
+    //GETS AND SETS:
+    public double getValorUnitario() {
+        return valorUnitario;
     }
 
-    public void setValor(double valor) {
-        this.valor = valor;
+    public void setValorUnitario(double valorUnitario) {
+        this.valorUnitario = valorUnitario;
     }
 
     public UUID getIdOperacao() {
@@ -80,6 +83,7 @@ public class Operacao
                 ", idProduto=" + idProduto +
                 ", quantidade=" + quantidade +
                 ", dataOperacao=" + dataOperacao +
+                ", valorUnitario = " + valorUnitario +
                 '}';
     }
 }

@@ -1,24 +1,20 @@
 package Beans;
 
+import java.io.Serializable;
 import java.util.UUID;
 
-public class Produto {
+public class Produto implements Serializable {
+    private static final long serialVersionUID = 1L;
     private UUID id;
     private String nome;
     private int quantidade;
-    private double precoCompra;
-    private double precoVenda;
 
     //CONSTRUTOR:
-    public Produto(String nome, int quantidadeInicial, double precoCompra, double precoVenda) {
+    public Produto(String nome) {
         this.id = UUID.randomUUID();
         this.nome = nome;
-        this.quantidade = quantidadeInicial;
-        this.precoCompra = precoCompra;
-        this.precoVenda = precoVenda;
+        this.quantidade = 0;
     }
-
-
 
     //GETs AND SETs:
     public UUID getId() {
@@ -45,19 +41,12 @@ public class Produto {
         this.quantidade = quantidade;
     }
 
-    public double getPrecoCompra() {
-        return precoCompra;
-    }
-
-    public void setPrecoCompra(double precoCompra) {
-        this.precoCompra = precoCompra;
-    }
-
-    public double getPrecoVenda() {
-        return precoVenda;
-    }
-
-    public void setPrecoVenda(double precoVenda) {
-        this.precoVenda = precoVenda;
+    @Override
+    public String toString() {
+        return "Produto{" +
+                "id =" + id +
+                ", nome ='" + nome + '\'' +
+                ", quantidade =" + quantidade +
+                '}';
     }
 }
