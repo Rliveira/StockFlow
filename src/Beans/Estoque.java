@@ -57,8 +57,6 @@ public class Estoque implements Serializable{
 
         if(produto1 != null){
             produto1.setNome(novoNome);
-            produto1.setPrecoCompra(novoPrecoCompra);
-            produto1.setPrecoVenda(novoPrecoVenda);
             salvarParaArquivo();
             System.out.println("Produto editado com sucesso!");
         } else {
