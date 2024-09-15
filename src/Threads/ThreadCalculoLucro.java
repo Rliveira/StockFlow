@@ -1,53 +1,50 @@
 package Threads;
 
-import Beans.Estoque;
-import Beans.Operacao;
 import Beans.Produto;
+import Exceptions.OperacoesInsuficientesException;
 import Repositorios.RepositorioOperacao;
 
-import java.util.List;
-import java.util.Map;
-import java.util.UUID;
-
 public class ThreadCalculoLucro extends Thread {
-    private Estoque estoque;
+    private String idThread;
     private RepositorioOperacao repositorioOperacoes;
+    private Produto produto;
 
-    // Construtor
-    public ThreadCalculoLucro() {
-        this.estoque = Estoque.getInstancia();
-        this.repositorioOperacoes = RepositorioOperacao.getInstancia();
+    // CONSTRUTOR:
+    public ThreadCalculoLucro(String idThread, RepositorioOperacao repositorioOperacao) {
+        this.idThread = idThread;
+        this.repositorioOperacoes = repositorioOperacao;
+        this.produto = null;
     }
 
+    //MÉTODOS:
     @Override
     public void run() {
-        System.out.println("=== Cálculo de Lucro Iniciado ===");
-
-        double lucroTotal = calcularLucro();
-        System.out.println("Lucro total gerado pelas vendas: R$ " + lucroTotal);
-
-        System.out.println("=== Cálculo de Lucro Concluído ===");
-    }
-
-    public double calcularLucro() {
-        double lucroTotal = 0;
-
-        for (Operacao operacao : repositorioOperacoes.listarOperacoes())
-        {
-            if (operacao.getTipoOperacao().equalsIgnoreCase("Venda"))
-            {
-                double precoVenda = operacao.getValor();
-
-                double precoCompra = operacao.getQuantidade() * getPrecoCompraPorProduto(operacao.getIdProduto());
-                lucroTotal += (precoVenda - precoCompra);
+        if (produto != null) {
+            try {
+                double lucro = repositorioOperacoes.calcularLucroPorProduto(produto);
+                System.out.println("Lucro calculado para o produto " + produto.getNome() + ": " + lucro);
+            } catch (OperacoesInsuficientesException e) {
+                System.out.println(e.getMessage()); //imprime a mensagem de err caso a excessão seja levantada
             }
+        } else {
+            System.out.println("Produto não definido para a thread " + idThread);
         }
-        return lucroTotal;
     }
 
-    private double getPrecoCompraPorProduto(UUID produtoId) {
+    //GETS AND SETS:
+    public String getIdThread() {
+        return idThread;
+    }
 
-        Produto produto = Estoque.getInstancia().encontrarProduto(produtoId);
-        return produto != null ? produto.getPrecoCompra() : 0;
+    public RepositorioOperacao getRepositorioOperacoes() {
+        return repositorioOperacoes;
+    }
+
+    public Produto getProduto() {
+        return produto;
+    }
+
+    public void setProduto(Produto produto) {
+        this.produto = produto;
     }
 }

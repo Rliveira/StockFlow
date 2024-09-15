@@ -1,58 +1,71 @@
 package Threads;
 
 import Beans.Estoque;
+import Beans.Operacao;
 import Beans.Produto;
+import Repositorios.RepositorioOperacao;
 
 import java.util.List;
 import java.util.Map;
+import java.util.stream.Collectors;
 
 public class ThreadPrevisaoDemanda extends Thread
 {
-    private final Estoque estoque;
+    private String idThread;
+    private Produto produto;
+    private String tipoOperacao;
+    private RepositorioOperacao repositorioOperacao;
 
-    public ThreadPrevisaoDemanda(Estoque estoque)
+    //CONSTRUTOR:
+    public ThreadPrevisaoDemanda(String id, RepositorioOperacao repositorioOperacao)
     {
-        this.estoque = estoque;
+        //o produto e o tipo de operação são constantemente atualizados no código.
+        this.idThread = id;
+        this.produto = null;
+        this.tipoOperacao = "";
+        this.repositorioOperacao = repositorioOperacao;
     }
 
+    //MÉTODOS:
     @Override
     public void run()
     {
-        System.out.println("=== Previsão de Demanda Iniciada ===");
-
-        for(Produto produto : estoque.getProdutos())
-        {
-            double demandaPrevista = calcularDemandaPrevista(produto);
+        if(produto != null){
+            double demandaPrevista = repositorioOperacao.calcularDemandaPrevista(produto, tipoOperacao);
             System.out.println("Demanda prevista para o produto: " + produto.getNome() + ": "+ demandaPrevista + " unidades.");
+        } else {
+            System.out.println("Produto não definido para a thread " + idThread);
         }
 
-        System.out.println("=== Previsão de Demanda Concluída");
     }
 
-    private double calcularDemandaPrevista(Produto produto) {
-        Map<String, List<Integer>> historicoVendas = estoque.listarVendas();
-        List<Integer> vendasProduto = historicoVendas.get(produto.getNome());
+    //GETs and SETs:
 
-        if (vendasProduto == null || vendasProduto.size() < 2) {
-            System.out.println("Histórico insuficiente para o produto: " + produto.getNome());
-            return 0;
-        }
+    public String getIdThread() {
+        return idThread;
+    }
 
-        double somaVendas = vendasProduto.stream().mapToInt(Integer::intValue).sum();
-        double mediaVendas = somaVendas / vendasProduto.size();
+    public Produto getProduto() {
+        return produto;
+    }
 
-        double somaTaxaCrescimento = 0;
-        for (int i = 1; i < vendasProduto.size(); i++) {
-            int vendasDiaAtual = vendasProduto.get(i);
-            int vendasDiaAnterior = vendasProduto.get(i - 1);
+    public void setProduto(Produto produto) {
+        this.produto = produto;
+    }
 
-            if (vendasDiaAnterior != 0) {
-                double taxaCrescimento = (double) (vendasDiaAtual - vendasDiaAnterior) / vendasDiaAnterior;
-                somaTaxaCrescimento += taxaCrescimento;
-            }
-        }
+    public String getTipoOperacao() {
+        return tipoOperacao;
+    }
 
-        double taxaCrescimentoMedia = somaTaxaCrescimento / (vendasProduto.size() - 1);
-        return mediaVendas * (1 + taxaCrescimentoMedia);
+    public void setTipoOperacao(String tipoOperacao) {
+        this.tipoOperacao = tipoOperacao;
+    }
+
+    public RepositorioOperacao getRepositorioOperacao() {
+        return repositorioOperacao;
+    }
+
+    public void setRepositorioOperacao(RepositorioOperacao repositorioOperacao) {
+        this.repositorioOperacao = repositorioOperacao;
     }
 }
