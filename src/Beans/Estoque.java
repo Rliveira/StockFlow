@@ -138,7 +138,7 @@ public class Estoque implements Serializable{
 
     public void lerArquivo() {
         produtos.clear(); // Limpa o estoque atual antes de carregar do arquivo
-        try (BufferedReader reader = new BufferedReader(new FileReader("estoque.txt"))) {
+        try (BufferedReader reader = new BufferedReader(new FileReader("Estoque500.txt"))) {
             String linha;
 
             //Loop lê linha por linha de estoque.txt, pegando os atributos salvos,
