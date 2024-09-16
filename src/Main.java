@@ -2,7 +2,9 @@ import Beans.Estoque;
 import Beans.Operacao;
 import Beans.Produto;
 import Repositorios.RepositorioOperacao;
+import Threads.ThreadAlertaEstoqueBaixo;
 import Threads.ThreadCalculoLucro;
+import Threads.ThreadCalculoTempoEsgotamento;
 import Threads.ThreadPrevisaoDemanda;
 
 
@@ -16,6 +18,8 @@ public class Main {
     // Constantes para configuração (por enquanto sem nada definido)
     private static final int QTD_THREADS_PREVISAO_DEMANDA = 3;
     private static final int QTD_THREADS_CALCULO_LUCRO = 2;
+    private static final int QTD_THREADS_ESTOQUE_BAIXO = 1;
+    private static final int  QTD_THREADS_CALCULO_ESGOTAMENTO = 1;
 
     private static Thread[][] matrizDeThreads;
 
@@ -25,6 +29,8 @@ public class Main {
 
         Thread[] threadsPrevisaoDemanda = new Thread[QTD_THREADS_PREVISAO_DEMANDA];
         Thread[] threadsCalculoLucro = new Thread[QTD_THREADS_CALCULO_LUCRO];
+        Thread[] threadsAlertaEstoqueBaixo = new Thread[QTD_THREADS_ESTOQUE_BAIXO];
+        Thread[] threadsCalculoEsgotamento = new Thread[QTD_THREADS_CALCULO_ESGOTAMENTO];
 
         //criação das threads de ThreadPrevisãoDemanda
         for (int i = 0; i < QTD_THREADS_PREVISAO_DEMANDA; i++){
@@ -36,11 +42,23 @@ public class Main {
             threadsCalculoLucro[i] = new ThreadCalculoLucro((i + 1) + ". T-CL" , repositorioOperacao);
         }
 
+        //criação das threads de ThreadAlertaEstoqueBaixo
+        for (int i = 0; i < QTD_THREADS_ESTOQUE_BAIXO; i++){
+            threadsAlertaEstoqueBaixo[i] = new ThreadAlertaEstoqueBaixo((i + 1) + ". T-EB" ,repositorioOperacao, estoque);
+        }
+
+        //criação das threads de ThreadCalculoEsgotamento
+        for (int i = 0; i < QTD_THREADS_CALCULO_ESGOTAMENTO; i++){
+            threadsAlertaEstoqueBaixo[i] = new ThreadCalculoTempoEsgotamento((i + 1) + ".T-CE", estoque, repositorioOperacao);
+        }
+
         //todo: fazer a criação das outras threads aqui.
 
-        matrizDeThreads = new Thread[2][]; // se for criar mais de 2 arrays de threads precisa atualizar esse valor 2 aqui
+        matrizDeThreads = new Thread[4][]; // se for criar mais de 2 arrays de threads precisa atualizar esse valor 2 aqui
         matrizDeThreads[0] = threadsPrevisaoDemanda;
         matrizDeThreads[1] = threadsCalculoLucro;
+        matrizDeThreads[2] = threadsAlertaEstoqueBaixo;
+        matrizDeThreads[3] = threadsCalculoEsgotamento;
 
         //todo: adicionar os outros arrays criados de threads na matriz de threads aqui
 
@@ -274,6 +292,7 @@ public class Main {
 
                 if (valorUnitario > ultimaReposicao.getValorUnitario()) {
                     estoque.retirar(produtoSelecionado, quantidade, valorUnitario);
+                    verificarEstoqueBaixo(matrizDeThreads[2], estoque, repositorioOperacao);
                     System.out.println("Retirada realizada com sucesso.");
                 } else {
                     System.out.println("Erro: o valor unitário inserido deve ser maior do que o valor unitário" +
@@ -313,7 +332,8 @@ public class Main {
         System.out.println("| 1 | Prever demanda de reposição de todos os produtos.         |");
         System.out.println("| 2 | Prever demanda de retirada de todos os produtos.          |");
         System.out.println("| 3 | Calcular lucro total a partir das operações.              |");
-        System.out.println("| 4 | Voltar ao menu principal.                                 |");
+        System.out.println("| 4 | Calcular tempo de esgotamento dos produtos.               |");
+        System.out.println("| 5 | Voltar ao menu principal.                                 |");
         System.out.println("+===============================================================+");
         System.out.print("\nEscolha uma opção: ");
 
@@ -321,6 +341,7 @@ public class Main {
 
         Thread[] threadsPrevisaoDemanda = matrizDeThreads[0];
         Thread[] threadsCalculoLucro = matrizDeThreads[1];
+        Thread[] threadsCalculoEsgotamento = matrizDeThreads[3]; // Adicione outros arrays de threads se necessário
         // Adicione outros arrays de threads se necessário
 
         switch (opcao)
@@ -341,7 +362,8 @@ public class Main {
                 break;
 
             case 4:
-                menuPrincipal(estoque);
+                calcularEsgotamento();
+                menuRelatoriosEEstatisticas(estoque, matrizDeThreads);
                 break;
 
             default:
@@ -413,6 +435,31 @@ public class Main {
         }
     }
 
+    private static void calcularEsgotamento() {
+        for (Thread thread : matrizDeThreads[3]) {
+            if (thread instanceof ThreadCalculoTempoEsgotamento) {
+                thread.start();
+                try {
+                    thread.join();
+                } catch (InterruptedException e) {
+                    System.out.println("Erro ao aguardar conclusão da thread de esgotamento: " + e.getMessage());
+                }
+            }
+        }
+    }
+
+    public static void verificarEstoqueBaixo(Thread[] threads, Estoque estoque, RepositorioOperacao repositorioOperacao) {
+        threads[0].start();
+
+        try {
+            threads[0].join(); // Espera a thread terminar antes de continuar
+        } catch (InterruptedException e) {
+            System.out.println("Erro ao aguardar a conclusão da verificação de estoque: " + e.getMessage());
+        }
+    }
+
+
+
     private static void menuOperacoes(Estoque estoque, RepositorioOperacao repositorioOperacao)
     {
         Scanner scanner = new Scanner(System.in);
@@ -433,13 +480,13 @@ public class Main {
         {
             case 1:
                 List<Operacao> operacoesDeReposicao = repositorioOperacao.listarOperacoesPorTipo("Reposição");
-                imprimirListaOperacoes(operacoesDeReposicao, estoque);
+                imprimirListaOperacoes(operacoesDeReposicao);
                 menuOperacoes(estoque, repositorioOperacao);
                 break;
 
             case 2:
                 List<Operacao> operacoesDeRetirada = repositorioOperacao.listarOperacoesPorTipo("Retirada");
-                imprimirListaOperacoes(operacoesDeRetirada, estoque);
+                imprimirListaOperacoes(operacoesDeRetirada);
                 menuOperacoes(estoque, repositorioOperacao);
                 break;
 
@@ -457,7 +504,7 @@ public class Main {
                 } else
                 {
                     List<Operacao> operacoes = repositorioOperacao.listarOperacoesPorProduto(produtoSelecionado.getId());
-                    imprimirListaOperacoes(operacoes, estoque);
+                    imprimirListaOperacoes(operacoes);
                     menuOperacoes(estoque, repositorioOperacao);
                 }
                 break;
@@ -481,7 +528,7 @@ public class Main {
             // Se não houver preço de compra ainda, então retorna "N/A"
             String precoUnitario = (ultimaReposicao != null) ? String.format("%.2f", ultimaReposicao.getValorUnitario()) : "N/A";
 
-            System.out.printf("| %d - %-30s | Preço Unitário: %-10s |\n", i, produto.getNome(), precoUnitario);
+            System.out.printf("| %d - %-28s | Preço Unitário: %-7s |\n", i, produto.getNome(), precoUnitario);
         }
         System.out.println("+------------------------------------------------------------+");
     }
@@ -497,7 +544,7 @@ public class Main {
         return produto;
     }
 
-    public static void imprimirListaOperacoes(List<Operacao> operacoes, Estoque estoque)
+    public static void imprimirListaOperacoes(List<Operacao> operacoes)
     {
         final int largura = 60;
 

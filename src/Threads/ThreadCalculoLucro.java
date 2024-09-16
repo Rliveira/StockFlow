@@ -24,7 +24,7 @@ public class ThreadCalculoLucro extends Thread {
                 double lucro = repositorioOperacoes.calcularLucroPorProduto(produto);
                 System.out.println("Lucro calculado para o produto " + produto.getNome() + ": " + lucro);
             } catch (OperacoesInsuficientesException e) {
-                System.out.println(e.getMessage()); //imprime a mensagem de err caso a excessão seja levantada
+                System.out.println(e.getMessage()); //imprime a mensagem de erro caso a excessão seja levantada
             }
         } else {
             System.out.println("Produto não definido para a thread " + idThread);

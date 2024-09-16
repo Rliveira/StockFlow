@@ -1,6 +1,7 @@
 package Beans;
 
 import Repositorios.RepositorioOperacao;
+import Threads.ThreadAlertaEstoqueBaixo;
 
 import java.io.*;
 import java.time.LocalDateTime;
@@ -89,6 +90,7 @@ public class Estoque implements Serializable{
                         LocalDateTime.now(), precoUnitario);
                 repositorioOperacao.adicionarOperacao(operacao);
                 salvarParaArquivo();
+
             } else {
                 System.out.println("Estoque insuficiente para " + produto.getNome());
             }
