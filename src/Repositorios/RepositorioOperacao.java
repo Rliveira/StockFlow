@@ -127,8 +127,8 @@ public class RepositorioOperacao implements Serializable
 
     public synchronized double calcularLucroPorProduto(Produto produto) throws OperacoesInsuficientesException {
         double lucroTotal;
-        double totalCompras = 0;
-        double totalVendas = 0;
+        double gastoTotalCompras = 0;
+        double gastoTotalVendas = 0;
 
         List<Operacao> operacoesProduto = listarOperacoesPorProduto(produto.getId());
 
@@ -140,12 +140,12 @@ public class RepositorioOperacao implements Serializable
         for (Operacao operacao : operacoesProduto) {
             if (operacao.getTipoOperacao().equals("Reposição")) {
                 temCompra = true;
-                totalCompras += operacao.getValorUnitario() * operacao.getQuantidade();
+                gastoTotalCompras += operacao.getValorUnitario() * operacao.getQuantidade();
             }
 
             else if (operacao.getTipoOperacao().equals("Retirada")) {
                 temVenda = true;
-                totalVendas += operacao.getValorUnitario() * operacao.getQuantidade();
+                gastoTotalVendas += operacao.getValorUnitario() * operacao.getQuantidade();
             }
         }
 
@@ -155,7 +155,7 @@ public class RepositorioOperacao implements Serializable
                     " pois para o cálculo do lucro o produto deve ter ao menos uma operação de reposição e uma de retirada.");
         }
         else{
-            lucroTotal = totalVendas - totalCompras;
+            lucroTotal = gastoTotalVendas - gastoTotalCompras;
         }
 
         return lucroTotal;
@@ -196,7 +196,7 @@ public class RepositorioOperacao implements Serializable
 
                 operacoes.add(operacao);
             }
-            System.out.println("Estoque carregado com sucesso de estoque.txt");
+            System.out.println("Estoque carregado com sucesso de operacoes.txt");
         } catch (IOException e) {
             System.out.println("Erro ao ler o estoque: " + e.getMessage());
         } catch (NumberFormatException e) {
