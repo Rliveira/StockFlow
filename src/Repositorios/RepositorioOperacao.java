@@ -2,6 +2,7 @@ package Repositorios;
 
 import Beans.Operacao;
 import Beans.Produto;
+import Exceptions.HistoricoInsuficienteException;
 import Exceptions.OperacoesInsuficientesException;
 
 import java.io.*;
@@ -85,8 +86,8 @@ public class RepositorioOperacao implements Serializable
         return new ArrayList<>(operacoes);
     }
 
-    public synchronized double calcularDemandaPrevista(Produto produto, String tipoOperacao) {
-        double demandaPrevista = 0;
+    public synchronized int calcularDemandaPrevista(Produto produto, String tipoOperacao) throws HistoricoInsuficienteException {
+        int demandaPrevista = 0;
 
         // Filtra as operações do produto com base no tipo de operação
         List<Operacao> operacoesDoProduto = listarOperacoesPorProduto(produto.getId());
@@ -96,7 +97,9 @@ public class RepositorioOperacao implements Serializable
 
         // Verifica se há histórico suficiente
         if (operacoesFiltradas.size() < 2) {
-            System.out.println("Histórico insuficiente para o produto: " + produto.getNome());
+            String nomeProduto = produto.getNome();
+            throw new HistoricoInsuficienteException("Histórico insuficiente de " + nomeProduto + " para que seja realizada a previsão. \n" +
+                    "O produto deve ter ao menos 2 operações de: " + tipoOperacao + " para que a operação seja realizada.");
         }
         else{
             // Calcula a soma das quantidades
@@ -120,7 +123,7 @@ public class RepositorioOperacao implements Serializable
             double taxaCrescimentoMedia = somaTaxaCrescimento / (operacoesFiltradas.size() - 1);
 
             // Retorna a demanda prevista
-            demandaPrevista = mediaQuantidades * (1 + taxaCrescimentoMedia);
+            demandaPrevista = (int) (mediaQuantidades * (1 + taxaCrescimentoMedia));
         }
         return demandaPrevista;
     }
@@ -162,7 +165,7 @@ public class RepositorioOperacao implements Serializable
     }
 
     public void salvarOperacoesParaArquivo() {
-        try (BufferedWriter writer = new BufferedWriter(new FileWriter("operacoes.txt"))) {
+        try (BufferedWriter writer = new BufferedWriter(new FileWriter("operacoes2.txt"))) {
             for (Operacao operacao : operacoes) {
                 writer.write(operacao.getIdOperacao() + "," + operacao.getTipoOperacao() + "," +
                         operacao.getIdProduto() + "," + operacao.getQuantidade() + "," + operacao.getDataOperacao() +
@@ -177,7 +180,7 @@ public class RepositorioOperacao implements Serializable
 
     public void lerArquivo() {
         operacoes.clear(); // Limpa o estoque atual antes de carregar do arquivo
-        try (BufferedReader reader = new BufferedReader(new FileReader("operacoes.txt"))) {
+        try (BufferedReader reader = new BufferedReader(new FileReader("operacoes2.txt"))) {
             String linha;
 
             //Loop lê linha por linha de operacoes.txt, pegando os atributos salvos,
