@@ -2,6 +2,7 @@ package Beans;
 
 import java.io.Serializable;
 import java.time.LocalDateTime;
+import java.util.List;
 import java.util.UUID;
 
 public class Operacao implements Serializable
@@ -75,15 +76,24 @@ public class Operacao implements Serializable
         this.dataOperacao = dataOperacao;
     }
 
+
+    public void imprimirOperacoes(List<Operacao> operacoes) {
+        System.out.println("+--------------------------------------+------------+------------+");
+        System.out.println("| ID da Operação                       | Tipo       | Valor Total|");
+        System.out.println("+--------------------------------------+------------+------------+");
+
+        for (Operacao operacao : operacoes) {
+            System.out.println(operacao.toString());
+        }
+
+        System.out.println("+--------------------------------------+------------+------------+");
+    }
     @Override
     public String toString() {
-        return "Operacao{" +
-                "idOperacao=" + idOperacao +
-                ", tipoOperacao=" + tipoOperacao +
-                ", idProduto=" + idProduto +
-                ", quantidade=" + quantidade +
-                ", dataOperacao=" + dataOperacao +
-                ", valorUnitario = " + valorUnitario +
-                '}';
+        double valorTotal = quantidade * valorUnitario;
+        return String.format("| %-36s | %-10s | %-10.2f |",
+                idOperacao.toString(),
+                tipoOperacao,
+                valorTotal);
     }
 }

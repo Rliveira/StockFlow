@@ -1,6 +1,7 @@
 package Beans;
 
 import java.io.Serializable;
+import java.util.List;
 import java.util.UUID;
 
 public class Produto implements Serializable {
@@ -41,12 +42,22 @@ public class Produto implements Serializable {
         this.quantidade = quantidade;
     }
 
+    public void imprimirProdutos(List<Produto> produtos) {
+        System.out.println("+--------------------------------------+----------------------+------------+");
+        System.out.println("| ID do Produto                       | Nome do Produto      | Quantidade |");
+        System.out.println("+--------------------------------------+----------------------+------------+");
+
+        for (Produto produto : produtos) {
+            System.out.println(produto.toString());
+        }
+
+        System.out.println("+--------------------------------------+----------------------+------------+");
+    }
     @Override
     public String toString() {
-        return "Produto{" +
-                "id =" + id +
-                ", nome ='" + nome + '\'' +
-                ", quantidade =" + quantidade +
-                '}';
+        return String.format("| %-36s | %-20s | %-10d |",
+                id.toString(),
+                nome,
+                quantidade);
     }
 }

@@ -69,12 +69,10 @@ public class Estoque implements Serializable{
         if (produto != null) {
             int novaQuantidade = produto.getQuantidade() + quantidadeReposta;
             produto.setQuantidade(novaQuantidade);
-
             Operacao operacao = new Operacao("Reposição", produto.getId(), quantidadeReposta,
                                              LocalDateTime.now(), precoUnitario);
             repositorioOperacao.adicionarOperacao(operacao);
             salvarParaArquivo();
-
         } else {
             System.out.println("Produto não encontrado no estoque.");
         }
@@ -165,6 +163,18 @@ public class Estoque implements Serializable{
     //GETS AND SETS
     public List<Produto> getProdutos() {
         return produtos;
+    }
+
+    public void imprimirEstoque() {
+        System.out.println("+--------------------------------------+----------------------+------------+");
+        System.out.println("| ID do Produto                        | Nome do Produto      | Quantidade |");
+        System.out.println("+--------------------------------------+----------------------+------------+");
+
+        for (Produto produto : produtos) {
+            System.out.println(produto.toString());
+        }
+
+        System.out.println("+--------------------------------------+----------------------+------------+");
     }
 
 }

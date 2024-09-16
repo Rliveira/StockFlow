@@ -6,6 +6,7 @@ import Threads.ThreadCalculoLucro;
 import Threads.ThreadPrevisaoDemanda;
 
 
+import java.time.format.DateTimeFormatter;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
@@ -46,32 +47,36 @@ public class Main {
         menuPrincipal(estoque);
     }
 
-    private static void menuPrincipal(Estoque estoque){
+    private static void menuPrincipal(Estoque estoque)
+    {
         Scanner scanner = new Scanner(System.in);
 
-        System.out.println("\n===== Menu Principal =====");
-        System.out.println("1 - Gerenciar Produtos");
-        System.out.println("2 - Gerenciar Estoque");
-        System.out.println("3 - Relatórios e estatísticas");
-        System.out.println("4 - Operações");
-        System.out.println("5 - Sair");
-        System.out.print("Escolha uma opção: ");
+        System.out.println("+===================================================+");
+        System.out.println("|                   Menu Principal                  |");
+        System.out.println("+===================================================+");
+        System.out.println("| 1 | Gerenciar Produtos                            |");
+        System.out.println("| 2 | Gerenciar Estoque                             |");
+        System.out.println("| 3 | Relatórios e Estatísticas                     |");
+        System.out.println("| 4 | Operações                                     |");
+        System.out.println("| 5 | Sair                                          |");
+        System.out.println("+===================================================+");
+        System.out.print("\nEscolha uma opção: ");
 
         int opcao = scanner.nextInt();
 
-        switch (opcao) {
+        switch (opcao)
+        {
             case 1:
                 menuGerenciarProdutos(estoque);
                 break;
             case 2:
-                menuGerenciarEstoque(estoque);
+                menuGerenciarEstoque(estoque, RepositorioOperacao.getInstancia());
                 break;
             case 3:
                 menuRelatoriosEEstatisticas(estoque, matrizDeThreads);
                 break;
             case 4:
-                RepositorioOperacao repositorioOperacao = RepositorioOperacao.getInstancia();
-                menuOperacoes(estoque, repositorioOperacao);
+                menuOperacoes(estoque, RepositorioOperacao.getInstancia());
                 break;
             case 5:
                 System.out.println("Saindo do sistema...");
@@ -81,19 +86,24 @@ public class Main {
         }
     }
 
-    public static void menuGerenciarProdutos(Estoque estoque) {
+    public static void menuGerenciarProdutos(Estoque estoque)
+    {
         Scanner scanner = new Scanner(System.in);
 
-        System.out.println("\n===== Gerenciar Produtos =====");
-        System.out.println("1 - Adicionar Produto");
-        System.out.println("2 - Editar Produto");
-        System.out.println("3 - Remover Produto");
-        System.out.println("4 - Voltar ao Menu Principal");
-        System.out.print("Escolha uma opção: ");
+        System.out.println("+===================================================+");
+        System.out.println("|                Gerenciar Produtos                 |");
+        System.out.println("+===================================================+");
+        System.out.println("| 1 | Adicionar Produto                             |");
+        System.out.println("| 2 | Editar Produto                                |");
+        System.out.println("| 3 | Remover Produto                               |");
+        System.out.println("| 4 | Voltar ao Menu Principal                      |");
+        System.out.println("+===================================================+");
+        System.out.print("\nEscolha uma opção: ");
 
         int opcao = scanner.nextInt();
 
-        switch (opcao) {
+        switch (opcao)
+        {
             case 1:
                 adicionarProduto(estoque);
                 menuGerenciarProdutos(estoque);
@@ -117,8 +127,8 @@ public class Main {
                 System.out.println("Opção inválida, tente novamente.");
                 menuGerenciarProdutos(estoque);
         }
-
     }
+
 
     private static void adicionarProduto(Estoque estoque) {
         Scanner scanner = new Scanner(System.in);
@@ -130,7 +140,8 @@ public class Main {
         estoque.adicionarProduto(produto);
     }
 
-    private static void editarProduto(Estoque estoque) {
+    private static void editarProduto(Estoque estoque)
+    {
         Scanner scanner = new Scanner(System.in);
 
         List<Produto> produtos = estoque.getProdutos();
@@ -150,7 +161,8 @@ public class Main {
         }
     }
 
-    private static void removerProduto(Estoque estoque) {
+    private static void removerProduto(Estoque estoque)
+    {
         Scanner scanner = new Scanner(System.in);
 
         List<Produto> produtos = estoque.getProdutos();
@@ -168,39 +180,49 @@ public class Main {
         }
     }
 
-    private static void menuGerenciarEstoque(Estoque estoque) {
+    private static void menuGerenciarEstoque(Estoque estoque, RepositorioOperacao repositorioOperacao)
+    {
         Scanner scanner = new Scanner(System.in);
 
-        System.out.println("\n===== Gerenciar Estoque =====");
-        System.out.println("1 - Repor Produto");
-        System.out.println("2 - Retirar Produto");
-        System.out.println("3 - mostrar o estoque");
-        System.out.println("4 - Voltar ao Menu Principal");
-        System.out.print("Escolha uma opção: ");
+        System.out.println("+===================================================+");
+        System.out.println("|                 Gerenciar Estoque                 |");
+        System.out.println("+===================================================+");
+        System.out.println("| 1 | Repor Produto                                 |");
+        System.out.println("| 2 | Retirar Produto                               |");
+        System.out.println("| 3 | Mostrar o Estoque                             |");
+        System.out.println("| 4 | Voltar ao Menu Principal                      |");
+        System.out.println("+===================================================+");
+        System.out.print("\nEscolha uma opção: ");
 
         int opcao = scanner.nextInt();
 
-        switch (opcao) {
+        switch (opcao)
+        {
             case 1:
                 reporProduto(estoque);
-                menuGerenciarEstoque(estoque);
+                menuGerenciarEstoque(estoque, RepositorioOperacao.getInstancia());
                 break;
+
             case 2:
-                retirarProduto(estoque);
-                menuGerenciarEstoque(estoque);
-
+                retirarProduto(estoque, RepositorioOperacao.getInstancia());
+                menuGerenciarEstoque(estoque, RepositorioOperacao.getInstancia());
                 break;
+
             case 3:
-                //todo: chamar a função de imprimir o estoque aqui:
-
-                menuGerenciarEstoque(estoque);
+                estoque.imprimirEstoque();
+                menuGerenciarEstoque(estoque, RepositorioOperacao.getInstancia());
                 break;
-            case 5:
+
+            case 4:
                 menuPrincipal(estoque);
+                break;
+
             default:
                 System.out.println("Opção inválida, tente novamente.");
+                menuGerenciarEstoque(estoque, RepositorioOperacao.getInstancia());
         }
     }
+
 
     private static void reporProduto(Estoque estoque) {
         Scanner scanner = new Scanner(System.in);
@@ -224,12 +246,14 @@ public class Main {
         }
     }
 
-    private static void retirarProduto(Estoque estoque) {
+    private static void retirarProduto(Estoque estoque, RepositorioOperacao repositorioOperacao) {
         Scanner scanner = new Scanner(System.in);
         List<Produto> produtos = estoque.getProdutos();
 
+        estoque.imprimirEstoque();
+        System.out.println("\n\n");
         imprimirlistaProdutos(produtos);
-        System.out.println("Digite o valor correspondente ao produto que você deseja repor o estoque: ");
+        System.out.println("Digite o valor correspondente ao produto que você deseja retirar do estoque: ");
         int indice = scanner.nextInt();
 
         Produto produtoSelecionado = buscarProdutoPorIndice(indice, produtos);
@@ -237,33 +261,70 @@ public class Main {
         if (produtoSelecionado == null) {
             System.out.println("Digite um valor válido.");
         } else {
-            System.out.println("Digite a quantidade que você deseja retirar: ");
-            int quantidade = scanner.nextInt();
-            System.out.println("Digite o preço unitário do produto retirado: ");
-            double valorUnitario = scanner.nextDouble();
+            // Buscar a última reposição para esse produto
+            Operacao ultimaReposicao = buscarUltimaReposicao(produtoSelecionado);
 
-            estoque.retirar(produtoSelecionado, quantidade, valorUnitario);
+            if (ultimaReposicao == null) {
+                System.out.println("Nenhuma reposição foi realizada para este produto ainda.");
+            } else {
+                System.out.println("Digite a quantidade que você deseja retirar: ");
+                int quantidade = scanner.nextInt();
+                System.out.println("Digite o preço unitário do produto retirado: ");
+                double valorUnitario = scanner.nextDouble();
+
+                if (valorUnitario > ultimaReposicao.getValorUnitario()) {
+                    estoque.retirar(produtoSelecionado, quantidade, valorUnitario);
+                    System.out.println("Retirada realizada com sucesso.");
+                } else {
+                    System.out.println("Erro: o valor unitário inserido deve ser maior do que o valor unitário" +
+                            " da última reposição (" +
+                            ultimaReposicao.getValorUnitario() + ").");
+                }
+            }
         }
     }
+
+    public static Operacao buscarUltimaReposicao(Produto produto)
+    {
+        List<Operacao> operacoes = RepositorioOperacao.getInstancia().listarOperacoesPorProduto(produto.getId());
+        Operacao ultimaReposicao = null;
+
+        // Percorrer as operações e verificar qual é a última reposição
+        for (Operacao operacao : operacoes)
+        {
+            if (operacao.getTipoOperacao().equals("Reposição"))
+            {
+                if (ultimaReposicao == null || operacao.getDataOperacao().isAfter(ultimaReposicao.getDataOperacao()))
+                {
+                    ultimaReposicao = operacao;
+                }
+            }
+        }
+        return ultimaReposicao;
+    }
+
 
     public static void menuRelatoriosEEstatisticas(Estoque estoque, Thread[][] matrizDeThreads) {
         Scanner scanner = new Scanner(System.in);
 
-        System.out.println("\n===== Relatórios e estatísticas =====");
-        System.out.println("1 - Prever demanda de reposição de todos os produtos.");
-        System.out.println("2 - Prever demanda de retirada de todos os produtos.");
-        System.out.println("3 - ");
-        System.out.println("4 - Voltar ao menu principal");
-        System.out.print("Escolha uma opção: ");
+        System.out.println("+===============================================================+");
+        System.out.println("|                 Relatórios e Estatísticas                     |");
+        System.out.println("+===============================================================+");
+        System.out.println("| 1 | Prever demanda de reposição de todos os produtos.         |");
+        System.out.println("| 2 | Prever demanda de retirada de todos os produtos.          |");
+        System.out.println("| 3 | Calcular lucro total a partir das operações.              |");
+        System.out.println("| 4 | Voltar ao menu principal.                                 |");
+        System.out.println("+===============================================================+");
+        System.out.print("\nEscolha uma opção: ");
 
         int opcao = scanner.nextInt();
 
         Thread[] threadsPrevisaoDemanda = matrizDeThreads[0];
         Thread[] threadsCalculoLucro = matrizDeThreads[1];
-        //todo: declarar os arrays de threads abaixo
+        // Adicione outros arrays de threads se necessário
 
-
-        switch (opcao) {
+        switch (opcao)
+        {
             case 1:
                 preverDemanadaDeProdutosComThreads("Reposição", threadsPrevisaoDemanda, estoque);
                 menuRelatoriosEEstatisticas(estoque, matrizDeThreads);
@@ -285,7 +346,7 @@ public class Main {
 
             default:
                 System.out.println("Opção inválida, tente novamente.");
-                menuGerenciarProdutos(estoque);
+                menuRelatoriosEEstatisticas(estoque, matrizDeThreads);
         }
     }
 
@@ -352,19 +413,24 @@ public class Main {
         }
     }
 
-    private static void menuOperacoes(Estoque estoque, RepositorioOperacao repositorioOperacao) {
+    private static void menuOperacoes(Estoque estoque, RepositorioOperacao repositorioOperacao)
+    {
         Scanner scanner = new Scanner(System.in);
 
-        System.out.println("\n===== Operações e Histórico =====");
-        System.out.println("1 - listar todas as reposições de produtos");
-        System.out.println("2 - listar todas as retiradas de produtos");
-        System.out.println("3 - listar todas operações de um produto ");
-        System.out.println("4. Voltar ao Menu Principal");
-        System.out.print("Escolha uma opção: ");
+        System.out.println("+===============================================================+");
+        System.out.println("|                Operações e Histórico                          |");
+        System.out.println("+===============================================================+");
+        System.out.println("| 1 | Listar todas as reposições de produtos                    |");
+        System.out.println("| 2 | Listar todas as retiradas de produtos                     |");
+        System.out.println("| 3 | Listar todas as operações de um produto                   |");
+        System.out.println("| 4 | Voltar ao Menu Principal                                  |");
+        System.out.println("+===============================================================+");
+        System.out.print("\nEscolha uma opção: ");
 
         int opcao = scanner.nextInt();
 
-        switch (opcao) {
+        switch (opcao)
+        {
             case 1:
                 List<Operacao> operacoesDeReposicao = repositorioOperacao.listarOperacoesPorTipo("Reposição");
                 imprimirListaOperacoes(operacoesDeReposicao, estoque);
@@ -385,28 +451,41 @@ public class Main {
                 int indice = scanner.nextInt();
                 Produto produtoSelecionado = buscarProdutoPorIndice(indice, produtos);
 
-                if(produtoSelecionado == null){
+                if (produtoSelecionado == null)
+                {
                     System.out.println("Selecione uma opção válida.");
-                } else{
+                } else
+                {
                     List<Operacao> operacoes = repositorioOperacao.listarOperacoesPorProduto(produtoSelecionado.getId());
                     imprimirListaOperacoes(operacoes, estoque);
                     menuOperacoes(estoque, repositorioOperacao);
                 }
                 break;
+
             case 4:
                 menuPrincipal(estoque);
                 break;
+
             default:
                 System.out.println("Opção inválida, tente novamente.");
-        }
-
-    }
-
-    private static void imprimirlistaProdutos(List<Produto> produtos){
-        for(int i = 0; i < produtos.size(); i++){
-            System.out.println(i + " - " + produtos.get(i).getNome());
+                menuOperacoes(estoque, repositorioOperacao);
         }
     }
+
+    private static void imprimirlistaProdutos(List<Produto> produtos) {
+        System.out.println("+------------------------------------------------------------+");
+        for (int i = 0; i < produtos.size(); i++) {
+            Produto produto = produtos.get(i);
+            Operacao ultimaReposicao = buscarUltimaReposicao(produto);
+
+            // Se não houver preço de compra ainda, então retorna "N/A"
+            String precoUnitario = (ultimaReposicao != null) ? String.format("%.2f", ultimaReposicao.getValorUnitario()) : "N/A";
+
+            System.out.printf("| %d - %-30s | Preço Unitário: %-10s |\n", i, produto.getNome(), precoUnitario);
+        }
+        System.out.println("+------------------------------------------------------------+");
+    }
+
 
     private static Produto buscarProdutoPorIndice(int indice, List<Produto> produtos){
         Produto produto = null;
@@ -418,18 +497,30 @@ public class Main {
         return produto;
     }
 
-    private static void imprimirListaOperacoes(List<Operacao> operacoes, Estoque estoque){
-        for (Operacao operacao : operacoes){
-            Produto produto = estoque.buscarProduto(operacao.getIdProduto());
+    public static void imprimirListaOperacoes(List<Operacao> operacoes, Estoque estoque)
+    {
+        final int largura = 60;
 
-            System.out.println(
-                    "ID: " + operacao.getIdOperacao() + '\n' +
-                    "Tipo da operacao: " + operacao.getTipoOperacao() + '\n' +
-                    "Produto: " + produto.getNome() + '\n' +
-                    "Quantidade: " + operacao.getQuantidade() + '\n' +
-                    "Data: " + operacao.getDataOperacao() + '\n' +
-                    "Valor unitário: " + operacao.getValorUnitario() + '\n'
-                    );
+        for (Operacao operacao : operacoes) 
+        {
+            String idOperacao = operacao.getIdOperacao().toString();
+            String tipoOperacao = operacao.getTipoOperacao();
+            String idProduto = operacao.getIdProduto().toString();
+            String quantidade = String.valueOf(operacao.getQuantidade());
+            String dataOperacao = operacao.getDataOperacao().format(DateTimeFormatter.ofPattern("dd/MM/yyyy HH:mm:ss"));
+            String valorUnitario = String.format("%.2f", operacao.getValorUnitario());
+            String valorTotal = String.format("%.2f", operacao.getValorUnitario() * operacao.getQuantidade());
+
+            System.out.println("+" + "-".repeat(largura - 2) + "+");
+            System.out.printf("| %-17s : %-36s |\n", "ID da Operação", idOperacao);
+            System.out.printf("| %-17s : %-36s |\n", "Tipo de Operação", tipoOperacao);
+            System.out.printf("| %-17s : %-36s |\n", "ID do Produto", idProduto);
+            System.out.printf("| %-17s : %-36s |\n", "Quantidade", quantidade);
+            System.out.printf("| %-17s : %-36s |\n", "Data da Operação", dataOperacao);
+            System.out.printf("| %-17s : %-36s |\n", "Valor Unitário", valorUnitario);
+            System.out.printf("| %-17s : %-36s |\n", "Valor Total", valorTotal);
+            System.out.println("+" + "-".repeat(largura - 2) + "+");
         }
     }
+
 }
