@@ -56,7 +56,6 @@ public class ThreadCalculoLucro extends Thread implements ThreadProcessamento {
             }
         }
     }
-
     // Atribui um produto e sinaliza a thread para começar a trabalhar.
     @Override
     public synchronized void setProduto(Produto produto) {

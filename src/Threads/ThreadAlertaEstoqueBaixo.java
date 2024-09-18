@@ -8,7 +8,7 @@ import Repositorios.RepositorioOperacao;
 import java.util.List;
 import java.util.Scanner;
 
-public class ThreadAlertaEstoqueBaixo  extends Thread
+public class ThreadAlertaEstoqueBaixo  extends Thread implements ThreadProcessamento
 {
     private String idThread;
     private Estoque estoque;
@@ -28,7 +28,8 @@ public class ThreadAlertaEstoqueBaixo  extends Thread
     public void run() {
         List<Produto> produtos = estoque.getProdutos();
 
-        for (Produto produto : produtos) {
+        for (Produto produto : produtos)
+        {
             double limiteEstoqueBaixo = calcularLimiteEstoqueBaixo(produto);
 
             if (produto.getQuantidade() < limiteEstoqueBaixo) {
@@ -72,5 +73,20 @@ public class ThreadAlertaEstoqueBaixo  extends Thread
         double mediaRetiradas = somaRetiradas / operacoesRetiradas.size();
 
         return mediaRetiradas * 0.15;
+    }
+
+    @Override
+    public String getIdThread() {
+        return null;
+    }
+
+    @Override
+    public void setProduto(Produto produto) {
+
+    }
+
+    @Override
+    public boolean isTemProduto() {
+        return false;
     }
 }

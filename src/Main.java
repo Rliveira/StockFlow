@@ -292,7 +292,7 @@ public class Main {
 
                 if (valorUnitario > ultimaReposicao.getValorUnitario()) {
                     estoque.retirar(produtoSelecionado, quantidade, valorUnitario);
-                    verificarEstoqueBaixo(matrizDeThreads[2], estoque, repositorioOperacao);
+                    verificarEstoqueBaixo(matrizDeThreads[2], estoque);
                     System.out.println("Retirada realizada com sucesso.");
                 } else {
                     System.out.println("Erro: o valor unitário inserido deve ser maior do que o valor unitário" +
@@ -362,7 +362,7 @@ public class Main {
                 break;
 
             case 4:
-                calcularEsgotamento();
+                calcularEsgotamento(threadsCalculoEsgotamento, estoque);
                 menuRelatoriosEEstatisticas(estoque, matrizDeThreads);
                 break;
 
@@ -435,26 +435,98 @@ public class Main {
         }
     }
 
-    private static void calcularEsgotamento() {
-        for (Thread thread : matrizDeThreads[3]) {
+    private static void calcularEsgotamento(Thread[] threads, Estoque estoque)
+    {
+        List<Produto> produtosCopia = new ArrayList<>(estoque.getProdutos()); // faz uma cópia da lista de produtos
+        int numThreads = threads.length;
+
+        for (Thread thread : matrizDeThreads[3])
+        {
             if (thread instanceof ThreadCalculoTempoEsgotamento) {
+
                 thread.start();
-                try {
+                try
+                {
                     thread.join();
                 } catch (InterruptedException e) {
+
                     System.out.println("Erro ao aguardar conclusão da thread de esgotamento: " + e.getMessage());
+                }
+            }
+        }
+
+        while (!produtosCopia.isEmpty())
+        {
+            // loop para iniciar as threads com a lista de produtos
+            for (int i = 0; i < numThreads && !produtosCopia.isEmpty(); i++)
+            {
+                Produto produto = produtosCopia.getFirst();
+                produtosCopia.removeFirst();
+
+                if (threads[i] instanceof ThreadCalculoTempoEsgotamento)
+                {
+                    ((ThreadCalculoTempoEsgotamento) threads[i]).setProduto(produto);
+                }
+                threads[i].start();
+            }
+            // Aguarda todas as threads terminarem de trabalhar para continuar o loop principal
+            for (Thread thread : threads)
+            {
+                try
+                {
+                    thread.join();
+                } catch (InterruptedException e)
+                {
+                    System.out.println("Erro ao aguardar a conclusão das threads: " + e.getMessage());
                 }
             }
         }
     }
 
-    public static void verificarEstoqueBaixo(Thread[] threads, Estoque estoque, RepositorioOperacao repositorioOperacao) {
-        threads[0].start();
+    public static void verificarEstoqueBaixo(Thread[] threads, Estoque estoque)
+    {
+        List<Produto> produtosCopia = new ArrayList<>(estoque.getProdutos()); // faz uma cópia da lista de produtos
+        int numThreads = threads.length;
 
-        try {
-            threads[0].join(); // Espera a thread terminar antes de continuar
-        } catch (InterruptedException e) {
-            System.out.println("Erro ao aguardar a conclusão da verificação de estoque: " + e.getMessage());
+        for (Thread thread : matrizDeThreads[2])
+        {
+            if (thread instanceof ThreadAlertaEstoqueBaixo) {
+                thread.start();
+                try
+                {
+                    thread.join();
+                } catch (InterruptedException e) {
+
+                    System.out.println("Erro ao aguardar conclusão da thread de verificação de estoque: " + e.getMessage());
+                }
+            }
+        }
+
+        while (!produtosCopia.isEmpty())
+        {
+            // loop para iniciar as threads com a lista de produtos
+            for (int i = 0; i < numThreads && !produtosCopia.isEmpty(); i++)
+            {
+                Produto produto = produtosCopia.getFirst();
+                produtosCopia.removeFirst();
+
+                if (threads[i] instanceof ThreadAlertaEstoqueBaixo)
+                {
+                    ((ThreadAlertaEstoqueBaixo) threads[i]).setProduto(produto);
+                }
+                threads[i].start();
+            }
+            // Aguarda todas as threads terminarem de trabalhar para continuar o loop principal
+            for (Thread thread : threads)
+            {
+                try
+                {
+                    thread.join();
+                } catch (InterruptedException e)
+                {
+                    System.out.println("Erro ao aguardar a conclusão das threads: " + e.getMessage());
+                }
+            }
         }
     }
 
