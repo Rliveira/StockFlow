@@ -164,6 +164,30 @@ public class RepositorioOperacao implements Serializable
         return lucroTotal;
     }
 
+    public double calcularLimiteEstoqueBaixo(Produto produto)
+    {
+        List<Operacao> operacoesDoProduto = listarOperacoesPorProduto(produto.getId());
+        List<Operacao> operacoesRetiradas = operacoesDoProduto
+                .stream().filter(operacao -> operacao.getTipoOperacao().equalsIgnoreCase("Retirada"))
+                .toList();
+
+        if(operacoesRetiradas.isEmpty())
+        {
+            return 0;
+        }
+
+        double somaRetiradas = 0;
+
+        for(Operacao operacao : operacoesRetiradas)
+        {
+            somaRetiradas += operacao.getQuantidade();;
+        }
+
+        double mediaRetiradas = somaRetiradas / operacoesRetiradas.size();
+
+        return mediaRetiradas * 0.15;
+    }
+
     public void salvarOperacoesParaArquivo() {
         try (BufferedWriter writer = new BufferedWriter(new FileWriter("operacoes2.txt"))) {
             for (Operacao operacao : operacoes) {
@@ -172,7 +196,7 @@ public class RepositorioOperacao implements Serializable
                         "," + operacao.getValorUnitario());
                 writer.newLine();
             }
-            System.out.println("Operações salvas com sucesso em operacoes.txt");
+            System.out.println("Operações salvas com sucesso em operacoesOriginal.txt");
         } catch (IOException e) {
             System.out.println("Erro ao salvar as operações: " + e.getMessage());
         }
@@ -183,7 +207,7 @@ public class RepositorioOperacao implements Serializable
         try (BufferedReader reader = new BufferedReader(new FileReader("operacoes2.txt"))) {
             String linha;
 
-            //Loop lê linha por linha de operacoes.txt, pegando os atributos salvos,
+            //Loop lê linha por linha de operacoesOriginal.txt, pegando os atributos salvos,
             //convertendo de string para os tipos correspondentes e cria o objeto produto.
             while ((linha = reader.readLine()) != null) {
                 String[] dados = linha.split(",");
@@ -199,7 +223,7 @@ public class RepositorioOperacao implements Serializable
 
                 operacoes.add(operacao);
             }
-            System.out.println("Estoque carregado com sucesso de operacoes.txt");
+            System.out.println("Estoque carregado com sucesso de operacoesOriginal.txt");
         } catch (IOException e) {
             System.out.println("Erro ao ler o estoque: " + e.getMessage());
         } catch (NumberFormatException e) {
