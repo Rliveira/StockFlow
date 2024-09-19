@@ -1,71 +1,33 @@
+package StockFlow;
+
 import Beans.Estoque;
 import Beans.Operacao;
 import Beans.Produto;
 import Repositorios.RepositorioOperacao;
-import Threads.ThreadAlertaEstoqueBaixo;
-import Threads.ThreadCalculoLucro;
-import Threads.ThreadCalculoTempoEsgotamento;
-import Threads.ThreadPrevisaoDemanda;
-
+import Threads.*;
 
 import java.time.format.DateTimeFormatter;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
 
+import static java.lang.Thread.sleep;
+
 public class Main {
 
     // Constantes para configuração (por enquanto sem nada definido)
     private static final int QTD_THREADS_PREVISAO_DEMANDA = 3;
-    private static final int QTD_THREADS_CALCULO_LUCRO = 2;
-    private static final int QTD_THREADS_ESTOQUE_BAIXO = 1;
-    private static final int  QTD_THREADS_CALCULO_ESGOTAMENTO = 1;
-
-    private static Thread[][] matrizDeThreads;
+    private static final int QTD_THREADS_CALCULO_FINANCEIRO = 2;
+    private static final int QTD_THREADS_CALCULO_ESGOTAMENTO = 1;
 
     public static void main(String[] args) {
         Estoque estoque = Estoque.getInstancia();
         RepositorioOperacao repositorioOperacao = RepositorioOperacao.getInstancia();
 
-        Thread[] threadsPrevisaoDemanda = new Thread[QTD_THREADS_PREVISAO_DEMANDA];
-        Thread[] threadsCalculoLucro = new Thread[QTD_THREADS_CALCULO_LUCRO];
-        Thread[] threadsAlertaEstoqueBaixo = new Thread[QTD_THREADS_ESTOQUE_BAIXO];
-        Thread[] threadsCalculoEsgotamento = new Thread[QTD_THREADS_CALCULO_ESGOTAMENTO];
-
-        //criação das threads de ThreadPrevisãoDemanda
-        for (int i = 0; i < QTD_THREADS_PREVISAO_DEMANDA; i++){
-            threadsPrevisaoDemanda[i] = new ThreadPrevisaoDemanda((i + 1) + ". T-PD" , repositorioOperacao);
-        }
-
-        //criação das threads de ThreadCalculoLucro
-        for (int i = 0; i < QTD_THREADS_CALCULO_LUCRO; i++){
-            threadsCalculoLucro[i] = new ThreadCalculoLucro((i + 1) + ". T-CL" , repositorioOperacao);
-        }
-
-        //criação das threads de ThreadAlertaEstoqueBaixo
-        for (int i = 0; i < QTD_THREADS_ESTOQUE_BAIXO; i++){
-            threadsAlertaEstoqueBaixo[i] = new ThreadAlertaEstoqueBaixo((i + 1) + ". T-EB" ,repositorioOperacao, estoque);
-        }
-
-        //criação das threads de ThreadCalculoEsgotamento
-        for (int i = 0; i < QTD_THREADS_CALCULO_ESGOTAMENTO; i++){
-            threadsAlertaEstoqueBaixo[i] = new ThreadCalculoTempoEsgotamento((i + 1) + ".T-CE", estoque, repositorioOperacao);
-        }
-
-        //todo: fazer a criação das outras threads aqui.
-
-        matrizDeThreads = new Thread[4][]; // se for criar mais de 2 arrays de threads precisa atualizar esse valor 2 aqui
-        matrizDeThreads[0] = threadsPrevisaoDemanda;
-        matrizDeThreads[1] = threadsCalculoLucro;
-        matrizDeThreads[2] = threadsAlertaEstoqueBaixo;
-        matrizDeThreads[3] = threadsCalculoEsgotamento;
-
-        //todo: adicionar os outros arrays criados de threads na matriz de threads aqui
-
-        menuPrincipal(estoque);
+        menuPrincipal(estoque, repositorioOperacao);
     }
 
-    private static void menuPrincipal(Estoque estoque)
+    private static void menuPrincipal(Estoque estoque, RepositorioOperacao repositorioOperacao)
     {
         Scanner scanner = new Scanner(System.in);
 
@@ -87,18 +49,23 @@ public class Main {
             case 1:
                 menuGerenciarProdutos(estoque);
                 break;
+
             case 2:
-                menuGerenciarEstoque(estoque, RepositorioOperacao.getInstancia());
+                menuGerenciarEstoque(estoque, repositorioOperacao);
                 break;
+
             case 3:
-                menuRelatoriosEEstatisticas(estoque, matrizDeThreads);
+                menuRelatoriosEEstatisticas(estoque, repositorioOperacao);
                 break;
+
             case 4:
-                menuOperacoes(estoque, RepositorioOperacao.getInstancia());
+                menuOperacoes(estoque, repositorioOperacao);
                 break;
+
             case 5:
                 System.out.println("Saindo do sistema...");
                 break;
+
             default:
                 System.out.println("Opção inválida, tente novamente.");
         }
@@ -138,7 +105,7 @@ public class Main {
                 break;
 
             case 4:
-                menuPrincipal(estoque);
+                menuPrincipal(estoque, RepositorioOperacao.getInstancia());
                 break;
 
             default:
@@ -146,7 +113,6 @@ public class Main {
                 menuGerenciarProdutos(estoque);
         }
     }
-
 
     private static void adicionarProduto(Estoque estoque) {
         Scanner scanner = new Scanner(System.in);
@@ -218,29 +184,28 @@ public class Main {
         {
             case 1:
                 reporProduto(estoque);
-                menuGerenciarEstoque(estoque, RepositorioOperacao.getInstancia());
+                menuGerenciarEstoque(estoque, repositorioOperacao);
                 break;
 
             case 2:
                 retirarProduto(estoque, RepositorioOperacao.getInstancia());
-                menuGerenciarEstoque(estoque, RepositorioOperacao.getInstancia());
+                menuGerenciarEstoque(estoque, repositorioOperacao);
                 break;
 
             case 3:
                 estoque.imprimirEstoque();
-                menuGerenciarEstoque(estoque, RepositorioOperacao.getInstancia());
+                menuGerenciarEstoque(estoque, repositorioOperacao);
                 break;
 
             case 4:
-                menuPrincipal(estoque);
+                menuPrincipal(estoque, repositorioOperacao);
                 break;
 
             default:
                 System.out.println("Opção inválida, tente novamente.");
-                menuGerenciarEstoque(estoque, RepositorioOperacao.getInstancia());
+                menuGerenciarEstoque(estoque, repositorioOperacao);
         }
     }
-
 
     private static void reporProduto(Estoque estoque) {
         Scanner scanner = new Scanner(System.in);
@@ -292,7 +257,7 @@ public class Main {
 
                 if (valorUnitario > ultimaReposicao.getValorUnitario()) {
                     estoque.retirar(produtoSelecionado, quantidade, valorUnitario);
-                    verificarEstoqueBaixo(matrizDeThreads[2], estoque);
+                    verificarEstoqueBaixo(estoque, repositorioOperacao);
                     System.out.println("Retirada realizada com sucesso.");
                 } else {
                     System.out.println("Erro: o valor unitário inserido deve ser maior do que o valor unitário" +
@@ -322,9 +287,51 @@ public class Main {
         return ultimaReposicao;
     }
 
+    public static void verificarEstoqueBaixo(Estoque estoque, RepositorioOperacao repositorioOperacao) {
+        List<Produto> produtos = estoque.getProdutos();
 
-    public static void menuRelatoriosEEstatisticas(Estoque estoque, Thread[][] matrizDeThreads) {
+        for (Produto produto : produtos)
+        {
+            double limiteEstoqueBaixo = repositorioOperacao.calcularLimiteEstoqueBaixo(produto);
+            boolean opcaoInvalida = false;
+            do {
+                if (produto.getQuantidade() < limiteEstoqueBaixo) {
+                    System.out.println("\nAlerta! O estoque do produto " + produto.getNome() + " está baixo: " + produto.getQuantidade() + " unidades.");
+                    System.out.printf("O limite considerado baixo para este produto é: %.2f unidades.\n", limiteEstoqueBaixo);
+                    System.out.print("Deseja repor o estoque deste produto?");
+                    System.out.print("1. Sim");
+                    System.out.print("2. Não");
+                    System.out.println("Escolha uma opção: ");
+                    Scanner scanner = new Scanner(System.in);
+                    int resposta = scanner.nextInt();
+
+                    switch (resposta){
+                        case 1:
+                            System.out.print("Digite a quantidade para repor: ");
+                            int quantidadeRepor = scanner.nextInt();
+                            scanner.nextLine();
+                            System.out.print("Digite o valor unitário: ");
+                            double valorUnitario = scanner.nextDouble();
+                            scanner.nextLine();
+
+                            //Reposição do estoque
+                            estoque.repor(produto, quantidadeRepor, valorUnitario);
+                            System.out.println("Estoque do produto '" + produto.getNome() + "' foi reposto com sucesso.");
+                            break;
+                        case 2:
+                            //não faz nada
+                            break;
+                        default:
+                            opcaoInvalida = true;
+                    }
+                }
+            } while(opcaoInvalida);
+        }
+    }
+
+    public static void menuRelatoriosEEstatisticas(Estoque estoque, RepositorioOperacao repositorioOperacao) {
         Scanner scanner = new Scanner(System.in);
+        Thread[] threads = null;
 
         System.out.println("+===============================================================+");
         System.out.println("|                 Relatórios e Estatísticas                     |");
@@ -339,37 +346,124 @@ public class Main {
 
         int opcao = scanner.nextInt();
 
-        Thread[] threadsPrevisaoDemanda = matrizDeThreads[0];
-        Thread[] threadsCalculoLucro = matrizDeThreads[1];
-        Thread[] threadsCalculoEsgotamento = matrizDeThreads[3]; // Adicione outros arrays de threads se necessário
-        // Adicione outros arrays de threads se necessário
-
         switch (opcao)
         {
             case 1:
-                preverDemanadaDeProdutosComThreads("Reposição", threadsPrevisaoDemanda, estoque);
-                menuRelatoriosEEstatisticas(estoque, matrizDeThreads);
+                threads = criarThreads(estoque, repositorioOperacao, 1);
+                preverDemanadaDeProdutosComThreads("Reposição", threads, estoque);
+                menuRelatoriosEEstatisticas(estoque, repositorioOperacao);
                 break;
 
             case 2:
-                preverDemanadaDeProdutosComThreads("Retirada", threadsPrevisaoDemanda, estoque);
-                menuRelatoriosEEstatisticas(estoque, matrizDeThreads);
+                threads = criarThreads(estoque, repositorioOperacao, 1);
+                preverDemanadaDeProdutosComThreads("Retirada", threads, estoque);
+                menuRelatoriosEEstatisticas(estoque, repositorioOperacao);
                 break;
 
             case 3:
-                calcularLucroComThreads(threadsCalculoLucro, estoque);
-                menuRelatoriosEEstatisticas(estoque, matrizDeThreads);
+                threads = criarThreads(estoque, repositorioOperacao, 2);
+                calcularFinanceiroComThreads(threads, estoque);
+                menuRelatoriosEEstatisticas(estoque , repositorioOperacao);
                 break;
 
             case 4:
-                calcularEsgotamento(threadsCalculoEsgotamento, estoque);
-                menuRelatoriosEEstatisticas(estoque, matrizDeThreads);
+                threads = criarThreads(estoque, repositorioOperacao, 3);
+                calcularEsgotamento(threads, estoque);
+                menuRelatoriosEEstatisticas(estoque, repositorioOperacao);
+                break;
+            case 5:
+                menuPrincipal(estoque, repositorioOperacao);
                 break;
 
             default:
                 System.out.println("Opção inválida, tente novamente.");
-                menuRelatoriosEEstatisticas(estoque, matrizDeThreads);
+                menuRelatoriosEEstatisticas(estoque, repositorioOperacao);
         }
+    }
+
+    private static boolean jafoiCriadoThreadDemanda = false;
+    private static boolean jafoiCriadoThreadFinanceiro = false;
+    private static boolean jaFoiCriadoThreadEsgotamento = false;
+
+    private static Thread[] threadsEsgotamento = new Thread[QTD_THREADS_CALCULO_ESGOTAMENTO];
+    private static Thread[] threadsDemanda = new Thread[QTD_THREADS_PREVISAO_DEMANDA];
+    private static Thread[] threadsFinanceiro = new Thread[QTD_THREADS_CALCULO_FINANCEIRO];
+
+
+    public static Thread[] criarThreads(Estoque estoque, RepositorioOperacao repositorioOperacao, int caminho){
+        Thread[] threads = null;
+
+        switch (caminho){
+            case 1:
+                threads = new Thread[QTD_THREADS_PREVISAO_DEMANDA];
+
+                if(!jafoiCriadoThreadDemanda){
+                    //criação das threads
+                    for (int i = 0; i < QTD_THREADS_PREVISAO_DEMANDA; i++) {
+                        threads[i] = new ThreadPrevisaoDemanda((i + 1) + "- TPD" , repositorioOperacao);
+                        threadsDemanda[i] = threads[i];
+                    }
+                    //chama o start para elas ficarem em estado de espera.
+                    for (int i = 0; i < QTD_THREADS_PREVISAO_DEMANDA; i++) {
+                        threads[i].start();
+                    }
+                    jafoiCriadoThreadDemanda = true; //flag para evitar a recriação das mesmas threads no futuro;
+                }
+                else{
+                    for(int i = 0; i < threadsDemanda.length; i++){
+                        threads[i] = threadsDemanda[i]; //copía as referências das threads criadas.
+                    }
+                }
+                break;
+
+            case 2:
+                threads = new Thread[QTD_THREADS_CALCULO_FINANCEIRO];
+
+                if(!jafoiCriadoThreadFinanceiro){
+                    //criação das threads
+                    for (int i = 0; i < QTD_THREADS_CALCULO_FINANCEIRO; i++) {
+                        threads[i] = new ThreadCalculoFinanceiro((i + 1) + "- TCF" , repositorioOperacao);
+                        threadsFinanceiro[i] = threads[i];
+                    }
+                    //chama o start para elas ficarem em estado de espera.
+                    for (int i = 0; i < QTD_THREADS_CALCULO_FINANCEIRO; i++) {
+                        threads[i].start();
+                    }
+                    jafoiCriadoThreadFinanceiro = true; //seta flag para evitar a recriação das mesmas threads no futuro;
+                }
+                else{
+                    for(int i = 0; i < threadsFinanceiro.length; i++){
+                        threads[i] = threadsFinanceiro[i]; //copía as referências das threads criadas.
+                    }
+                }
+                break;
+
+            case 3:
+                threads = new Thread[QTD_THREADS_CALCULO_ESGOTAMENTO];
+
+                if(!jaFoiCriadoThreadEsgotamento)
+                {
+                    for(int i = 0; i < QTD_THREADS_CALCULO_ESGOTAMENTO; i++)
+                    {
+                        threads[i] = new ThreadCalculoTempoEsgotamento((i + 1) + "-TCE", estoque, repositorioOperacao);
+                        threadsEsgotamento[i] = threads[i];
+                    }
+
+                    for(int i =0; i< QTD_THREADS_CALCULO_ESGOTAMENTO; i++)
+                    {
+                        threads[i].start();
+                    }
+                }
+                else
+                {
+                    for(int i = 0; i < QTD_THREADS_CALCULO_ESGOTAMENTO; i++)
+                    {
+                        threads[i] = threadsEsgotamento[i];
+                    }
+                }
+                break;
+        }
+        return threads;
     }
 
     public static void preverDemanadaDeProdutosComThreads(String tipoOperacao, Thread[] threads, Estoque estoque) {
@@ -377,160 +471,62 @@ public class Main {
         int numThreads = threads.length;
 
         //atualiza o tipo de operacão a ser realizada pelas threads
-        for(int i = 0; i < numThreads - 1; i++){
+        for(int i = 0; i < numThreads; i++){
             ((ThreadPrevisaoDemanda) threads[i]).setTipoOperacao(tipoOperacao);
         }
 
-        //loop principal
-        while (!produtosCopia.isEmpty()) {
-
-            // loop para iniciar as threads com a lista de produtos
-            for (int i = 0; i < numThreads && !produtosCopia.isEmpty(); i++) {
-                Produto produto = produtosCopia.getFirst();
-                produtosCopia.removeFirst();
-
-                if (threads[i] instanceof ThreadPrevisaoDemanda) {
-                    ((ThreadPrevisaoDemanda) threads[i]).setProduto(produto);
-                }
-                threads[i].start();
-            }
-
-            // Aguarda todas as threads terminarem de trabalhar para continuar o loop principal
-            for (Thread thread : threads) {
-                try {
-                    thread.join();
-                } catch (InterruptedException e) {
-                    System.out.println("Erro ao aguardar a conclusão das threads: " + e.getMessage());
-                }
-            }
+        if(!produtosCopia.isEmpty()){
+            processarThreads(produtosCopia, numThreads, threads);
+        } else{
+            System.out.println("Não tem nenhum produto cadastrado");
         }
     }
 
-    public static void calcularLucroComThreads(Thread[] threads, Estoque estoque) {
+    public static void calcularFinanceiroComThreads(Thread[] threads, Estoque estoque) {
         List<Produto> produtosCopia = new ArrayList<>(estoque.getProdutos()); // faz uma cópia da lista de produtos
         int numThreads = threads.length;
 
-        //loop principal
-        while (!produtosCopia.isEmpty()) {
-
-            // loop para iniciar as threads com a lista de produtos
-            for (int i = 0; i < numThreads && !produtosCopia.isEmpty(); i++) {
-                Produto produto = produtosCopia.getFirst();
-                produtosCopia.removeFirst();
-
-                if (threads[i] instanceof ThreadCalculoLucro) {
-                    ((ThreadCalculoLucro) threads[i]).setProduto(produto);
-                }
-                threads[i].start();
-            }
-
-            // Aguarda todas as threads terminarem de trabalhar para continuar o loop principal
-            for (Thread thread : threads) {
-                try {
-                    thread.join();
-                } catch (InterruptedException e) {
-                    System.out.println("Erro ao aguardar a conclusão das threads: " + e.getMessage());
-                }
-            }
+        if(!produtosCopia.isEmpty()){
+            processarThreads(produtosCopia, numThreads, threads);
+        } else{
+            System.out.println("Não tem nenhum produto cadastrado");
         }
     }
 
-    private static void calcularEsgotamento(Thread[] threads, Estoque estoque)
+    public static void calcularEsgotamento(Thread[] threads, Estoque estoque)
     {
         List<Produto> produtosCopia = new ArrayList<>(estoque.getProdutos()); // faz uma cópia da lista de produtos
         int numThreads = threads.length;
 
-        for (Thread thread : matrizDeThreads[3])
-        {
-            if (thread instanceof ThreadCalculoTempoEsgotamento) {
-
-                thread.start();
-                try
-                {
-                    thread.join();
-                } catch (InterruptedException e) {
-
-                    System.out.println("Erro ao aguardar conclusão da thread de esgotamento: " + e.getMessage());
-                }
-            }
-        }
-
-        while (!produtosCopia.isEmpty())
-        {
-            // loop para iniciar as threads com a lista de produtos
-            for (int i = 0; i < numThreads && !produtosCopia.isEmpty(); i++)
-            {
-                Produto produto = produtosCopia.getFirst();
-                produtosCopia.removeFirst();
-
-                if (threads[i] instanceof ThreadCalculoTempoEsgotamento)
-                {
-                    ((ThreadCalculoTempoEsgotamento) threads[i]).setProduto(produto);
-                }
-                threads[i].start();
-            }
-            // Aguarda todas as threads terminarem de trabalhar para continuar o loop principal
-            for (Thread thread : threads)
-            {
-                try
-                {
-                    thread.join();
-                } catch (InterruptedException e)
-                {
-                    System.out.println("Erro ao aguardar a conclusão das threads: " + e.getMessage());
-                }
-            }
+        if(!produtosCopia.isEmpty()){
+            processarThreads(produtosCopia, numThreads, threads);
+        } else{
+            System.out.println("Não tem nenhum produto cadastrado");
         }
     }
 
-    public static void verificarEstoqueBaixo(Thread[] threads, Estoque estoque)
-    {
-        List<Produto> produtosCopia = new ArrayList<>(estoque.getProdutos()); // faz uma cópia da lista de produtos
-        int numThreads = threads.length;
+    private static void processarThreads(List<Produto> produtosCopia, int numThreads, Thread[] threads){
+        // loop principal
+        while (!produtosCopia.isEmpty()) {
 
-        for (Thread thread : matrizDeThreads[2])
-        {
-            if (thread instanceof ThreadAlertaEstoqueBaixo) {
-                thread.start();
-                try
-                {
-                    thread.join();
-                } catch (InterruptedException e) {
-
-                    System.out.println("Erro ao aguardar conclusão da thread de verificação de estoque: " + e.getMessage());
-                }
-            }
-        }
-
-        while (!produtosCopia.isEmpty())
-        {
-            // loop para iniciar as threads com a lista de produtos
-            for (int i = 0; i < numThreads && !produtosCopia.isEmpty(); i++)
-            {
+            // loop para atribuir as threads com a lista de produtos
+            for (int i = 0; i < numThreads && !produtosCopia.isEmpty(); i++) {
                 Produto produto = produtosCopia.getFirst();
                 produtosCopia.removeFirst();
 
-                if (threads[i] instanceof ThreadAlertaEstoqueBaixo)
-                {
-                    ((ThreadAlertaEstoqueBaixo) threads[i]).setProduto(produto);
+                synchronized (threads[i]) {
+                    ((ThreadProcessamento) threads[i]).setProduto(produto); //cast para a interface
+                    threads[i].notify(); // Notifica a thread para começar a processar o produto
                 }
-                threads[i].start();
             }
-            // Aguarda todas as threads terminarem de trabalhar para continuar o loop principal
-            for (Thread thread : threads)
-            {
-                try
-                {
-                    thread.join();
-                } catch (InterruptedException e)
-                {
-                    System.out.println("Erro ao aguardar a conclusão das threads: " + e.getMessage());
-                }
+
+            // Aguarda um tempo para todas as threads processarem, para continuar com o loop principal
+            try {
+                sleep((long) (Math.random() * 100) + 5);
+            } catch (InterruptedException ie) {//excessão inutil
             }
         }
     }
-
-
 
     private static void menuOperacoes(Estoque estoque, RepositorioOperacao repositorioOperacao)
     {
@@ -582,7 +578,7 @@ public class Main {
                 break;
 
             case 4:
-                menuPrincipal(estoque);
+                menuPrincipal(estoque, repositorioOperacao);
                 break;
 
             default:
@@ -620,7 +616,7 @@ public class Main {
     {
         final int largura = 60;
 
-        for (Operacao operacao : operacoes) 
+        for (Operacao operacao : operacoes)
         {
             String idOperacao = operacao.getIdOperacao().toString();
             String tipoOperacao = operacao.getTipoOperacao();
@@ -642,4 +638,16 @@ public class Main {
         }
     }
 
+    //funções auxiliares para a classe testes
+    public static int getQtd_threadsEsgotamento(){
+        return QTD_THREADS_CALCULO_ESGOTAMENTO;
+    }
+
+    public static int getQtd_threadsFinanceiro(){
+        return QTD_THREADS_CALCULO_FINANCEIRO;
+    }
+
+    public static int getQtd_threadsPrevisaoDemanda(){
+        return QTD_THREADS_PREVISAO_DEMANDA;
+    }
 }
