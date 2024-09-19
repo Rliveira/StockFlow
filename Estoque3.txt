@@ -1,0 +1,2000 @@
+4f00a960-a03e-40da-895a-3e822ac8424a,Pratos de plástico Iogurte grego,7
+754efa7a-8b3a-4929-b8a8-382edc621a43,Creme para rugas,2
+3d9056e1-ef71-4cd5-a5b4-74b8af135b96,Sopa de cebola,1
+64cbb5cd-30ab-4d9a-9c18-fab3bf4f12c9,Jogo de copos Pinça para alimentos,2
+1afd5729-ea4a-4355-91dc-31e9074f2579,Chocolate,1
+ae6257f1-211b-4de4-8ded-05654c642d22,Tomate Forma de silicone,0
+6ac30b10-0f02-4afe-8b41-7384e360a975,Bolacha Jogo de potes herméticos,4
+9adbf67d-6459-420f-a180-6f23b3b2f4d3,Tesoura para alimentos,2926
+9ba1b7ff-53df-4abd-82f6-0ace0809e77c,Chaleira elétrica Frigideira de alumínio,0
+71aa6eb1-cec0-444a-91c4-236a56032c12,Xampu para cabelos coloridos,1
+13e205ae-8b8d-4d2b-b5ba-c32a93207225,Amendoim caramelado,0
+103c5cf6-1527-4c1a-bb82-240ba1cbcdfd,Bolacha recheada Lentilha,1497
+788ea91b-812e-471f-abe3-6d6ef3ca9876,Faca de legumes Xampu para cabelos oleosos,4900
+1693575c-4833-4129-9c77-fd7709041a5a,Panela de pressão,3598
+fc820547-7fd9-4e0c-ae08-8b9c015d8a88,Talheres Papel toalha,2845
+fc601903-14e7-43fe-9872-2523fcbf9fd5,Pipoca com caramelo Grão-de-bico,1692
+485195e4-caba-4dfb-9669-18cb11e86ab3,Jogo de talheres,12
+2549f814-885b-4862-8c55-01f6a6b4e9a9,Condicionador para cabelos crespos,2856
+040d5d4c-a751-4982-95eb-5cdb8a06e7ca,Orégano,575
+079814e9-59d7-4072-ae7a-e1c17075c34d,Caldo de galinha,4166
+e22bf996-385c-4181-82ce-9575240893f2,Potes para alimentos,3365
+4a9a73ea-b1f7-4016-9fa8-8d70ab478911,Rum Jogo de copos de vidro,1
+a06f8b89-ce8c-4d10-b8bc-a5e6a0e88d6e,Espinafre Café,4073
+63646211-efe3-4a51-9a3d-d25b277086b7,Desodorante com fragrância amadeirada,1
+b82c4ed6-80b7-48be-ad81-40725f13d727,Manteiga de amendoim,4558
+e6ec1553-19d7-49a5-8c05-5bcc04ecb266,Condicionador reparador Iogurte,16
+c01d3bdf-486a-4982-98fa-61e2aefdc7d1,Chuchu,5
+ad03407f-7acd-46be-9b38-5d975fedf64a,Papel toalha absorvente,0
+fb45e9a9-a37d-4a3e-94d1-96c16415a3c5,Sopa de ervilha Panela de alumínio,2971
+04ce098d-0d8f-4573-8ff8-9e861e1d2ddd,Granola com chocolate Panela de alumínio,7
+a2e65891-0047-491e-be4e-1433aa55f669,Xampu para cabelos secos Papel alumínio,9
+78153d96-1c65-4312-8652-4d970b6b4f3a,Suco de laranja Creme para acne,7
+f383b3b4-f8ca-43b6-8544-ef8510a0ab42,Jogo de talheres,4
+8f3699e7-ca3b-4ec9-ace3-f870ae3082f2,Uva Xampu hidratante,1
+14beff91-c67f-4c03-bdb8-80f58ad0c23d,Chá de camomila,759
+8e554300-214c-4abf-bec9-744db8ca13b5,Creme de leite,8
+be06f405-712c-4331-8750-6e939327c98d,Cafeteira,5
+c9b25ef8-4fc7-4396-a6e2-96362fca60b2,Esponja para limpeza pesada,32
+071bf78b-d61f-4cbb-979a-5a6e2ac3ce84,Brócolis Amêndoa torrada,7
+c9090b4d-e94c-42a9-a2ba-34554dde9981,Chá de erva-doce Pipoca com caramelo,10
+9a404984-d570-4e61-b0b8-dc4deae45667,Sanduicheira,155
+74762e40-4d5a-4f92-a2fb-6721cf23324f,Esponja macia Faca de cozinha,2489
+abdc1e28-30c0-4fd9-a9b8-99686378d7d7,Tomate,50
+5350e390-c5e5-4e7d-855e-44c551899d5d,Potes herméticos,3581
+811128a5-1f20-4088-ad49-f0f6b11871bf,Desodorante com fragrância cítrica,3
+0d2dd959-af28-4a6e-8945-eb378ce18e5d,Esponja para limpeza pesada,7
+b61cef33-21b6-41c6-9935-257989525450,Panela de alumínio,9
+bd4e630f-876b-45e2-a512-4a2ab239db7a,Jogo de rolos de massa,2885
+9a8183e3-7d13-42c9-9c5b-e7a1339ab9c0,Frigideira de alumínio Detergente de limão,6
+c4d3a27a-1a08-458a-b6fc-4c27b4e0c2f8,Bolacha recheada Esponja para limpeza pesada,4
+f1c015c5-c546-4d3a-bff9-f6f05005400e,Jogo de escorredores Grão-de-bico,8
+98f14559-f383-4ea5-9c14-c575cf08c65e,Rolo de massa para pizza Tábua de madeira,1614
+1f9a9c7a-0e76-4882-b5c4-706d6571f754,Açúcar demerara,2734
+f9dc4a40-3eb0-48d1-8bc1-c96e694f3327,Papel higiênico Perfume amadeirado,853
+8360b984-6b89-4869-b254-3cf36d4fdf97,Noz salgada Tábua de madeira,6
+3839945f-098d-4162-b6b6-0b97d2eaf97f,Gengibre,1
+505bb60f-a0ae-4e2c-87c5-8b9e18440b23,Jogo de descascadores Frigideira,4813
+7c0d140f-a6b5-430e-8d28-02ea9a3ca116,Pasta de caju,3868
+f75127f9-1abe-482f-9f33-f3af18b13b91,Frigideira de aço inox Manteiga de amendoim,316
+35aeca17-4f0e-41c0-a68b-b2422c7cbced,Pipoca de cinema Forma de vidro,4957
+5299b8fa-e08b-48a4-bc27-2d8feb04b4b2,Creme para acne Jogo de tigelas de plástico,6
+48f86e1f-2767-4d4b-b4ad-136f95fc29b0,Talheres de plástico,8
+9d4769c2-888f-44fe-9a3e-600a3304e60f,Pasta de amendoim,5
+f33a15da-e049-483e-a2a0-33facf338e8a,Faca de cortar carnes,2469
+81dd6b1c-4798-4187-a418-6eb281a1be73,Panela de cerâmica Limpador multiuso,6
+f047a54b-94da-467a-8d3e-e25ea018a628,Geleia de framboesa,7
+29e1e2ef-9ad4-466c-8b93-1995255b9709,Creme hidratante Detergente para louça,3863
+1c442845-8be0-4280-a05f-5839ef627084,Chá de gengibre,2866
+86f4e8d8-a499-4689-94b3-2fd07f7d1f93,Bolacha integral,4
+67c650bf-ba1e-46ac-b2f7-d1b02c1ff364,Jogo de panelas de inox,780
+cd9c9dcf-6edf-4dd8-96eb-b2d819960d31,Potes para temperos Xampu anticaspa,5189
+c32d3024-940b-4179-8b4a-cdd426dad5d7,Farinha Limpador de inox,4832
+19fede02-a402-42ba-81d1-50501b2d01c3,Limpador multiuso,0
+f222a049-4b31-4f05-9c7c-308cf4e211c9,Creme anti-idade,4
+ddfec231-f2de-4de1-b710-b31c787d9132,Granola com frutas Xampu para cabelos coloridos,2709
+835acfb3-b0db-4847-924f-821412a5e31f,Processador de alimentos,2285
+fbddfae9-2b64-4f09-97f4-70216cd46506,Whisky,3741
+5bcc6eff-9f54-4f02-8d71-97aa097590fc,Papel filme para alimentos,0
+493dac63-bc08-4728-9d10-3855e71b94cb,Talheres,0
+70d3d7f5-a9ce-4779-8f41-232d31b3ed68,Talheres Jogo de tesouras,4849
+d5a3f46b-7824-430c-b32f-4a4a74e3fcd7,Manteiga,219
+b4c97522-31cf-49b8-8f2f-34bdec533e84,Panela de cerâmica Tigelas de vidro,3851
+bf28d3a5-93e5-4160-8386-4b0789a911f6,Forma de alumínio Tesoura para alimentos,22
+d64ebc42-7fb0-40bb-8643-ad51580a21cd,Manteiga,0
+f8efa685-9db0-4f38-92e2-aa5ebf30b3ff,Chocolate,6
+57d44280-6254-4096-a63b-d97b8cd1ccdf,Pasta de amendoim,1
+d1928e12-da9e-4549-a9e6-a6035519142d,Jogo de rolos de massa,2
+b3c5c1f4-fca7-425f-a828-8f63b9dcb6f8,Pasta de caju Xampu para cabelos coloridos,211
+a4b198b6-81a4-442c-b3c5-c407dd49f717,Limpador de superfícies Creme de leite,5255
+5195cee9-f9fa-4adb-a0ac-b1bf470508f8,Granola com mel Coco ralado,5058
+91b841d0-3038-4e87-ac9d-1fe4fe73103c,Amendoim salgado Manteiga,5
+61b8bd27-97fc-477e-b0c4-ecd49b408f64,Coco fresco ralado Manteiga de amendoim,1
+b5f2a708-8899-4b40-a6f3-4fdc048591ed,Chá de gengibre,3372
+f4926dce-dbb5-4778-a6ac-ad8288d362c5,Frigideira de alumínio Xampu para cabelos secos,5028
+896facb7-43c7-41a4-a849-dafb686104b9,Desodorante natural,3938
+216544bb-c167-4667-88e0-da438dfcebf9,Frigideira de aço inox,2
+4c51d849-9123-4813-b147-1bdf9a3d3a54,Frigideira antiaderente,0
+60726369-b544-48b5-83de-7b6c637472d9,Batata frita Potes para temperos,6
+e645181d-5bff-4fcf-b0bf-39e85f518eee,Condicionador para cabelos coloridos,0
+9231adfd-24f8-4a7f-af39-eb4bde65fdfa,Forma de cerâmica,5
+4b703515-84bd-470c-8f59-b7c272580399,Cerveja artesanal Sabonete com óleo de coco,99
+581887fd-e040-47e9-b0fb-892a24c90f15,Frigideira de cerâmica Noz de castanha,3
+b2606879-ec9c-4b1d-a966-40065ae74ee7,Cebola,6
+be2368c6-df94-48fb-9951-b3b2948fdf08,Coentro Champanhe,0
+9952ee4c-b452-4319-91f5-5f10db149ce9,Sabonete com extrato de aloe vera,3683
+0f3aedfd-ac08-45aa-b8ca-8961e95755cd,Creme para acne,4
+8abf2c05-b136-418f-b0d6-54e89830120c,Potes de vidro,0
+dbac57f8-67fc-4b59-b1ca-6f5073c2b464,Xampu anticaspa,9
+9493acd0-947e-4926-a450-1b11ef71241d,Jogo de potes herméticos,5
+9fc24312-f86e-4b55-adaa-792694d3f6c3,Geleia de pêssego,4765
+323ba71f-4559-41b5-9ede-08a0492a608a,Sabonete esfoliante Maçã,0
+ccb3061d-e46b-404d-87ec-e8af90d60214,Nozes Açúcar cristal,7
+03656683-6abf-4e01-a737-5113d0dc365b,Panela de cerâmica,3
+2e190a0c-9992-4aea-a59f-36ba132c22a3,Esponja para limpeza pesada,317
+9b4ae7b6-1228-4fbc-b780-f7ed98ce0ca5,Açúcar de confeiteiro Mel de flor,2416
+b7e89362-1b57-4aab-ae09-8c500cc6cdeb,Limpador para vidros,1
+7ba36bb9-15bd-4cf5-8244-d4b124c2c9d5,Frigideira de cerâmica,616
+8c6481a2-dbbd-44c0-83c0-a808ce6583a0,Noz de castanha Rolo de massa para tortas,6
+6ba04da8-a2c9-456b-afa4-ac051259df73,Escorredor de arroz Xampu para cabelos coloridos,4397
+9ad2bcf9-a103-4c9e-b833-94fe69e23d66,Sopa de cebola,3377
+dbee6744-61e8-4eff-8847-283eeaa63cff,Jogo de copos de vidro,9
+4cc6c6e5-523b-4766-b485-6e1eef85e6ac,Assadeira de alumínio Molho,1465
+ec454a50-08a0-4dba-8b16-2cd5941288f6,Jogo de rolos de massa,2
+80deafe1-f997-4c7b-b6d3-07348fa9a258,Pratos de plástico,2
+cb5d8478-ab65-48bc-ba4e-b21d0652232d,Amendoim com casca Salsão,5
+b3bdf6a2-7281-43d7-9b49-7417528edce9,Assador,2350
+a3e6effc-8516-4822-a4a4-cb5db7894b70,Esponja para limpeza leve,3508
+57704225-c061-40ee-9719-4523e25f3222,Panela de alumínio Amêndoas,189
+10609036-4098-4a81-8154-3d45f49e2860,Papel para limpeza,3800
+2516e159-a580-4b86-8887-c77486799bbd,Biscoito de maizena,4807
+16aada07-1813-465b-a885-304cda001662,Panela de alumínio,8
+d12e26c2-ccb3-437d-844b-6ded18f01dc2,Sabonete com extrato de aloe vera,942
+d24e9c97-d04d-496f-8577-950e543e723c,Jogo de raladores Tábua de plástico,32
+b7a774fb-611d-4740-852f-c0abfe4cf22e,Amendoim com mel Abacaxi,1691
+c0c6a180-ba3b-41b4-a1a8-91cd7c0331e4,Molho de soja Brócolis,0
+6b233e15-c354-478f-90d9-efd140f2648a,Coco fresco ralado,1045
+6562c510-fff8-476a-b877-c56c8ead20fd,Forma de pão Batata-doce,217
+2a7d5aa1-7605-4ad0-9b91-6d1161f5a181,Cabelos de milho para canjica Amendoim salgado,3862
+d28db343-7441-4df7-a139-19556e0f4703,Descascador Cebola-roxa,4285
+fffd85fb-7ac8-4ada-98b0-8d1d71302d08,Frigideira Papel para limpeza,3463
+43eccf59-fae6-4a26-b979-3ba124c24c4b,Forma de metal,4383
+c3cba58d-8540-4ff0-a99a-fa6f058516da,Jogo de panelas de inox Vodka,7
+98e78bdf-73a3-4576-b3b9-c94816d47db3,Panela de aço inox,2
+8bceec36-90aa-40ed-b9d5-4bd17e895df0,Bolacha integral Biscoito de chocolate,0
+530031ad-0759-4350-b7ff-031a1f12b829,Coco Suco de laranja,1495
+2a90800d-7d01-4972-bcb0-8919bd7abe4d,Quinoa Tigelas,2153
+2716b863-154b-4a77-82c0-fa2f46649df9,Perfume Xampu para cabelos lisos,1811
+f7b9f53a-994d-4119-b5e6-97b553b70aaf,Assador,0
+c6058e5e-c592-40d2-b2ba-d1b263004ef0,Açúcar demerara,4881
+a348cd1e-ba15-463c-b809-cca8c1ea1664,Cabelos,354
+be68ce12-6173-4d81-8aef-f5aa073cf8d9,Papel toalha absorvente,0
+2fe21b0a-8d1f-4de8-95b4-33742abf29bf,Jogo de tábuas de cortar,3827
+78e94921-5e74-4bb7-b815-3a4ed90708b6,Panela de aço inox,3676
+4bc32139-90ef-4531-9ff1-340daacde1e4,Frigideira antiaderente,5
+0a002c9a-5f67-4087-a0dd-b3c48313bccc,Coco em pedaços doce,129
+f483e9bf-e96c-4868-97ad-4cc032b022f5,Jogo de potes de plástico,0
+80dc27bb-22df-4cfe-ab00-265712ea59bd,Jiló Papel para limpeza,3
+4ee03d20-6621-48e3-95e7-24802815c34d,Batedeira,3
+969f2b43-98e8-47d1-9039-98204fc514c7,Talheres,11
+77988197-2841-4ee6-8448-486823f92665,Jogo de potes herméticos Tábua de madeira,9
+bfcaa92f-7c81-481b-a453-ebb02dc1f2b1,Escorredor de macarrão Manga,9
+f8bcac7e-c13e-44f3-a6b9-d16b6ec0d010,Tábua de madeira,4802
+76f631e5-ae1f-408f-987d-5d42a3e4a714,Espremedor de frutas Centrífuga,2115
+5c91aa9e-18ef-467c-a2fc-326b356fe0b0,Sabonete com vitamina E,4885
+80cf8d58-bfa8-4197-aa33-4d1a5ba9fc58,Pasta de pimenta,1334
+26f7a2e6-ccf1-4404-9513-82a79923e442,Papel higiênico,6
+ab1a922d-2303-45f4-9508-622533f761a8,Papel filme para alimentos,1914
+9b472eef-4e0b-4600-a47a-44fa8935d3fc,Faca de chef Jogo de copos de vidro,1
+64cd7574-63cd-4b33-a72e-9bc0edd4da63,Jogo de pratos de porcelana Chá preto,5194
+ce3c0677-a4bd-4ac7-8439-c4acd1836dca,Rolo de massa Assador,1
+a41a41fc-3803-4c74-a823-9a1e18606cd6,Ralador,3043
+feea55d1-920e-494d-aad8-a7268fb94bb3,Cabelos de milho para canjica,2
+39be16da-a097-47f0-b6d4-55c57b33ba95,Rolo de massa para pizza,3776
+f6f5e70c-af8c-4869-9823-fc15375da912,Amêndoa crua Jogo de pratos de porcelana,2185
+04de6173-8a7c-41a3-9457-88f06ebc0329,Noz caramelada Tomate,4916
+615522c3-634f-4ba7-94ff-3639a10eca9e,Grão-de-bico,0
+3d204218-d823-4167-9c13-43194b5f4f6d,Cabelos de milho para curau,229
+df3e9f9b-dd71-4791-b23b-d4e304bb428a,Xampu para cabelos secos Sopa de frango,4373
+3443f437-ca1e-41a0-9553-5c1e7f952aff,Corta-massa Cenoura,4466
+19a2b07d-ea2a-43e9-997f-61fa4497bc8c,Xampu anticaspa,7
+483943c5-04b4-44d1-9e7a-8bd22fc07f58,Tábua de madeira Jogo de assadeiras,507
+22d838fc-7bc0-451c-9e00-2691169de4cf,Liquidificador,5402
+d8c8ccfb-ebad-4a0a-8978-e9ea6025eadc,Forma de pão Pão,3951
+6ba693c2-3142-4a3b-af0a-61a1935e64ec,Pistache Hortelã,1022
+974f7a53-aff2-40a3-a960-ce7f52688935,Frigideira,2
+a8851218-59ca-45a5-87fb-3a199334416e,Xampu hidratante,9
+6c58072e-0a7f-4294-bbd3-2c838522278a,Pistache doce e salgado,1
+29eef53f-45cd-4a2d-bc8f-ce0417b1aa85,Xampu para cabelos secos,5
+afbeea01-a996-456b-8b7d-0b3bed77ce24,Geleia de uva,5285
+31fc2adf-32b0-49cb-9181-7391281c2c7d,Detergente para louça,5
+276259f2-c9d3-4f48-9f68-45d887f032cf,Gengibre,1
+1c4aa314-2cd5-456e-9d64-66f37bb95694,Vinagre de vinho tinto Jogo de tigelas de vidro,8
+cb4d9060-5e51-400b-b1d7-997d2fb50c5d,Açúcar de confeiteiro,3916
+d6c64342-ca66-43f5-9a14-8a5c4a1912f4,Ralador de queijo,87
+12d2ad75-a4c2-4edd-a33b-1398d2fd3c71,Grão-de-bico Sorvete,353
+136c7add-a5e4-4e02-8729-0864c9ef7465,Rúcula,3339
+4688d1d0-8c98-42dd-ac0e-e770fe50d491,Laranja Jogo de pratos de porcelana,2
+2a99688e-b006-4521-bb98-14fdfdfc2dc3,Manjericão,1672
+da09a978-01fb-47de-b9bb-0cc4ca7776e7,Biscoito de queijo,9
+49cad1e3-f234-4cf0-939b-98917589c9e8,Panela de ferro fundido Desodorante sem álcool,2317
+39255949-3dad-43a4-a688-0fbff0569fc1,Tábua de cortar Condicionador reparador,3997
+1b817ebf-ef9a-4796-92cb-6b9a73dce5be,Pasta de avelã,1743
+65c392fb-3e36-4ff1-8fe4-755ed85387b6,Mel Pratos de porcelana,1188
+df95ae4d-1e72-4499-8c60-b13a52cedc77,Faca de cozinha Açúcar cristal,9
+9ae71616-a169-423c-b4be-947f36c26b98,Jogo de formas de bolo Batata frita,260
+86ff06cb-907f-4e2d-ac0a-8447e03a6727,Biscoito Cebola,1
+8ff40bd3-e92b-49f7-8866-6821179d822b,Tigelas de cerâmica Faca de cozinha,154
+e231bc4a-e99d-4630-aa8f-54288e34df81,Faca de chef profissional,4179
+fc4fd27e-a6a5-4c59-9b01-89016f5b692a,Detergente para louça Açúcar,0
+79e7b00b-beb3-4c6e-9b83-167eb94af557,Batata Alface,0
+1aafba1c-1365-4538-bf05-7266cccd0904,Rolo de massa para tortas,3234
+efb1f7a9-c128-4e56-8c9b-0102df2c4dce,Creme para acne,1550
+5a0f4d7b-2b49-4c9d-a07b-7dfcbde5d5c7,Potes para alimentos Café em grão,3312
+c2157e30-5420-4387-87ca-ccd76c49da44,Amendoim com casca Chocolate,0
+47055e5e-d9ce-4da6-8b81-d6d2d082643e,Desodorante sem álcool Biscoito amanteigado,5
+29bf63ae-4d27-4d82-967a-71bf387f90d8,Bolacha de água e sal,1
+8fe82375-5190-4c04-a33f-c9a4a698826f,Papel alumínio para churrasco Sopa de legumes,13
+92319aba-2bd8-4745-b8a7-71b5b35aeb75,Pasta de avelã,2
+b2e77eb4-48d2-4d3e-9376-e491c06de545,Liquidificador Macarrão,1818
+dc25a5d0-70ea-4556-8a66-477dc5a67ef1,Frigideira de alumínio,956
+0c9709a9-bdb2-48ff-ad2f-f76185e7a03c,Vinagre balsâmico Limpador para vidros,5
+f38cc394-2d77-4161-a270-58a2cdaf749e,Xampu para cabelos lisos,4404
+ef4bc873-dd72-4367-ba38-02eb3ed434a8,Grão-de-bico Tigelas de vidro,7
+a4033a2e-d5bc-414f-8b99-8457ee7624e3,Creme de tomate Perfume com notas de lavanda,3
+4533deec-d61a-4dec-a7d7-c6c043071a8b,Desodorante em creme,2
+90e67ed0-b17f-4265-b5d5-a814667a5216,Talheres de plástico Molho de alho,1
+3621f263-9a10-440f-aaa3-0d970932cfb0,Pistache com caramelo Biscoito de maizena,1114
+1f7e8acc-1a41-4568-b423-f2655fb32106,Pepino,1
+ddd2aa19-cb85-4dcd-adb9-54a52f073225,Jogo de talheres de plástico Condicionador,2097
+310985ef-eb7d-4b88-af88-efaea5c5ee1f,Mel de flor Jogo de tábuas de cortar,0
+638c4f46-f857-4d38-8036-df32c1e1bc18,Acelga,5
+56efcf54-af50-4174-aa7b-3c598e7e1475,Amendoim caramelado Ralador de legumes,1820
+28366d33-4902-433a-a734-546d621275c0,Xampu hidratante Chá preto,3
+5239d7b5-44d9-472c-a00a-3454ea8a682d,Limpador de madeira,7
+23b7e329-3db4-4b8a-8105-50771c2a1323,Cabelos Jogo de tesouras,4644
+913d35a4-a451-471b-830a-125f1ca61eb4,Pipoca com caramelo,6
+7b41ba4c-7872-4e6c-bc3c-4a633703acb4,Papel para limpeza,5
+f6fab891-1f01-4f0c-86a4-566d361304ad,Nabo,58
+cc6003d1-fecd-4106-a76f-0fcb0f6824a7,Pasta de tomate,5
+c0d31f70-c168-48a0-96d8-dcc1d9855f5a,Café em grão,4896
+bdebff87-71f7-4ef1-ae78-f59d6d531475,Jogo de panelas de alumínio,3746
+9e83f397-0d6a-46f1-b2e4-b6d2a60f7c68,Manjericão,2
+e3c02c50-3325-48cf-85db-562ca0cb06d1,Jogo de potes herméticos,1
+f2309d2d-842c-4355-909d-7dba868be8d3,Perfume Jogo de potes de vidro,2
+c66f0f81-7f01-4cc7-9e5b-941c61d5847e,Açúcar,2
+c0e9f660-a40c-4337-8d66-7ec2116bf372,Lentilha Processador de alimentos,2640
+518c509b-1183-4156-9474-86d7ac3646e0,Pipoca de micro-ondas,1
+54121824-2f0a-49fa-96ed-dc723cb1bf73,Alface Assador,1
+3bbbed51-f55b-4f44-ade7-0eae8645654f,Jogo de pratos de plástico,3
+ed8945f4-f496-43db-aa05-de5674122eb3,Perfume com notas de jasmin Noz salgada,0
+2cd593ef-be70-4851-8ab3-db09cb5fd08d,Molho,10
+0eb0d1d8-5d89-4773-b83b-594858305818,Cachaça Pepino,4295
+8e6c8efd-e59e-47ce-a253-e602eb12eea3,Granola Potes para alimentos,4277
+700f8532-def0-4a47-90f6-37d4447cf870,Sal Castanha de caju,4
+de1bde16-fc83-4034-bfeb-8932dbd56e30,Carne moída Tigelas,4379
+2b38ff14-d59b-4428-9bc5-d5ca0f91a16a,Acelga Sabonete para pele sensível,3486
+975a1ffb-f887-4558-a8b5-addd450685c7,Papel toalha absorvente,706
+f3340202-520b-4a44-8a39-8761edaab100,Bacon,4
+e9e358b0-8201-4d45-8565-5eb40ecc0017,Condicionador volumizador Creme de milho,2170
+9382d639-f569-432c-a3d4-87396ae0c8fc,Potes para alimentos Xampu anti-frizz,3
+a783a590-8564-42d1-aed9-4e638cac8ed1,Jogo de potes de vidro,14
+02de9a8f-71bc-44ee-bdd3-386c09d66c45,Tábua de cortar,2024
+01aee240-1904-4cc0-b2db-6725aee39ead,Potes de vidro,3262
+b7da5edc-c99c-40ea-a176-0bd930ba65f4,Iogurte grego Batedeira,2
+25b9541e-9da3-4e1f-9e88-cf0d9fe4c81e,Champanhe Café em grão,5197
+2b128ff6-49e7-4286-8d96-8795f5882bfc,Talheres de inox,3
+b0ec8b76-0b33-4310-a7e4-3b9bf81e8f6b,Cabelos de milho para canjica,9
+5c270bc0-6746-441e-8509-5cb2a141351a,Sabonete para pele sensível Perfume com notas de baunilha,1
+93168ed7-7678-4821-919b-4d62e1bc927b,Tigelas de cerâmica Moinho de café,2
+8c9a9d28-7a92-4cae-baec-32cd8b83ece8,Amendoim com casca Amendoim com mel,3552
+0a08c781-9649-4556-89c9-6fb50c68b72d,Acelga,4810
+5d087816-5c98-40d6-8b37-be41aa8f1a81,Faca de pão,0
+47c1a9f4-3c0a-4003-ba93-31c449b2267e,Açúcar mascavo Esponja para limpeza pesada,211
+ba88e657-91bf-4bcb-8670-aa356db37ad8,Biscoito de queijo Jogo de copos de vidro,3163
+398201cf-f590-4573-a9d5-807cafaeef11,Bolacha,3185
+26efcac7-c71a-4bf7-9f39-f3a17a3ff53c,Jogo de facas Tigelas,35
+f7acbc16-215f-4b57-ab4f-a3b84c34cd33,Forma de torta,2749
+5cc47826-f806-4d14-a816-dc6379e1b604,Amêndoa torrada e salgada,6
+b71f3bd7-d6c2-4112-aadc-02a78e6fd38f,Xampu anti-frizz,3
+b3551da8-5476-4bc8-987a-d07166d93fd9,Creme para acne,3
+e9a4f721-bfdf-4281-a405-804d4ee3ff78,Creme para mãos Caldo de legumes,4305
+6932fc3f-5774-4612-9f4a-7c59449af022,Molho de soja,2
+65c210ae-11ac-4f8a-b9a0-e1493969c6e7,Creme para mãos,3454
+8f259d6e-e980-4ab1-aa7f-d40380fce240,Copos de plástico,6
+97140942-3ea9-40bf-a878-30d16b52c5b7,Queijo Potes para temperos,6
+5649792e-07b1-486e-8ef3-c63983662dc9,Jogo de pratos de porcelana Nabo,2695
+63b3193e-063c-47a0-b2d3-1f9b9e8b4941,Açúcar de confeiteiro Biscoito de polvilho,5233
+0e69193e-0c75-4cd7-8e61-8ee0221613dc,Coco em pedaços doce Jogo de potes herméticos,1
+a25ddb5e-2b2f-4735-a906-ca45f7917b98,Chá preto Feijão,3999
+5db11841-fcfa-46e0-a853-d7fda380982e,Escorredor de frutas,1520
+29af673f-2358-442f-8546-b6e77fb6109b,Jogo de raladores,6
+206f9fcd-1f4b-4a3d-966f-c184990110d7,Pipoca com manteiga,2217
+49a0270d-1b6e-41c9-8ca5-9ef980139e81,Açúcar cristal,1
+07f61f78-948a-40fa-8abb-bb85fc63f686,Jogo de panelas,3
+4999c483-561b-47fe-a172-2bf99005cccb,Pipoca com chocolate Café solúvel,1944
+570d3563-c185-4c3f-8226-eea644417d06,Copos de plástico Tapioca,736
+5ca61f66-fb4b-4c79-b69f-e720fc8c0c80,Arroz,13
+de823f19-b189-4bbc-9a8d-414b09ec0558,Pasta de alho Chá de hortelã,740
+0f74ed12-ff46-48e2-be2f-390ab2bdf0a9,Liquidificador Jogo de pratos de porcelana,3
+19e10c14-f4ee-4c87-bd06-e016fe5f5626,Papel alumínio para cozinha,1
+30443d9d-20ad-48a0-9e3e-33c437449d9a,Rum,3192
+2f4062af-68c4-4e17-a4ad-863771c4476b,Desodorante com fragrância cítrica Granola com castanhas,0
+8ba13858-fc7a-46b7-8988-17db886cb90d,Xampu para cabelos secos Jogo de potes de plástico,3000
+7a0a1aed-a4c1-4259-aada-9294acf3435d,Faca de legumes,5007
+8dc0ec8b-16b8-4eba-ae2d-030e75fa5943,Desodorante roll-on,3
+0820dea1-0385-429b-b121-6aad6e741eb9,Chá verde Laranja,1
+da005d9e-18c5-4db0-ae04-7db522b0d85a,Jogo de facas Whisky,420
+184ae085-c8c8-414f-9747-07355172f0c7,Pimentão Cereal matinal,8
+f775d438-ccde-42e5-941f-c239881f40f0,Jogo de descascadores,7
+665b7763-7942-45de-a693-62d8eb7a0c15,Descascador de legumes,10
+211cd789-d066-4ab7-a99e-b83f232341ab,Amendoim salgado Molho barbecue,1555
+2beca417-b292-4ba6-b527-5f3bdbe1ccb7,Limpador de inox,1
+4527e2af-fb03-4dac-a927-4ce8be3b9d24,Grill,2
+31914685-55c6-42bd-8236-a99647964e11,Copos de vidro,5
+d9505d16-4367-4c14-992d-4e629189f14e,Champanhe Jogo de formas de pão,4407
+748d683e-b7e6-4f78-8338-55a29fb1a09c,Castanha-do-pará Jogo de pratos de plástico,7
+2e27822c-55c2-48d5-90c3-28b127618a6b,Forma de silicone,9
+8decb788-d41d-46ea-802e-caefe29dd860,Coco ralado Espremedor de frutas,0
+b8f0c61c-d66d-4f32-ae7f-130db4811af7,Jogo de facas,0
+b617724f-29c9-487b-88f0-1b2776e0a062,Jogo de assadeiras,5006
+cd158ce4-5eee-41b4-bfac-260c97b85686,Limpador multiuso,0
+4b00cb2b-47fc-4150-a05a-7f19178a4956,Potes descartáveis,7
+4dd67788-b999-4548-8f5e-11952698402e,Jogo de tigelas de vidro,4
+6cdfa09a-a79e-456f-9564-b88836139652,Chá verde Pasta de avelã,3509
+00345c6b-7e1a-4568-998a-1bcb48d98775,Bolacha recheada Manteiga,3
+c34047be-df31-43cd-bd8d-ecb7c04df77e,Tomilho Faca de chef,3
+59433663-7053-46a4-a6e3-cd4827bea7a2,Caldo de carne Pinça de cozinha,1706
+c7c76f38-7a8a-4966-95d4-f4b33e960efb,Caldo de legumes Sabonete,3881
+d7efec14-4408-415c-9c4f-faff06835b1a,Jogo de raladores,9
+81df54fc-c89b-4b0a-b3ee-f4d9ba410347,Biscoito de queijo Geleia de uva,1
+9517716e-6d46-4c30-82f5-573c617ecabe,Arroz Perfume com notas de lavanda,7
+25246075-6470-4adb-ae55-d9bcd87e04d0,Jogo de formas de bolo,1780
+96e69de7-6cdc-45ee-b3ff-e56b1dbc094f,Laranja Granola com castanhas,1096
+c5ceede2-2f56-49c9-9522-8aeec223e297,Jogo de formas de torta,353
+67d13942-6772-4887-947e-d80aa8d85ef3,Maçã Papel toalha decorado,2254
+e894cf06-d5a1-41fd-a664-1882eaad3d1a,Forma de bolo Jogo de potes herméticos,8
+adbff92c-b85c-4640-b70e-31f397e0e294,Pinça de cozinha,7
+caec76fb-c139-4b79-9a50-81a24f9bfb0b,Cominho,1378
+d822ee09-53d2-47b3-840b-637b335be546,Chocolate,842
+9fd1160f-e60c-41cf-b524-c23393ba1b02,Cachaça,3717
+e0a8dd97-eed9-42c6-acfd-bd39aafab445,Mel de abelha Pipoca,0
+7900d535-e4f3-4c1e-970d-55c771c398fe,Forma de bolo,2465
+aa82794f-c8d5-4068-89d1-501f0fb2663d,Faca de chef profissional Jogo de potes de vidro,3569
+0c0d5570-d5f2-453f-ad4a-849b205bb55f,Peito de frango Jogo de formas de bolo,0
+ddaf46be-43ad-4e7e-8b1c-45b671765617,Milho,2402
+62627d42-5087-49e8-b308-802f8e21d9fc,Papel para limpeza,0
+447592bc-4f97-4ae7-be0b-7c485b0f5d0a,Chá de gengibre Papel para embrulho,1
+807c26e5-97bf-437c-9cde-cee5b270a14c,Cebola,0
+ed34a647-0713-4bff-bdd8-2dbbea7079c8,Amêndoas Panela,6
+3b09067a-6001-40be-8bb8-609b005cd124,Leite Detergente para louça,1046
+f611f4a8-5e56-454b-ae30-567cc744cb83,Açúcar demerara Jogo de descascadores,1
+f6607267-9dbb-4189-b59f-215cd8f34143,Caldo de legumes,8
+d8749d17-9bf3-4f5f-9636-76d941651d6f,Creme hidratante para o corpo,4511
+b639a715-8a89-407e-ac80-c2e34cdf38e0,Jogo de talheres de inox Banana,1694
+2af1ddcc-109e-4a2c-bd4d-6d2866bb91e4,Panela de cobre,19
+97972add-62e6-48eb-b05e-3389fc35dad5,Jogo de talheres de plástico,824
+b5c252ff-3089-4175-b88f-71b92bee3aa0,Geleia de laranja Panela,1910
+efa6c0ab-3918-4774-b048-105d84e1edaa,Detergente Papel filme,5
+63129fff-ba30-4345-a4d6-f83fa0200c69,Sal Condicionador reparador,2608
+9d7a716a-9d41-4e28-bb1d-9b7a79f28635,Noz de macadâmia Panela de cobre,4700
+08cca6bf-7b40-423e-8fa9-b33beea929f0,Caldo de galinha,3
+ea77a2fa-7e32-4dee-aeda-eff0920be83d,Papel para embrulho Vodka,2
+111aa095-3648-4176-aefc-52c2f616a685,Rúcula,2431
+4e5286c7-d189-4cf3-bb66-496c4ac35d21,Espinafre,2
+c7b71957-f8cf-4202-8109-9638f5987877,Acelga,6
+14dbad51-79f3-4bcc-8ffa-c805ae287637,Caldo de carne,2805
+5cdfd26a-3418-46d7-85e8-38f055268cba,Vinho,4843
+3c339dd8-59b9-4a4b-a874-58b971291da5,Lentilha Molho de alho,1
+3f627495-5fff-4036-aa07-c73762268077,Rúcula,9
+3ba5a60f-a900-4055-af61-218beaaaf94f,Ralador de legumes,913
+1f48f507-4e67-459b-b72f-518e0f1db508,Coco em pedaços doce Desodorante com fragrância amadeirada,3
+6bd9c4ea-cb62-4357-8f83-9041abf5a788,Esponja Granola com mel,6
+afa73ff1-ec05-4640-a1b5-d3f487845906,Condicionador hidratante,28
+70181b99-16a8-477f-b897-09629e6a9e82,Biscoito,2238
+f5536555-475d-4ba3-af14-54baf2970295,Escorredor de arroz Jogo de utensílios de cozinha,5
+29562f76-d7cf-471d-90ad-cf849594df08,Papel toalha absorvente,4112
+4a3e3367-cf2d-4927-9f51-f4e464fde869,Cabelos,5
+2f2b1abd-fdd5-46c9-9223-6f964592c4f7,Sabonete com extrato de aloe vera,3179
+2ba283e5-ae72-45fc-b14a-3b7ce7c43c59,Biscoito amanteigado Amendoim caramelado,0
+9d178cd5-63ca-4cd5-9e58-5b556dbb117f,Tigelas,3876
+ad2b375d-616d-4148-9232-5b03d217a405,Jogo de copos de plástico Noz de macadâmia,5
+1b531031-e17f-4559-97f1-ea997dc93ee3,Panela de ferro,12
+3b4a6428-5b98-4dc1-8fde-d76e877b09f4,Coentro,2780
+413f7379-6b81-4bd3-918d-c27f6c7faf2f,Molho de tomate,1
+a8416ad5-c58b-4495-a555-043a310ceb39,Processador de alimentos,3
+6d8b7f62-5c57-4e24-9a77-c6ff211b54de,Noz de castanha,1420
+60c64931-e858-4428-bd0a-f563fd70fbfd,Café,3317
+5064970f-f25f-493f-94c9-524fc4091681,Cabelos de milho para curau Rolo de massa para pizza,4
+31f2c4ae-d1eb-45f2-8c09-7993dd5aae63,Frigideira,4049
+46bc2c9a-8370-4d46-9e02-4eb123160cef,Esponja para limpeza pesada,1
+1b42b533-4f2f-4b26-8678-8bac4395a0a1,Pipoca de micro-ondas Ralador de queijo,2
+88197b1b-99d4-4c34-9f6c-0d8087eddc6b,Escorredor de legumes,4635
+f978e5a3-150a-4950-b5ae-ea6399338574,Couve Pipoca gourmet,0
+b1ebcbbf-19c7-4f63-b432-aa7cf7de17bb,Vinagre de vinho tinto Vinagre de arroz,7
+119d692e-b5e9-4678-a3f1-44539b4132cb,Tigelas de inox Tomilho,4182
+d1da0afc-7222-467b-a8c7-0a0b133cb79b,Molho de alho Sabonete com extrato de aloe vera,5
+bc9c928f-6002-4c99-a586-52026918bea8,Feijão,1723
+806e2e3b-535b-47a1-b4dd-9859adbb2985,Pipoca de cinema Vinho,3
+b306bc8c-bd8d-44a5-8856-9c1905935b6c,Jogo de pratos de plástico Copos de plástico,4
+7f5e4ab9-09c1-4c00-860c-e39c7c679fe3,Coentro,4934
+d0cfcdfc-334b-4606-ab7a-0060729f4ecc,Tábua de madeira Jogo de copos,6
+3f70951b-81ca-433b-ab58-be08831006d4,Vinagre de vinho tinto,0
+e1d62213-a7ed-46e8-ad18-3ee678d19682,Vinagre de maçã,1361
+08257269-a9b6-4071-a404-1ca9eac30cae,Jogo de tigelas de plástico,458
+84277aee-3669-4263-8906-13a598270b1b,Cabelos Coentro,3
+403c369a-37cc-4e7a-9cdf-ae38a17e18c5,Vinagre balsâmico Abobrinha,11
+aaeac001-258d-48d7-8562-53d3f62aa99b,Coentro Batedeira,8
+4e07dd4c-b2a4-4315-891a-71c815a2b9b2,Alecrim,3900
+59585a7a-562a-4bbd-bdac-9844a2bf5cc1,Panela antiaderente,5
+c8d883c1-b385-4765-a966-bbec05f42482,Perfume com notas de baunilha Macarrão,678
+3b1cab65-3f63-4555-87ca-629206278512,Creme para pés Jogo de tábuas de cortar,2037
+95996ae7-7d0e-42aa-bfef-c5048ef775e3,Cerveja Biscoito de chocolate,3
+e6c54294-a932-4e5e-b133-b8e06e4ea8b1,Pistache salgado Açúcar demerara,343
+490ae1cb-d712-4ce8-908b-19b774ab104d,Xampu anticaspa,1627
+0e5bcfcb-384e-4ffc-b073-1d3233e5af79,Assadeira de vidro,3026
+76a930e3-9733-4a56-a7d1-ac1e032b5a88,Presunto Pistache doce,3348
+a57c51a5-f156-4b56-8c4c-6730641b0aa7,Castanha-do-pará,7
+a94ac4a5-d0f7-4e9d-81e1-7a53a29edb4c,Aveia Cenoura,3229
+4b2998e0-8878-469b-b2da-04f40566d47b,Pimenta,0
+8c3d92cd-cc79-4188-a727-3cfcd489b752,Geleia de laranja,3840
+2fe2df60-9cb8-408b-9bcd-180c2c1f8cf7,Pimentão Pipoca salgada,1257
+10187f04-f21e-4d9c-bb56-fa46206343d2,Ralador de legumes Amêndoa torrada,6
+19c8adf4-d77e-4230-8544-1068a183fbf7,Frigideira de aço inox Chá de capim-limão,1797
+2514b34a-ff93-4812-937d-8c68fe42f86b,Biscoito de polvilho,970
+14a709f8-c506-4ba2-b7a9-d0f2193b1963,Tomate,3732
+f2de9a1d-4d9d-4da3-999b-74e03b66c0da,Granola com frutas,4706
+18f43e7b-2222-4afd-8ee7-65baa6ce92c9,Açúcar mascavo Sabonete em barra,2309
+16772727-a5d4-4570-8653-285af561644e,Panela de alumínio Pinça para alimentos,1904
+6c9dd294-7a9d-4671-999c-7fc873f420bb,Limpador de mármore,7
+102fa141-116a-4c36-b62d-f753282d64bd,Jogo de potes de vidro Frigideira de cerâmica,1
+d586c416-3147-421b-964c-06c70e4362e5,Sopa de cebola Jogo de potes herméticos,843
+d1155282-2746-4ec0-8b00-8e0dba315acf,Tigelas de inox,0
+bb3747c0-4ab2-4d3f-8953-ece62f7eb64b,Ervilha Tesoura de cozinha,2994
+4138a490-04a3-4699-9265-27a05f5e3fd9,Processador de alimentos Forma de vidro,2933
+c2140a15-b503-4a10-97b3-d52ba7eb95de,Limpador de inox Creme para pés,2
+15c708d7-1405-46e1-a873-43aa34c0a57a,Jogo de talheres,2281
+ae7d66cc-7995-4421-bf67-622fdb3dec82,Limpador multiuso,1350
+64a3921f-d470-4c8c-aee2-0e36de014f13,Salsão Salsinha,3959
+3a2ee111-9b46-4722-a314-fbd5a9449696,Pimenta Vinagre balsâmico,3235
+4ef023dd-640c-4ce1-ae10-761a7ecd16b9,Manjericão,0
+a5f3c197-6f47-4e57-9e36-f82aa22779c3,Queijo,4
+9bebc12a-3415-4b9d-9484-1b31d3be15e7,Coentro Panela de aço inox,7
+11cfdb15-1d38-4603-90d0-fae6561e0967,Pipoca de cinema Assador,4195
+75fabf13-e0e7-42b5-bee2-4dcfc4acae46,Biscoito de chocolate Rolo de massa para pizza,1788
+5e73da8f-2b6e-4e6a-a537-858d905537db,Copos de plástico,5
+b39fbac1-5f92-4cd1-b3cb-5d13bff6a10b,Castanha salgada Cabelos,1
+907ca5c2-e92a-446a-b379-50d5518f7cd4,Molho barbecue Peito de frango,977
+75ac547c-4fca-4fb5-b091-f4d6f24e7834,Frigideira antiaderente,0
+39bcce50-de24-4743-8f33-49966d0b11e5,Pasta de caju Carne moída,20
+205c667c-214f-4e5b-94e8-1bc74c9a9578,Frigideira de aço inox,2
+881a6991-c62a-4b8d-a9f0-9098fb9fbf98,Torradeira,3
+86c32c87-a38b-40c6-8073-30cdd9283ab7,Perfume cítrico Sabonete com extrato de aloe vera,4160
+d0668440-49f1-4246-b335-10b67d157e91,Mel de abelha Cravo,0
+7b00aa8e-3233-4418-a19d-c7a7809ff0ea,Iogurte,226
+6b903058-6bf1-4f9b-84ee-9a786fc0e4c8,Ervilha,921
+73dd1506-b7da-485f-a958-e3e0836324a4,Pasta de alho,5
+24816225-bf1d-4965-9b20-4697c262175d,Desodorante aerosol,1
+c7a7999e-375a-41c9-9977-525a7dc939d7,Perfume cítrico,531
+744c279b-4ff2-4889-a372-670e0c97e1f6,Tábua de vidro,6
+a7b9e09c-345a-46e2-8839-5be425b09706,Sopa de abóbora Forma de metal,7
+3283030c-bb7e-4d80-89e7-fd6b0acab81f,Feijão,2901
+49ccf112-9abd-4d74-b14a-287fd5813884,Copos descartáveis,3
+0d0c2fa6-1db7-47fb-ba59-ca4f69adc2c2,Perfume com notas de sândalo,1426
+d48680e5-3ef8-432d-8d02-2e2f46dde6fb,Desodorante com fragrância amadeirada Escorredor de arroz,4
+48e2dcef-7efd-4111-a862-b7554c036080,Ralador Faca de chef,5030
+9a3e3ce5-74a3-41f9-9e0d-a451bcf8819e,Faca de pão Açúcar cristal,4
+d104ebcc-80f5-45c5-8c3e-324b5b69eca8,Papel filme Café em grão,4794
+a2cc5663-b230-4725-b193-5b8ff3acfc97,Centrífuga Assadeira de metal,2781
+d183136d-0d64-45d7-97bc-417b221a6b0f,Rolo de massa,1033
+bd041c04-735e-4f25-88dd-767f6043ca6a,Frigideira Salsinha,4
+ffa926d1-ff75-4534-a4bb-8d237ad1fb6f,Pipoca com manteiga Biscoito de polvilho,2
+9429ad7d-d937-46bd-8662-2ae5d2138610,Chá preto,2813
+53b1a107-f116-43f7-a791-6e336fd9bc3a,Limpador para vidros Pasta de caju,1494
+4a7bb7c5-47fd-4146-973d-1f30e186fbb6,Creme para pés,175
+e2b46f54-15f7-4908-b2b6-f98b2e21a28f,Uva,3
+1a99be80-1bc6-4d73-b197-cd23c6f42e2a,Papel para limpeza Batata frita,569
+881543ec-f5aa-44ff-a147-ec7d721974ad,Cerveja,2
+4a6ded74-7f29-4ecf-8ade-07e9eea2ad31,Jogo de talheres Pasta de amendoim,3372
+d23620df-e0f3-4aa1-9a1b-341d3977c6ce,Creme anti-estrias,2
+276dfd1d-6d9c-4aaa-9966-c8b5610ffe5d,Vodka,8
+1421ddc5-3eb1-4e5b-9c43-81cb7c50ba30,Amêndoa com mel,289
+f46f6ba2-2b85-4923-a9b5-b7b3f154c4df,Refrigerante,2254
+58cd3f45-43db-41a9-b1f9-52be2c1fffcf,Faca de pão,5128
+93b44e54-cdca-4661-abb7-5b907fbc0744,Limpador para vidros Pipoca gourmet,887
+c76f0d15-fe51-4c2c-b095-91c1f1fea6fc,Creme de leite Escorredor de arroz,4215
+9a5908ee-1999-45b9-ae89-52ade05e3c42,Suco de laranja,6
+3f12e9a9-5635-4f63-8388-b67b2d8591a9,Rolo de massa para tortas Xampu anti-frizz,4
+aebc202d-ee89-4659-b21a-8a6ea4cb8570,Amêndoa torrada e salgada,3
+8b589f19-7f63-42e2-b4ca-13a9f9ecdffc,Chá de erva-doce Cabelos de milho,0
+8c6a984c-10e9-4bce-aecd-16e440b6c1f5,Desodorante roll-on,1908
+eed607d4-d1c0-47d5-906e-3a9e92d04711,Jogo de potes para alimentos Geleia de morango,4393
+f1151460-4463-45da-a15a-c36e52ed8e5a,Forma de metal Bacon,4
+897304a4-c2c7-423b-986e-e1f9c3ac1115,Chá de erva-doce Limpador de mármore,131
+6cd02248-2665-425d-a1bf-dabcf18f144f,Sanduicheira Amêndoa torrada e salgada,1752
+46dc6bf0-1100-4a01-b828-bb17e08f2e97,Rolo de massa para tortas Pistache doce,0
+d755426e-904b-44e7-9246-1fa3a0ec42ce,Forma de pudim Jogo de formas de pudim,8
+4a4b94f5-fa31-4c86-8fbb-24fa12b35b26,Bolacha de água e sal,1292
+e3297580-cecc-4425-896c-0d912f25dc24,Ralador de queijo,8
+01b0a124-e9aa-4a65-907b-c0af99eb8aa4,Potes de plástico Forma de alumínio,0
+9fbc0538-8b1e-4acd-895d-f46b7f68f85a,Chá verde Bacon,3
+2a6fbd55-87a7-437b-8388-fd3331655f20,Alecrim,4
+438d26f4-478f-42e9-a8e0-75e8e4b856fa,Descascador Jogo de facas,4407
+6b76e0bd-cfa6-4039-9d00-f1b84cf6ad9c,Noz salgada Potes herméticos,0
+c52f199a-dca0-4d82-9ec2-3eb83bfe04b7,Jogo de potes de vidro,4
+46c41b40-3795-4978-a9b5-750b452067ca,Rúcula,942
+637a4747-4637-4a09-aab3-be5ebfe5ac3e,Assadeira de alumínio,2170
+d31bc050-f160-49d5-b99d-938d99ba4769,Jogo de formas de pão Pasta de pimenta,0
+a28f1b0e-e52a-48cd-8886-89d0ec551104,Caldo de galinha Limpador de inox,1
+c07e4083-07fc-4c86-afbb-7b9378f39dfa,Jogo de potes herméticos Descascador de frutas,1
+9a030670-6820-4524-b002-fb14d3649e27,Geleia de laranja Castanha de caju,929
+9dffe32c-6b0f-44ea-a2b0-7e6b2e8a6972,Jogo de tesouras Sal,8
+b2535a17-fea4-4f90-9d5d-e2d58c7d9dd6,Geleia de pêssego Faca de pão,3251
+0cf59375-1898-45f0-b34b-33b346a54388,Desodorante natural,4639
+d1f01c46-31f7-444d-87a7-95f0b00751db,Pasta de alho Cenoura,4192
+f1a79d01-483e-42c3-a647-2afda73083ae,Laranja Rolo de massa para pizza,0
+9f590e75-7493-4d49-8d57-d5683f0828ea,Aveia Sabonete com extrato de aloe vera,5
+d836855d-12a6-4a2d-adc6-5bc768c49b4f,Pratos Jogo de copos de vidro,581
+8e471509-108a-4bfd-8902-600636ba9d5a,Amendoim Potes para alimentos,3764
+0bc66d4a-5d9b-4af4-85de-fb7b25da5c8f,Potes para alimentos Coco em pedaços doce,0
+471d4eb3-4757-4d43-9322-a56062e81da2,Feijão,1042
+04dedfaf-defc-4103-81b8-4923f23a0a82,Tapioca Faca de cozinha,4805
+38ee4aeb-13bd-4abe-b33b-9e336cf59a3a,Perfume com notas de baunilha,3146
+462b9415-6bd9-43c5-828d-4b27cf1d55cb,Chá de erva-doce,2366
+2ddb434b-f7f5-4fc0-9a24-08e8456b4129,Geleia de morango,3856
+2d466ee4-543e-4ea9-bb1d-c17def97bd57,Copos Detergente para limpeza pesada,4399
+f1a4d141-8602-4bf8-9bd9-698b5ebbea70,Amêndoa torrada,2033
+f422444a-a9e1-47b0-881a-4917029eb97d,Ralador de legumes Perfume com notas de rosa,2689
+5157538c-ef1d-43d1-bbbd-07c2904b4279,Desodorante natural,1183
+979121d1-7f0c-4c4e-bb9e-8fd35124927c,Assadeira de vidro Pão,633
+fca8d72b-6e30-43ed-bf65-bfc287d07895,Tigelas de cerâmica,3338
+4644a153-56b4-40ba-bac3-94917eb971c3,Creme para pés Panela elétrica,1512
+d8a21ee4-2acf-4db5-8972-915c3485de65,Potes de plástico Tábua de madeira,4
+6ee78d93-932f-4127-bc91-681a0147e7d5,Jogo de tigelas de plástico,4
+10656b8c-3175-49c7-a08a-72a0069b4af2,Desodorante roll-on,2481
+7e76a874-76c1-4e8b-a4db-565d701a88e1,Gengibre Condicionador para cabelos coloridos,1852
+3f83861f-f840-49c5-a286-0e1999578609,Papel alumínio,2
+6cab95e4-a3c6-4e91-889c-bdb763a58173,Pratos de porcelana Pipoca gourmet,4209
+7c273968-08c5-4566-bd10-685d23e722b7,Frigideira de ferro Jogo de escorredores,6
+b8d20f6b-2d2f-45fa-bb22-12bdb4e49e66,Xampu para cabelos lisos Sabonete esfoliante,458
+b23f4241-d992-4779-9dce-2d2e6bdf8d80,Bolacha de leite Escorredor de legumes,2729
+d41dd37a-7192-4aa0-9c4d-69cd2e784330,Castanha-do-pará,2
+fb83c97b-3563-4850-a0ec-d77fc1ed98c3,Molho,2
+5c0846e4-68c4-478a-bdd4-21d8e3a0fba3,Perfume cítrico Bolacha integral,2120
+d653d250-d3d1-4420-a7cf-a7a57e3529e1,Açúcar demerara Mel,6
+2c22d376-770e-41d8-bab6-c81b8404a87f,Chá de camomila Pistache salgado,442
+6e7856e9-f5fc-404d-8050-044bb7a65e96,Bacon Xampu para cabelos coloridos,3588
+1725dd00-963f-4299-b1ed-8f8bdc6308cd,Jogo de facas Jogo de descascadores,1794
+59929978-1bf9-4db0-8d23-5fda7593fcb4,Perfume amadeirado Esponja,1763
+272a6d4c-5b35-477f-8d96-e9ed76871218,Sopa de lentilhas Coco fresco,1
+018e6ae2-1e5c-4286-beca-d2da389b9895,Jogo de potes herméticos Escorredor de arroz,2
+2d5746fe-cf10-4a6a-b792-4605601aec4c,Desodorante Escorredor de arroz,992
+c4996db9-bdcb-4a5d-8467-a12acb120902,Pipoca com manteiga Descascador,0
+bd501141-fca5-4c76-8516-8128b134ccd3,Pasta de alho,2455
+62d9d41e-1930-4b2b-a53d-3398a48ba472,Creme para pés Peito de frango,6
+dde46209-f35e-425b-bed8-a9818c845275,Limpador de mármore,1904
+6543e661-1115-430c-963c-fc2e3aa65dde,Descascador de legumes,7
+c7fc62bb-8552-4bc7-8314-79619c65800c,Papel toalha,3107
+1bc72016-ce56-46a2-9b5d-42240e9324f7,Whisky,5
+ca7f77e6-94a2-4597-add9-0828d0248c95,Condicionador reparador,2
+a4412ec4-8767-425b-b270-b957e337fe2d,Endívia,5
+b2d3180e-a97e-4738-8177-df86072f3587,Potes para temperos Molho de alho,1
+5a10c658-e0f2-4fee-b67b-02b7a322c901,Bolacha,2888
+ee6097c4-979a-4b48-a3a1-125d533432ae,Creme de tomate Forma de cupcake,2
+314b98a1-5ec7-4a55-a8a6-184b1e5c01d2,Forma de torta Jogo de potes herméticos,3286
+8fcde8eb-52dc-428b-b86b-8278257d6af2,Papel alumínio para cozinha Açúcar demerara,5
+f1c8f780-4432-4e65-aded-94f2e5a5ed3d,Granola,1345
+f87994c5-aa87-4264-af62-54be23d5b62d,Tábua de cortar,697
+9490175a-9041-4073-abb3-aa7672e0f1c5,Corta-massa Canela,0
+c39f8ae7-c175-4221-b0fc-a54a150cb056,Talheres de inox,4391
+f4cd3c89-0f77-496f-82dd-ac28f4d0f2b2,Pimentão,7
+0e737e25-5334-4c30-b6d9-767de873de09,Ralador Limpador de inox,3
+f2946390-27bb-4df9-9feb-89ec5f8dd086,Aveia,3779
+6a4b9d87-35b5-4208-bd00-59d00a4c3a8f,Coco em pedaços doce,1141
+e24b0926-f26c-4a8d-ab3d-c3b02e4a0469,Jogo de tigelas de vidro,2048
+a45055e2-0d88-4eb7-94ef-7ed6b4335a0b,Pasta de caju,1
+0f92beb7-ebb6-4603-82d4-4788daf1ee45,Bolacha,4637
+b2e68e41-efe1-441f-a6e4-0170f980ee27,Nozes Tábua de cortar,1346
+d14b114b-30ae-4ed5-9f51-f2b873fe4415,Condicionador anti-frizz Nozes,225
+6023981a-1a63-4dd9-9d18-789ccbff95af,Suco de laranja Noz pecã,5033
+8fcc4d20-b024-4f4e-ba05-32546d1e87c1,Mel Jogo de formas de torta,9
+c8a43c86-2268-41f3-b5d8-d208b432e290,Amendoim Geleia de pêssego,9
+81184372-1b91-4e01-9b2a-37f9992ce389,Sabonete para pele sensível,1574
+c2790939-577d-4731-80c1-7d3225eb323e,Chá de erva-doce,2
+f1a98969-e139-4555-b829-783fb4dabeb3,Pimentão Refrigerante,2151
+b3688ef3-63cf-49b9-b4a4-32f8eefbd2b8,Frigideira,1556
+8b095bdf-a75c-4b52-91e3-79d6c13399fa,Chá de hortelã Assadeira antiaderente,0
+07e83e9f-c255-4d7d-b462-bf40add988cb,Linguiça,6
+16fbc248-50cc-4482-8a66-8fa24a502ddd,Cafeteira,3970
+90060674-1822-480a-ad62-ca384e56dbe0,Presunto,4586
+075659cb-73bf-49e8-9d16-faaea9251511,Molho Pipoca com caramelo,2
+5fd054bc-7d9c-4d2a-9aa8-c35b641eede4,Sopa de cebola,2
+74de0855-bcf5-4026-b751-431948422e9e,Açúcar demerara Orégano,839
+9de3ff69-dc20-4e19-b8d5-ae2a027491c1,Detergente de limão Jogo de tigelas de vidro,5
+2c12ff61-06ec-49c3-b23c-43887e08abd2,Ralador de queijo Pipoca com cheddar,852
+0710651f-f07b-40f4-b5cf-1de8625d92c0,Pepino Maçã,27
+e68e7183-fd15-4fa1-bebb-2eccc3ebbf49,Xampu Condicionador,1
+6e6bcff9-4a31-466b-bb3d-ead2356d27c5,Sabonete com fragrância,4734
+adf6cbba-58d3-4cd5-94d6-1cdac10ff5ec,Sabonete antibacteriano Desodorante,0
+3d64f188-8601-41ca-ae82-c81d0d680424,Castanha doce,5050
+2b1d67df-acab-4538-92f0-9fb45a276140,Creme para pés Esponja macia,8
+61a7b685-63fc-4163-a680-71d05868cabe,Granola com chocolate Pistache doce,9
+5e324493-49a4-4a85-bb2d-7c7dff1391d2,Creme anti-idade,9
+ec99eda8-e71b-4a6a-b67e-042c44e4608b,Cabelos de milho para canjica Perfume com notas de rosa,2
+70d4407c-a405-40ca-85d8-f04ffbe2ac4c,Potes herméticos Pinça para alimentos,3803
+a1d5be9b-bd73-42f8-9b89-33b7acf3abbc,Xampu hidratante Assadeira de alumínio,4
+78f00294-36cf-44aa-b1a8-f3455f732b5d,Escorredor de frutas Tapioca,3
+7b187df2-8670-4654-b3f4-47ad24db4b6f,Bolacha integral,1941
+95390182-a038-437a-84ea-fec1497aafdc,Açúcar de confeiteiro,8
+b2b24b54-a6af-4584-bb3f-de894cf814f5,Condicionador reparador Caldo de legumes,31
+8dfb4619-d775-44a2-935b-f09285c208dd,Salsão,3407
+299290a2-e4a5-41b0-ae74-5ee4a6062eaa,Molho barbecue Detergente para louça,812
+da4f6f47-7c43-4df8-80a9-e640066c3dea,Pipoca com caramelo,3730
+1e0da1b1-35c4-43fe-a844-7fab98b4d1ab,Jogo de pinças,7
+479aa319-5c60-4b26-8a45-77edf55f1b71,Cerveja Chá de camomila,5
+2c43f569-e84e-46b6-a248-90c1e8d27420,Jogo de potes para alimentos Abobrinha,0
+81a0b193-4183-4502-81c7-fe7fa3143f0b,Assadeira de alumínio,10
+c622e9dc-7e2f-440c-b280-54107fe96ac5,Amêndoa crua Quinoa,41
+e768f7f7-740e-4629-83a7-15287a6f0b54,Açúcar demerara Brócolis,3924
+f0a2f1b0-3493-4b4d-83f9-0a72afd0c4c5,Iogurte Condicionador volumizador,1867
+52961adb-c5cb-4ac1-91c2-b260254f8fc3,Xampu para cabelos coloridos,4743
+f9040d06-a96f-48d1-8590-55d105fe072d,Forma de torta Sabonete líquido,0
+4e9f3f2a-00f6-4c89-9942-820340f7f770,Limpador de madeira Perfume com notas de rosa,87
+25e5e5ef-741a-44fc-9564-9084ffad2cf9,Jogo de formas de pudim Assadeira de vidro,2792
+fde0831b-0ba7-4bbd-bba8-26da56f56c32,Perfume com notas de sândalo,3114
+b2a8de07-470e-42a8-99b6-0ea21b4ee33f,Papel alumínio para cozinha,612
+e521fa6f-4e89-4789-8664-d6fdf0fb327a,Forma de pudim Panela de ferro,3755
+c68f93d1-de59-4578-8845-7066aebc8c67,Potes de plástico Molho de pimenta,2064
+b749c55f-5448-41cb-8599-97b1dd7264a0,Granola com mel Xampu anticaspa,6
+c929bc59-f414-4826-97fc-a65356f7f998,Creme para acne,1785
+34928fbe-2ed8-4741-86ff-f5aaf85196a2,Xampu para cabelos coloridos Jogo de formas de pudim,0
+6024d9f7-8a2c-43bc-888a-28fbea886aa5,Jogo de rolos de massa,8
+47b11618-ee6b-4c09-8406-f0621eb2f7d6,Tigelas de inox Amendoim com casca,0
+c23e312f-4604-4698-b26d-f005ee258c31,Jogo de raladores,256
+5980162f-ddde-4733-b7c3-ecdbf9adda7b,Torradeira,1452
+bde9b77a-404f-476e-adbd-d5f4686c8afc,Perfume com notas de sândalo Molho de tomate,840
+abef0c7b-5c33-4c03-9588-bd7b112f7e59,Faca de chef,0
+d9c80a35-2f96-403d-8428-51885c873883,Detergente para limpeza pesada,2
+e2e439b7-8615-4a0b-9e65-f2ded16c5839,Acelga,3
+cae4ea97-6863-44f2-8936-06321e4db90e,Xampu para cabelos coloridos,4898
+f732ebc0-841c-4c9f-8cec-afae8bfab01f,Rúcula,1612
+d2349d34-5255-46ef-bc76-65fe4f1c7a94,Pipoca com caramelo Jogo de talheres,2133
+04d589d6-338f-4866-a09d-8b9b4081c915,Cabelos de milho para canjica,2515
+5846c0e8-0958-4e3b-acbf-b7ae269f8330,Farinha,15
+aac21525-c016-4ff4-bab6-24dd234eff66,Condicionador reparador Molho de tomate,2866
+a0259f18-7467-4914-85bc-2b8664e7d237,Jogo de copos Detergente para limpeza leve,506
+6bcea8d2-4f2a-4711-a5ef-a137f7c594c4,Amêndoa torrada Forma de bolo,1252
+1803c951-01d0-4ca9-9ae6-84dac32a7050,Forma de cerâmica Rum,0
+f70e61ec-b0ef-4202-a6e8-957d651967d6,Desodorante com fragrância amadeirada,3665
+312738e7-44e9-4f9b-926d-eb16429d4e9d,Lentilha Perfume com notas de baunilha,2
+57150e44-4c90-4523-8702-3c41f094d9cf,Condicionador para cabelos coloridos,500
+ad0872f2-1e68-4a40-b8b9-8d6ab466eff6,Cabelos de milho para canjica Batedeira,3
+f622ed47-734f-44b1-aa0b-ff7bf456ca0e,Limpador para vidros,2272
+dcf38016-9d43-47bd-ab10-be3876cb9888,Pipoca com queijo Jogo de panelas de inox,12
+f85ab33b-ec18-4bdf-b042-1207eca07469,Jogo de formas de pudim,2
+fc090a6c-af87-48be-a4cb-84dc5219cf3f,Chá preto,1057
+d25aae96-bc95-419a-83aa-bab3a07f416d,Mel de abelha,2263
+a6a0645c-9bfb-4385-84d5-480709007a8d,Açúcar demerara Laranja,570
+8485213b-c06b-44cc-ac2a-6bc24015b8d4,Cafeteira Chocolate,5
+61ddd0b7-41bb-4ece-93c5-3b1810b17508,Jogo de formas de torta Frigideira de aço inox,4195
+05422a75-a5f2-4b3c-9537-dde207331b61,Faca de chef profissional,2
+5e58ccaf-fa04-4e10-8e45-0d7860099c29,Panela de cobre Detergente para limpeza leve,3180
+4566e814-4f52-4b88-9a4f-80da9c2e517d,Tábua de plástico,5
+2a1ac04f-3a89-4c64-9c74-8a1689c637a3,Sabonete com vitamina E Desodorante aerosol,4401
+c9e2fd04-7e81-4b42-87ee-4b601232b146,Ralador de queijo Chá de hibisco,2205
+8aaea44c-18c7-47f5-a055-f38c8e997c0d,Creme para rugas Descascador de legumes,2719
+8935e8b2-37c9-4f97-9d0b-8343c1379e0b,Pimenta Caldo de galinha,11
+cebb0d74-9a0c-43e5-a479-a98f2bb63be4,Caldo de carne,566
+e2e77ae3-7e12-4d51-b499-9687f403f419,Jogo de potes para alimentos,1
+2e27ef00-82b8-460d-91f6-4b18628dcbaa,Molho de tomate Xampu anticaspa,2
+045683b7-bc4a-41b3-9faa-b3fabe7b01d4,Grill,811
+cc2dd652-3383-4708-b1a0-cfafdfc0a8fb,Jogo de pratos,3232
+d3078e53-9a71-4cdd-a38e-a9fda153aed5,Sal,2819
+e8d10172-09b6-49cf-a5a5-58154d6f7304,Ralador Forma de metal,3515
+8f71eeb9-95ca-4735-b5da-85b50e4a4004,Pipoca com queijo Pasta de avelã,1
+c22fa074-bc59-483b-b627-5c22c63d7fe6,Condicionador hidratante,1418
+27e59332-c1cb-43b8-b48a-860c4ba7473a,Assadeira de vidro,3
+2b855188-d906-462c-a691-03a5cc6b5edd,Molho de pimenta Queijo,11
+d46669d4-bc33-4238-9fa4-00ad5bc88416,Detergente para limpeza pesada,0
+0ca8b110-ec3f-4d9e-9d61-c6b49fdb277a,Noz caramelada,2962
+59b6b0eb-d9f6-4661-8502-c694f129c3ce,Vinagre de arroz Tábua de cortar,5
+72a1dfbd-3671-42e7-8bff-85c9b8224662,Jogo de pratos de plástico Limpador para vidros,1416
+87149120-4780-49ed-a94c-6b35907af9f6,Iogurte grego,2
+8a162726-8387-49f5-9b53-ccd25dd2d916,Cabelos de milho para curau,1
+d79592bd-ec93-4670-aa8d-26528c2da456,Banana Jogo de talheres,1145
+f8870f02-51aa-46f1-870b-d07379808f20,Sabonete com extrato de aloe vera Condicionador anti-frizz,10
+fec2249d-800f-41d8-94d5-3127c96f30b7,Amêndoas Escorredor de frutas,1
+b236332c-2291-4f55-a8cd-2676d9b68dbb,Jogo de copos de vidro,4584
+030cf67c-2a20-46a2-9b5b-7957cdcea92f,Papel alumínio para cozinha,2973
+8649757d-9781-48ea-b142-66ac9ac6d169,Jogo de descascadores Bolacha integral,2
+d670fbdc-8b16-4c6c-80a2-ca5444c2e7d2,Molho de pimenta,1
+c223dd30-96b7-46c3-a1a2-e33fea1ae2aa,Chá verde,2202
+1fcce57e-d1f6-4ea3-8fea-c98491198e09,Salsão Pinça de cozinha,2756
+310b6784-73cc-4361-b542-80c2fde1a00f,Forma de metal Jogo de panelas,165
+b239a460-90cb-4cca-b59b-02d725f2bef2,Queijo,0
+1d88d2b5-6f66-4155-94c9-ff2b5a9060e9,Descascador de legumes Desodorante natural,3
+4ebd6221-46ec-4bae-a28c-5459e97bb2d3,Assadeira,1267
+4456f8b6-1003-4e5d-b843-fcec84f9383c,Panela de ferro fundido,4459
+174d0aad-c88d-4458-93a6-7ce3cb3e8693,Forma de vidro,2681
+ba6fa783-7587-40f7-961d-374ec593979f,Alface Endívia,5
+facfab99-5be9-43ec-baed-a6e0906a6388,Cebolinha,0
+bd5dda83-d303-4e1a-b7b9-fd29d38d0ec6,Frigideira antiaderente Chá de gengibre,1276
+1e545514-1bb1-42b5-9301-9ec5fd0c83c3,Processador de alimentos Sanduicheira,3301
+a2169345-e94c-453c-a7ed-98df18f8cab1,Cenoura,3
+427f2b15-5aff-483e-adbf-ea2d13159c04,Escorredor de arroz,617
+7cf5f769-91ff-4f89-bb3e-99e284417d11,Castanha,0
+0d74e760-69e6-455c-90aa-8ee8c8b11d5d,Whisky,4211
+3839c1c6-89ac-48a2-94d7-a70962579ce7,Processador de alimentos,3
+4a9d46cc-fbac-4196-bb31-a9f9398d8a46,Perfume com notas de baunilha,681
+5e642dd4-4b05-4508-9763-f4da32b91d35,Caldo de legumes,4
+cd7f6b19-dc97-425f-a663-fb8aa2202276,Tigelas Pipoca gourmet,1945
+bc123d2e-05cb-4eaa-9d45-700f16aadf40,Coco fresco Pinça para alimentos,1390
+2ef8bd70-b93c-4d09-9320-303dd85600b8,Condicionador,6
+daf42ce8-00fa-4ef1-94cf-65e187dd1094,Pasta de avelã,4623
+4eb491d5-e26d-4b40-a44e-1496b4aa7e30,Sabonete esfoliante,1
+82be50af-a5c5-49ec-aa7a-e702005810f7,Sabonete para pele sensível,2504
+714624ec-7b8a-41fc-9676-6b4b77c5988a,Pasta de pimenta,8
+58aec94c-a0d9-448d-a9d5-0ee523a018f1,Jogo de talheres de inox,4616
+65a74528-1ce1-4244-a2f5-f78b05b268bf,Açúcar mascavo Óleo,0
+e4be3524-b1bd-45a3-9062-8757e5e91885,Salsão,16
+bc990499-0c23-4130-ab2d-1719b38ae8c0,Ervilha Centrífuga,1
+365005b3-cb03-4ad8-89cd-e9f598b19313,Grão-de-bico Creme de cogumelos,1372
+ef2c2c58-1555-4504-ac5f-1c11463853dd,Rúcula Granola com frutas,10
+2e42bc03-379a-4e54-adc8-df5041fe4ce3,Biscoito de chocolate Condicionador para cabelos crespos,3
+5d935b2b-73c0-48c8-80c9-9de41c3b7edb,Jiló,0
+679e52ca-65c2-43ab-88ba-13bab06e0294,Assador Amendoim com mel,21
+28e9f76c-b128-49a2-adb7-47db83ecf94e,Jogo de talheres,3015
+ff4fb5ce-4f31-4600-8161-7e15e0e8cb5d,Esponja,13
+c5ead61b-8060-4a7c-a839-ed5796fa78a4,Frigideira de ferro Jogo de copos de plástico,4788
+c385faef-2be1-435c-8552-ca55faf0fed4,Bolacha de água e sal,1741
+0adde190-cb63-49b0-8408-26501b775c7f,Quinoa Jogo de facas,932
+6dc50d61-7eb7-4d97-936a-4916b9168f5c,Tábua de plástico,2955
+7e2d0644-57dc-4649-86e1-a60abd342ca6,Detergente Desodorante com fragrância amadeirada,3
+3def0d04-f18d-4da8-8d8e-6d65549e86ed,Noz-moscada Amêndoa com mel,9
+a6735be3-3fc9-4c1c-a166-0b9d2b814716,Whisky,2797
+62f188dd-a02c-48ec-9212-3359d8825b56,Assadeira Geleia de framboesa,11
+4e93cd5e-0145-46cf-9445-b6509103a742,Jogo de potes para alimentos,3
+8b91eb6f-ee60-4bf7-84dd-3712ab6c421e,Tapioca Mel,2029
+c93b499a-6ecd-493e-a69e-631df6603e2e,Milho Macarrão,5020
+56f5a044-8f93-4301-aa45-9c2fa3f21b86,Banana,2251
+340cdaa2-81fa-4a90-8e20-87847ea617d1,Chá de camomila,0
+ecf2cfd4-8a68-478a-98ec-b3cc16f8b1d3,Vinagre de arroz,0
+b26e2748-0ee7-4fd8-8c24-e80c124480ec,Abobrinha,913
+33858d4c-62e8-4d20-a4c6-2a6a22de976b,Acelga,4
+8d159493-4db6-4f62-8f1f-0cf2d041aa04,Abacaxi Cereal matinal,3734
+e60a2efc-6492-4f09-8d8e-4e81e2652d2c,Sal Vinagre de vinho tinto,9
+f9eab82c-c8c5-49f3-b405-4041af118516,Escorredor de arroz,10
+f374c1d2-df01-4b09-95c5-63af51d0c312,Papel para limpeza Pipoca com chocolate,5
+0d2ce9b4-6ab7-4f57-b089-553d6961325b,Jogo de pratos de porcelana Frigideira,1694
+663fc52b-b6bc-4ce1-b6e2-187473e83158,Alecrim,2148
+9ecf8fb8-4555-4d14-bff5-af891f94dacd,Sopa de lentilhas,3157
+f21653aa-0395-4d12-a0cd-1485c8eede8d,Molho de soja Amêndoa torrada e salgada,2184
+4197000c-9a4f-45a9-9423-dced953eb817,Whisky,622
+ade6c6f4-066f-4f7f-9488-a78ae426cca9,Panela,2668
+d023f743-1a1c-4236-86aa-3820fef2dd93,Tapioca Descascador de frutas,1
+605c84f9-2c6d-4d6c-98df-f0cab19e1975,Coco fresco Amendoim torrado,4835
+167f970a-ce32-4adc-9b74-62839d2bf618,Jogo de potes herméticos,143
+85cf881c-7f85-43bb-b5be-cd0854a0cc99,Sal Sopa de lentilhas,50
+00fc1ef3-c483-4f97-badb-f81e30eb0531,Jogo de pratos de porcelana Perfume cítrico,3980
+55939cd1-0082-497b-a516-be01bd7a3273,Esponja macia Amêndoas,1897
+f8ded47f-c7f2-4798-b682-1e37414be1d1,Papel alumínio para churrasco Castanha-do-pará,24
+3c951321-3397-41d3-b528-bb2f900e7190,Tomilho Noz de macadâmia,3911
+a15f5c74-f5ff-4800-a69d-a1f6b4a39a41,Granola com frutas,2
+5059ed70-c6ad-4a89-8738-047ec2066f99,Amendoim doce,2366
+ba35d67d-a30d-4e22-ae87-e49a24261e80,Vodka Desodorante natural,4717
+65d70275-5bba-4399-bf5b-74617e0329aa,Papel toalha,0
+b2ce731c-bf0c-441d-810a-dec2b5b3e445,Panela de cerâmica Forma de pudim,588
+cb29582f-19d0-4490-9f5a-60591fb894b9,Sal,2
+ba626dfb-803e-4fc8-84dd-c799a719f3f5,Bolacha Condicionador anti-frizz,3065
+9e9a132b-e429-429e-801b-2903ec025bea,Esponja para limpeza leve Jogo de assadeiras,1
+f3be9cd7-d1a1-4af5-aa94-3a0539a10c56,Brócolis Perfume com notas de rosa,2
+28f89476-1176-45ce-ae0c-bc3f731e1c01,Detergente neutro,9
+d139c8e9-c7b4-4ebd-b300-8279b4d99a83,Ralador de queijo,7
+c8f63b24-a47b-4616-9b50-c15dd96a4cf8,Frigideira de aço inox,1
+a920678f-051c-4d64-9215-604048652a8b,Granola com frutas,4
+b569dc1d-7ece-4317-abb9-3f673148066a,Jogo de copos de plástico,3
+d9592f94-1436-4d29-8c79-86197e9d0394,Chá de hortelã,4496
+123f8987-ab8c-4c1e-977d-ee9bcfd8f33a,Pão Pipoca com queijo,396
+dedcf842-9071-493c-b2f2-a4e75b12c9f0,Abobrinha,3262
+dff81e59-fe0b-4d4e-b0b1-847f2e0196f2,Creme para acne Sopa de ervilha,4
+079cfc0a-a012-4134-beb4-735c6e11ae3b,Ralador de queijo,8
+19fa0da2-93ce-41a0-9736-cd80751b50db,Panela de ferro fundido Limpador de inox,10
+7ad9d308-901c-4ee6-85dd-648950cc2576,Panela de aço inox Jogo de formas de pudim,1
+378a5f4d-8625-4351-992f-47e834469e2c,Molho de pimenta Iogurte,1971
+51528046-ecd9-46c3-a13e-0f81767c7a8e,Pepino Sopa de frango,2
+6f4c2855-8fd8-44d3-a2d5-b60898d4ecc4,Condicionador reparador,10
+6cd97c61-790a-41f0-a0b2-d8be4372abe2,Tapioca,235
+490520d1-1a70-448f-a52a-cfa593e970f4,Pistache doce,3017
+389b30ed-134b-4d42-bf5c-202c2d972275,Detergente para louça,534
+7fc6b7fe-3b9e-44be-8666-ab258443d81a,Sabonete com extrato de aloe vera Condicionador hidratante,4457
+94b7a4f4-bca3-4eca-abd3-43a7b7df7dab,Granola,1355
+63b8799f-efd3-41c7-af87-56a36a999980,Geleia de pêssego Batedeira,2298
+9eaf20f5-07f2-45cb-83f8-375089a10672,Pimentão,6
+59ab547b-8456-43a3-80a9-7a86886fc966,Frigideira de alumínio Couve,4213
+65fd4d50-570d-4216-8b09-cd83ed0fe577,Molho Molho de alho,0
+5cdbd37e-3fa4-468a-9481-4452f0ad4a2b,Jiló,0
+5fb20af8-0faf-4c01-be4b-1100b86768b7,Perfume com notas de lavanda Jogo de panelas de inox,32
+bdaa0441-03c0-4e54-adba-992b2533b9c6,Processador de alimentos,3980
+29d2b34d-1d39-4ee8-ae22-f10f36360bac,Papel toalha decorado,1
+fc0670e9-d6ef-453a-a568-3ad73cfa2166,Jogo de escorredores,5
+dbe84403-8879-4f64-b909-4b785bf934ce,Cominho,2887
+8f6dd02f-c815-4451-8a61-9e0360d1f864,Xampu para cabelos oleosos,4862
+5184720d-276f-4800-9490-52a2b08aa691,Chá de hortelã Milho,1668
+5c4e6938-9f7d-4ab9-bce0-b3eb5d1e67e9,Bacon Molho de tomate,3106
+4228e6f1-60d6-4349-8b2e-7442ef20d417,Papel toalha decorado Talheres,15
+08263587-f710-434e-960b-740521fa9f53,Salsinha Condicionador para cabelos crespos,0
+554f48a8-c53c-4c1d-a009-3e25f6fd12b1,Macarrão Caldo de peixe,6
+d99e7669-5cf0-493c-8148-41546c92a3eb,Refrigerante,2000
+08fbb044-26bc-4e3f-b911-109faa6f6e34,Panela de cobre,10
+d156859f-1b3b-4dcf-9a18-cf611a08fcec,Detergente de limão Molho de soja,3
+d4ed565f-3f0e-4cfb-acba-cf7c1a1235f4,Aveia Tigelas descartáveis,2
+4c50d17c-695e-43b6-9036-f26461a97a1c,Jogo de potes para alimentos,2143
+8c4b33a3-1602-4cd5-8416-6975ee63cec7,Jogo de panelas de inox Jogo de potes herméticos,19
+23db73f0-23f5-4b92-a88a-02eb74b706bb,Jogo de raladores,5216
+1e6c1831-aa52-44d5-8d59-9cfebff13b30,Tesoura para alimentos Desodorante roll-on,1619
+1cf1bb49-9816-4e0e-b4cc-c9312bc5b725,Caldo de carne Tábua de vidro,7
+6b4f400a-b6e1-4c82-9505-b4c8c1ea52c8,Jogo de potes herméticos,2339
+7dcaee64-b82a-42ec-9394-1b52440eb181,Papel alumínio para churrasco Desodorante roll-on,4516
+8d110ced-87fa-479d-be24-9ffc2158feaf,Caldo de carne,717
+3cd69196-9ac9-4465-9884-85a0a7d24635,Xampu para cabelos secos,8
+f1aa6e5e-bfe2-4e69-993d-8ce1fd3b2f22,Endívia,545
+774fafa0-baff-4d6a-b53a-6d4ca337913f,Tábua de madeira,721
+d13f73de-f994-472d-83f5-1c18e48ecccf,Creme hidratante para o corpo,715
+c001ffe9-e807-4bff-a748-a7aef0f7bd63,Pratos Bolacha integral,0
+029bb83d-47e6-4ee8-93df-f20345dfdfed,Forma de pudim,0
+a7b33d9a-a0fc-4e35-898b-99c998e0e78b,Sabonete com fragrância,0
+41122fe1-3a84-4737-ad35-639b973af1f5,Tábua de plástico,0
+d1b2e67d-0767-47d6-a4d5-5aa0058c5928,Geleia de uva,0
+f8e7de65-cbe3-4e09-9fad-98812ded29fe,Condicionador Sopa de legumes,0
+dbd509cd-3905-447b-a5fe-7a00d1b7ff32,Cebolinha,0
+805420ec-9f9a-4244-b948-98f2449b0b64,Xampu para cabelos lisos,0
+09600dd2-6530-42e9-8c0f-4d3341e08f20,Pistache doce Cebola-roxa,0
+286a4a41-a7b7-4f09-8120-45ebe190fc52,Tigelas de plástico,0
+5627a241-66f6-4055-b498-7694f26ecfad,Chá de camomila Biscoito amanteigado,0
+589864d9-f4a0-4c04-ad86-bc2dbbf2beb7,Rolo de massa para pizza,0
+3dc3fd70-436e-40b9-82f0-b5672a0bdc18,Detergente Noz pecã,0
+c735ad6f-214e-40ed-be9a-deda68dd18cf,Talheres de plástico,0
+48f3b416-f29a-4b74-baf8-5b787f2a133e,Creme de cogumelos,0
+c6e7dcec-3e10-4c8d-af55-af2b701f5020,Limpador de mármore,0
+1857e723-fc5b-4dd7-9638-5b677f5b52fe,Xampu Suco de laranja,0
+d56737cd-07ca-4ac4-839f-fb1ee3b699b6,Acelga Açúcar de confeiteiro,0
+528e065b-ca90-4750-9a50-038e9fb9f740,Manteiga de amendoim Granola com mel,0
+af86be4f-aebe-417f-9100-e1bb1035249f,Papel para limpeza,0
+99e9b419-3f60-44c7-90bf-b9f43b934b61,Tigelas de vidro,0
+0c7d0dc4-246e-4c85-9932-4c59871441ee,Ervilha Noz salgada,0
+12522f36-5106-4383-a18c-a1716cf4e8cc,Coco fresco ralado,0
+a1779a74-c1b1-47ed-a057-646cf2cec959,Chá preto,0
+9fbbee30-b5ae-49ec-b423-7b88abb1f227,Perfume com notas de sândalo,0
+1f189a11-2505-4932-ba3f-ff0b1e7de89b,Espinafre Desodorante,0
+bdfeefe4-74e9-46b5-96ac-9ca9ec62b3ed,Acelga Perfume com notas de baunilha,0
+529998bf-1804-4b0c-b3d1-024e8dcdf6f6,Forma de pão,0
+7b32c655-b279-489b-b041-50ace1b33a80,Orégano Faca de cortar carnes,0
+53531896-972d-4154-91d4-e920108687b9,Granola com frutas Pipoca de micro-ondas,0
+dde4e817-abfd-49c8-8922-72ba338fdb4c,Detergente para limpeza leve Bolacha de água e sal,0
+b66e8215-c703-470f-8d71-191a936cc6e5,Descascador de frutas,0
+8c82348d-2800-4b27-8be3-03a6d4a23e71,Gengibre,0
+b17cd135-d46e-48f7-8b9a-502eadead1fd,Faca de chef,0
+1e13080d-baf2-4539-9a0b-30c2dafe504e,Cabelos de milho para curau,0
+e70d4afc-0ef3-49c7-8b90-49f45c52f2a6,Batata,0
+2dffe63f-cb16-44af-a22a-bd16ed93e4b6,Sopa de ervilha,0
+e998002c-172e-468e-84ce-2de84802a596,Pipoca de micro-ondas Castanha,0
+f760fb9b-0088-4ec6-a931-934cc52fc56b,Jogo de potes de plástico Creme de leite,0
+800fedfc-85d1-4370-b436-9e21db609d46,Chá preto,0
+cfaec78d-9209-4f2c-9cc3-915821bd0e1e,Condicionador anti-frizz,0
+9b7e8f4a-307a-4424-aeff-5b8a040b4710,Sabonete em barra,0
+7d2fd83b-1562-4f60-b9d6-98bfdbf89fd1,Cerveja Lentilha,0
+14af7fdb-9a74-49c4-ae87-b0066ea33552,Jogo de potes de vidro,0
+cf062b53-de89-4e18-9e40-0a141326eb1b,Xampu anticaspa,0
+c3e5b541-1ab2-49a2-8b5e-8d1a615a896a,Descascador,0
+1e6df35a-5712-43ef-8149-a15f38203213,Torradeira Creme para rugas,0
+61cc60c7-0749-40fc-a8bd-b60bfaca330f,Forma de silicone Jiló,0
+4e9af533-1857-48ba-91ef-f83a81dd72e8,Limpador multiuso,0
+e2e881cc-5834-4a0f-98ef-02173247c129,Jogo de tigelas Banana,0
+b1a5a75c-7de8-4483-b6d4-f836e61da912,Sopa de batata,0
+692310fe-e54c-49f1-8e1f-b73df59f47b1,Cabelos de milho para canjica Pasta de tomate,0
+0deb69f4-10c5-4754-bea8-c2450f8aca13,Sabonete com fragrância Iogurte,0
+355eea37-ab12-498a-92fe-b5821461dd1d,Bolacha de leite,0
+af82bc12-ca40-4a9b-8ec0-1e578203b8ec,Mel de flor,0
+e4f0c971-b154-4c79-9c10-6f53eb559756,Alface Forma de silicone,0
+8f42d33f-4fca-471c-8201-5a3ca5fd1c6b,Bolacha recheada Noz caramelada,0
+0ef49aaa-0865-404f-b9cb-035e11fe501e,Papel toalha decorado,0
+a869c532-1100-4229-9ebc-77ff3f1be809,Copos de plástico Forma de alumínio,0
+221b9d2a-9a2a-4b64-9687-0c476cf02d4c,Vinagre balsâmico,0
+01f06d20-f356-46d0-b09f-0e1be3c3ee27,Limpador multiuso Forma de vidro,0
+55fb4480-eea5-418f-b2b9-432f57e10f9d,Papel toalha decorado Creme de milho,0
+caee4ac6-056b-4ade-91cf-f7c354db1981,Jogo de pinças,0
+875cf275-e5aa-4c16-a246-10bc69ea9fa5,Noz caramelada,0
+4a1d4b28-0387-4d2c-a37b-f632f167dd2d,Jogo de rolos de massa Creme hidratante para o corpo,0
+e64afab4-2da6-4338-bdef-e199a31eeab7,Cenoura Detergente neutro,0
+8c089c13-2fc6-4972-b4f8-79809ee7276b,Pipoca,0
+b3c5e96a-c094-4e49-a8cc-fab43f35d45b,Jogo de raladores Tigelas de vidro,0
+4a60a003-da01-40d5-ad5d-35c35f7fe91f,Amendoim salgado,0
+f51a2540-a054-4f5c-8e4b-29980af55d8f,Alface Cachaça,0
+b1b0b061-180c-44a2-a345-8a5cca64a6fb,Creme para mãos Coentro,0
+e6ad23c0-5269-4b76-aa74-4fdaaf05d340,Cafeteira,0
+d5f32aa3-073b-48ea-8b2a-74046c2b80f0,Xampu para cabelos coloridos Panela de alumínio,0
+3b5cab3a-8ff8-4ecd-841c-4af82211f078,Rúcula Coco fresco ralado,0
+5c6fe8aa-893e-401b-84cb-6e4566321135,Frigideira de cerâmica,0
+ad1fbad1-67c1-4a57-82de-30858121aac6,Batedeira Mel de abelha,0
+522b1fde-1ef7-47a6-93e5-5848c0b2e2d1,Jogo de tigelas,0
+a8dd4233-b630-442c-a26d-caca78402452,Laranja,0
+db630db7-2cb9-4c77-8697-84de9f0c7010,Rúcula Papel para limpeza,0
+0e4f8d9e-e923-49a6-8351-50ec9ff25090,Coco Creme para rugas,0
+53af23ea-aa57-4dce-9566-9d9bc70b2b44,Xampu anticaspa Talheres de inox,0
+594c502f-23d0-4abc-a86b-5d0975b0aa78,Açúcar mascavo,0
+879871f4-005a-4064-9964-d1deae562575,Potes descartáveis Espinafre,0
+fbf3e0e7-6a07-4604-a28d-02c491ba2a45,Rolo de massa para pizza,0
+9c76b8a9-b127-4655-a725-ece4a1db4967,Nabo,0
+d3c9a76c-3778-4632-947b-cdffcee89bb9,Jogo de tigelas de vidro,0
+be21f2e5-1c1b-4c73-b00d-6a89a489a911,Desodorante em creme Tigelas de vidro,0
+54556737-88e1-4bef-b3fd-0f9cc5c5685e,Jogo de tigelas,0
+ac772a07-cb68-447a-977e-351f21f5bd85,Pipoca salgada Pratos descartáveis,0
+b932d693-1137-4f5e-b240-f95733ffcb14,Geleia de laranja,0
+80baf947-278d-465a-96df-a2c4a93572d4,Alecrim,0
+ad4d91e3-d26e-471c-b32a-d2e9af13e07b,Noz de castanha,0
+62207334-57c3-46bb-8e9a-d787c8f52516,Perfume com notas de jasmin,0
+ad68f9e1-855f-4073-a391-68c315717105,Cabelos de milho para canjica,0
+5019efee-2ff6-446f-8e1f-f265316597a8,Papel toalha absorvente Chá de camomila,0
+7c3ccb26-251e-4e56-b5d2-5a72624cbe25,Perfume com notas de jasmin,0
+343b6199-73ae-466b-961f-b7b2db7f3a76,Jogo de panelas de cerâmica Chá preto,0
+4129e55a-baf5-4264-8813-b9764bb9eeab,Sopa de abóbora Espremedor de frutas,0
+e27b4592-ee87-47e4-887a-c72c8a9eb924,Castanha salgada Tigelas de cerâmica,0
+4a570324-02b5-4b0f-8796-ac6c13d7ed92,Geleia de uva,0
+4fcfdd42-b529-485c-9351-8eae84d1034a,Granola com chocolate,0
+74f07929-f97a-4925-b64d-91c5dfd79de2,Sopa de legumes Detergente para limpeza pesada,0
+d2da55b8-7700-4523-96cb-485ae28cf587,Limpador de madeira,0
+61167e47-2bae-49b7-87a3-625ac2050f76,Mel,0
+99f136d9-f412-48c8-bc43-92d66c11017b,Sal,0
+6cf638dc-1e8c-4c59-927b-cd96011338fb,Sopa de abóbora,0
+ff61d2f4-ae37-450c-aa32-b9b4b8168444,Faca de cozinha Limpador de mármore,0
+c773a783-ffce-4f71-ba39-084c6f287311,Biscoito amanteigado Cravo,0
+47262c13-9c45-46e9-9fb9-0f5bcc34d04c,Feijão,0
+056ae263-438f-4cd9-b606-9947d67e8da7,Café em grão,0
+1a5d99ab-fb29-40a3-b8d4-c0e13ec28032,Rúcula,0
+31ff9ed0-b4b8-473f-8a6f-770e24bf8f32,Jogo de panelas de alumínio Panela de alumínio,0
+13b35495-6c32-4643-98d0-d92b86a9df5f,Frigideira de cerâmica Sopa de batata,0
+8ecfad4e-ffeb-4b0f-9caf-d4ad261264af,Desodorante com fragrância cítrica,0
+612b4d7e-2562-4b02-b595-783c907634fc,Limpador de madeira Jogo de formas de pão,0
+60509f32-3ba3-4b20-b226-4fcf6cdfafce,Castanha de caju,0
+bef0ccea-1c22-4ea5-8580-237373fc1b46,Sopa de ervilha Vinho,0
+79546ee6-ce9c-43b4-b66b-275dd757bb00,Forma de silicone Açúcar de confeiteiro,0
+2cc78f55-666f-4893-adc3-f5c68af86955,Rolo de massa para tortas,0
+2f87c5c1-ac54-4ad6-91de-db09b1a9877f,Papel filme para alimentos,0
+5734bb45-e022-47f2-ac52-11eeb934a7cf,Jogo de copos de plástico,0
+f7422c5f-1341-425d-a80f-ad7a28451a4a,Cereal matinal,0
+bf9a63c9-b257-4609-beb6-c3bcc6c6ef94,Pratos de plástico Panela antiaderente,0
+5d271ac9-b54f-4b94-9d9c-d1dae3813665,Castanha salgada,0
+430f62df-43cc-4358-ba3a-76aee9cb9a1f,Rúcula Jogo de talheres de inox,0
+4521e4c2-e080-4581-8285-d19ef4616faa,Pipoca com caramelo Amêndoa torrada e salgada,0
+df851122-4133-4867-9b50-9a343529ab28,Alface Rolo de massa,0
+bb4b2953-940d-4fd9-8936-d28c37d6155f,Limpador para vidros,0
+8b283942-a0d7-4492-9904-f614f3a8ba6b,Condicionador,0
+8827f0b9-08b9-4157-960f-3d1b4f28b362,Mel Tábua de madeira,0
+a576d01c-ef68-4367-b319-d16523a1edd3,Pipoca com caramelo Amendoim doce,0
+f1ef8fcc-fcbd-4ce0-9b90-fff364aa17df,Tábua de cortar,0
+813514d7-12c6-4132-b82c-0016f33a1105,Macarrão Sabonete com óleo de coco,0
+bc5bd13e-1750-4cc7-b677-56b461633fb1,Bolacha de água e sal,0
+a4ad28a3-518e-4d01-898d-667a6f943b05,Manteiga Sorvete,0
+1ea69266-6fa6-4654-a77c-85857da600e6,Amêndoa com mel,0
+3671b850-d9e0-4d15-9061-e9b85dcebc59,Talheres,0
+8cb652c2-68d6-4238-b8e9-23a2e5e6acd8,Centrífuga,0
+0ad8130f-2f19-4756-a6a4-e93b0002ed78,Escorredor de frutas,0
+9f5dd79d-bbf9-44de-9a87-0a8016526981,Copos descartáveis,0
+f7a74fd6-86f3-4931-a60a-22a38f4322d6,Sopa de legumes Tábua de plástico,0
+149aacc4-b04d-4fc4-80a2-c059a04b9a8c,Ralador de legumes,0
+f04d987c-a8bc-469a-9d31-19fbb760d5db,Iogurte,0
+aeafb843-92e6-4b59-b31d-ffeafeef67a7,Jogo de panelas de cerâmica Potes de vidro,0
+9d531369-5223-4ce8-9819-24d6eb81ac08,Caldo de galinha Pepino,0
+be41e5b6-6a93-41fc-a716-e0fd80f350cd,Jogo de tigelas de vidro Chá de capim-limão,0
+b71ea885-6c6c-42c8-b3b1-048ddd4131bc,Sabonete em barra,0
+5f04bb30-6adf-4f9e-ba5b-8e145859ddbc,Suco de laranja,0
+53963163-d9c6-4803-bd7c-4d37a26de9b8,Rolo de massa para tortas Esponja macia,0
+c0f7ae3c-b508-4e1b-8077-19158d690114,Jogo de descascadores,0
+2233617f-d4c1-4519-86d6-0ae13ff3b938,Frigideira de cerâmica,0
+51845a13-d291-4223-87f8-bf19a72de191,Jogo de talheres de inox,0
+215c2e7a-a9c8-4969-a904-f7e2cfe1a372,Caldo de galinha Assadeira de metal,0
+f276bddf-aafe-4daf-bd20-e671815ee02e,Assadeira,0
+de27ace1-558a-4818-97e8-219d919aa028,Creme hidratante Noz de macadâmia,0
+852e980f-be2a-4a06-b08b-ddf6f275fe91,Papel higiênico,0
+bcb9e1ce-22e8-4ff3-ae25-1219e0767121,Pistache,0
+f25fbabe-6946-4e59-9ff4-c6f8473327c5,Jogo de potes herméticos,0
+36c1c846-6ecb-47ee-845e-5402bddf18bc,Sopa de abóbora,0
+4ae2f321-117b-42d8-8836-cb14f8aa09ce,Batedeira Molho,0
+fa7b6d4c-962f-41f2-b02f-5767c2fb750f,Granola Faca de legumes,0
+2be85281-c54a-4353-8664-0da7ac83c6be,Desodorante com fragrância floral,0
+adc3e6f4-6ea7-4a53-a9d0-d230547d1a3c,Jogo de potes herméticos Grão-de-bico,0
+ea12f291-ecd4-4f95-bbf1-49fe10918353,Copos de vidro,0
+8de57d0a-80e4-4ba3-8313-83fefca67496,Cerveja artesanal,0
+1d38c904-5138-43c6-a2fe-81cd18a75cb4,Forma de cupcake Creme para pés,0
+b6b5d143-61b1-4806-9aed-8d0d23717e4c,Limpador para vidros,0
+176bb674-24d3-41b6-8625-4be85d607676,Molho Amêndoas,0
+04ccd33c-0499-41e3-87f6-2db005c184f7,Creme de leite,0
+206101ba-7ed1-4bb1-a240-e765ee48b36e,Talheres Linguiça,0
+9e0fafd4-e102-46c2-9c2c-794d140e09b8,Pratos de plástico,0
+f247311c-c93f-4120-954c-8f17bc3d47e8,Detergente neutro Papel alumínio para churrasco,0
+1868082c-aa78-41ee-93c5-823d55841bb7,Espinafre Canela,0
+e8094025-e3a6-4215-b6db-3f860d53af4c,Chá de capim-limão Jogo de pratos,0
+c4e17af4-089c-43c2-aec0-46bb3be04a87,Talheres de plástico,0
+d2fb32d6-be02-4fd0-a493-8f908702e13d,Amêndoa com mel Alface,0
+5c07ae9b-c4a5-4246-9149-2f774bc893bf,Rabanete Copos de vidro,0
+779c379d-3597-448c-8dec-a0c486911d04,Tesoura de cozinha,0
+5829e418-6d11-4166-a06d-7e915d9e963f,Noz de castanha,0
+56f9358c-97af-40ae-90f8-d8c3b572ec00,Jiló,0
+2fe82149-a0f3-4d82-8769-6f46406bb806,Copos Limpador para vidros,0
+b2e1f364-ad75-4ec4-9aa9-1862eb1247cf,Molho de soja Iogurte grego,0
+abb22dd3-b3d3-494e-8bf9-4ff97f8906a3,Rúcula Granola com frutas,0
+82f0127a-85e7-4851-aa85-418c02fbaafd,Assadeira de vidro Aveia,0
+df982038-1c5d-4e07-980f-1a2f90348e5a,Xampu anticaspa,0
+e1bcd2a3-6818-409a-b004-927b44f7022e,Assadeira de alumínio Condicionador reparador,0
+e170b56f-b6bd-4de6-a13b-8cb18510999e,Noz caramelada,0
+f2aff016-55de-422b-8090-0fe7c873b853,Alecrim,0
+67ea0d5e-5111-47c3-b655-d50e9e69a94c,Tigelas de inox,0
+d90f4dc5-0197-4c9a-ab50-3ab477b723c8,Condicionador volumizador Manjericão,0
+810632d4-8512-4977-ab70-6850255b219b,Geleia de morango Pipoca com chocolate,0
+223398ab-e0c0-4f44-858c-088bc3ceca19,Molho de pimenta,0
+356b3c1d-efcd-4674-9f56-48f34cafa832,Iogurte Granola com castanhas,0
+17ca5321-6133-4012-8c56-b4f70cd5e985,Pinça para alimentos Geleia de framboesa,0
+62319550-a74f-4381-acb1-034e3de65193,Uva Molho de tomate,0
+7504339e-dd8c-4717-823f-f306fd626530,Esponja para limpeza pesada,0
+d96d4cad-31be-4b37-8479-6c1680b697cf,Detergente,0
+bc9fa184-2329-4acf-a1a6-169ba8772cd6,Jogo de copos,0
+1afcf38e-cc88-41b9-98b7-430457b11289,Xampu para cabelos oleosos Suco de laranja,0
+ea485859-fb9c-438f-b5ce-06deb04a3dab,Cravo,0
+afcd9fdc-c60c-4e04-950e-38e29e6b96fc,Jogo de potes herméticos Copos de plástico,0
+e35e25ae-8046-4021-921c-0f3482ffa575,Bolacha recheada,0
+9044433f-8f04-4957-a6bd-4693af8ec605,Desodorante com fragrância cítrica Sabonete em barra,0
+ceb9974d-4043-466d-a3d9-4c2e8d9ab9b3,Potes de vidro,0
+1930eb5d-360a-42dd-be01-98a239ff758b,Açúcar mascavo Papel alumínio,0
+a112b187-0270-48c5-a0d8-1b7caf7125df,Faca de chef profissional Perfume com notas de rosa,0
+d933831f-71da-423e-8c8e-a0e6c207e3b4,Pipoca com queijo Assadeira de vidro,0
+11683793-8356-4977-9262-8bd151bd4b4b,Peito de frango,0
+40162097-1fd7-411b-aed2-8dadf840f57a,Berinjela,0
+71c18e14-3c1c-4b41-90e1-cd3c4f0c72b9,Café,0
+bbaa5b86-175d-4abd-9355-127f4002e950,Batata frita Condicionador para cabelos crespos,0
+f0ccb9f9-15d4-4506-ba12-4fedaf452a2e,Perfume cítrico Tábua de madeira,0
+5c4562bb-7caa-4b8f-bed2-1fdbf45f4c45,Jogo de pratos Creme de tomate,0
+a4424ffe-e7a6-4597-8099-c177f59aef12,Tábua de madeira,0
+ecb7a496-2abd-4403-8e64-e246750ea4d5,Pipoca com queijo,0
+424f7722-6443-458c-ac60-c36c90df9b44,Panela de cobre Desodorante sem álcool,0
+b8059cf4-b6cc-40fc-a1ab-4fa03e758f9d,Jogo de potes de vidro,0
+7c4faeaa-b38e-4a3d-b0fe-e899d8b6e940,Coentro Jogo de formas de torta,0
+3b09f11e-04d6-47ee-b1c1-ef77e8ca71c6,Macarrão Cabelos de milho,0
+d1f8b56e-aead-496e-82f7-26424b60c6e4,Papel filme,0
+3c4a2562-238c-497d-88dc-bfdcd5cdd6cf,Amêndoa crua Escorredor de frutas,0
+ca88cf83-e41e-44d9-be8c-d56db4fec4bb,Jogo de descascadores Desodorante com fragrância cítrica,0
+08dec00b-3a3b-4c9a-9118-8f46a575283e,Caldo de carne Sal,0
+967edbd6-e8bf-44df-a718-ef9523884946,Coco em pedaços Chá de hortelã,0
+6560875c-4a8e-489e-9397-b3970ca83a6c,Ralador de legumes,0
+c2a8c129-f37f-4a7f-9001-72cb4e797585,Pinça de cozinha,0
+e50975fa-c49e-427a-84bd-235db8690d68,Limpador de madeira Pasta de alho,0
+f2995c22-0f97-486d-a15c-54a1a38d68e8,Noz caramelada,0
+764ede0b-7db8-4a88-b55a-322c29d01528,Pipoca com chocolate Alface,0
+dfe1ef7d-c882-4980-aae8-67bf9f1de8f4,Mel Refrigerante,0
+1062d116-61d2-4f7f-a247-94c4d704f096,Assadeira de metal,0
+7ce7ad4c-4b98-489b-81ae-6528fe8cf501,Granola,0
+626b3d0a-225f-4a01-a73c-ec7934a42204,Pasta de alho,0
+a028f1cd-7ab1-497f-a5c2-004482316514,Faca de cozinha Faca de cozinha,0
+4cb5dca6-269a-4a22-b344-702b1300fa0d,Bacon Jogo de copos,0
+06f67180-6508-4eda-a1c0-6d9039d4fc9a,Café em grão,0
+170bf577-535b-4a3c-9c56-1da6538a7268,Biscoito de polvilho Açúcar demerara,0
+35575622-96a4-4d17-aef4-badba98171c6,Torradeira,0
+69322076-d3d4-4d68-989d-ac1167112683,Amendoim com casca,0
+0a4d1b46-1c42-4e1d-8c3e-aa93aa775854,Assadeira de metal Perfume com notas de sândalo,0
+05b43f49-b0a2-4eb8-b862-c255c9117a91,Tomate Faca de cortar carnes,0
+d8d231b6-4a25-4446-a545-d4326ea79128,Faca de cortar carnes Pipoca com caramelo,0
+5fc8b919-e802-48e3-bbdd-025f876e5547,Endívia Jogo de pinças,0
+51c607be-7d17-4f10-a5dd-edba8dcf6783,Molho,0
+714c041f-197e-47b2-9e5f-fbea6fc055f8,Perfume amadeirado Molho,0
+7745bdaa-48be-431d-8f67-52dbd29dcb00,Jogo de potes para alimentos Café,0
+3c80829e-948f-4fdb-ae6e-ea5696cfde95,Condicionador para cabelos coloridos Creme de tomate,0
+63ef2bf8-41a4-4ca8-8d01-6b59b1ef7202,Jogo de pratos de plástico,0
+b06cc3a1-3f1c-464f-85e8-bf7ee056d165,Frigideira Creme de cogumelos,0
+f4574b63-a9dc-4add-b13c-bdba3f677fb8,Jiló Pinça para alimentos,0
+d8bf191d-aee6-4709-be44-6f45ac98c8f6,Creme para mãos,0
+6164ea88-5027-4c31-9130-972563a0c94e,Sopa de frango Frigideira,0
+36927da0-5fb9-4627-8c7c-bd45569d1183,Potes para temperos Açúcar demerara,0
+31f97d1c-a723-4c04-a773-62aed058129a,Talheres de plástico,0
+59a9d404-2c3d-402a-ba59-1666803cd7c4,Coco fresco ralado Suco de laranja,0
+b974258c-a1ab-4dec-8281-36a451c6ef81,Vinagre balsâmico,0
+63b7ce71-5a74-45e4-b611-df39a4333f42,Cabelos de milho para canjica,0
+5776cd26-d5be-44ea-8b0a-72025d070370,Açúcar de confeiteiro,0
+9cd369d7-dbb8-41aa-8585-4dfcd2544dba,Panela de ferro Ralador de legumes,0
+dbff6aaa-a0f8-442b-80d1-4577966e97de,Creme de leite,0
+88dd1401-4e34-4000-9fa8-8426c7d7c1bf,Jogo de pratos de plástico Berinjela,0
+c6d57370-866e-4d8c-9df4-fbe1474e9e4e,Vinagre balsâmico Xampu,0
+a3fcd703-af0d-4790-834e-ff3b24711b0b,Castanha doce Cerveja,0
+1912c2c6-da87-4c3f-baa7-83227a9d9b59,Molho de tomate Cabelos,0
+577f257e-3ede-471a-b840-30898453689d,Coco fresco Milho,0
+2158f918-a3d6-449e-8faa-3e8d0a64a5e2,Pistache doce e salgado,0
+508ce9fd-dfa8-47c7-88d0-fa39021d6746,Salsinha Forma de pudim,0
+37acf5e7-3c0c-4741-a64f-f761579ed789,Desodorante Assadeira de alumínio,0
+a70012bc-b372-46f9-842a-3130637aaf80,Amendoim com mel,0
+9f988c4b-df60-46e0-ab99-8cc5b2f74081,Chá de hibisco Jogo de copos de plástico,0
+1c36857f-1cc8-44bd-b58c-cc772d7fa2d4,Frigideira de ferro,0
+1038cf8b-ee21-4cf0-8908-67ee61570df0,Papel para limpeza Frigideira de cobre,0
+77276f5d-3c60-4e51-b97e-74031a833ac2,Jogo de talheres de inox,0
+7604bff7-87ed-4116-b101-3df9376d3290,Banana Talheres de inox,0
+a5850970-7d43-47d8-bf7b-2acecd9bd649,Tapioca,0
+b173ad58-0cbd-43da-86ea-6fb9f7575689,Amendoim com mel,0
+ba20fd3b-3822-42c0-ad24-ee8176755c0e,Processador de alimentos Batedeira,0
+c8de7a40-c1ca-4a35-9d98-f4159332497c,Batata-doce,0
+f7b658c4-58b4-48dd-aef7-55b6f7fa53c5,Creme de tomate,0
+2dc54468-8073-4137-8fa3-d6a4055a8887,Manteiga Abobrinha,0
+3263ffb8-3c43-42df-9053-64cf5ee2e9b1,Ralador de queijo Geleia de pêssego,0
+2635db52-3751-4c27-9456-48041bd382fa,Granola Molho barbecue,0
+aea83108-649f-4032-b2a5-369157a6d1b2,Mel de flor Condicionador anti-frizz,0
+d614c07e-e036-45b0-8171-6f303da18937,Creme de tomate,0
+d72c75cb-6ccc-43dd-8bbd-3897020a472e,Xampu anticaspa,0
+53ee8350-2de4-4d2d-ae6e-eac6af6b6683,Xampu hidratante,0
+843dc24b-d69a-41e7-a564-020a3af6f824,Faca de legumes,0
+5db2ac56-6b09-4eaa-b5c8-d924a23c0e76,Chuchu Escorredor de arroz,0
+14e117b1-5778-4904-8f4f-be33dcd96eed,Geleia de pêssego,0
+7e2dff08-6c76-451e-b4b6-9e10e72969dd,Vinagre balsâmico,0
+05e4dedc-e838-42f6-a822-e0455af0144e,Amêndoa torrada e salgada Creme anti-idade,0
+dfb2a5d8-2470-4da9-a9b0-af0ef50faa23,Pasta de amendoim Cebolinha,0
+41a1e65a-b651-49bd-a70d-ad4544c27a83,Noz de macadâmia Milho,0
+9f62e2a7-33a1-446d-8845-2eb794b3066b,Alecrim Forma de cerâmica,0
+85ff2312-396b-40ee-afa0-b159db42604d,Sabonete para pele sensível,0
+228d312a-8357-4a45-8a8e-868811b56cc4,Sopa de cebola Manjericão,0
+c043bb8c-5c3a-44c7-97b9-f06c8a4e3980,Granola com castanhas,0
+ceece068-cb93-4dec-8494-b853db08d331,Geleia de pêssego Descascador de frutas,0
+67c1544c-5407-4cc6-8300-3aded6b7325e,Amêndoa com mel Panela de cerâmica,0
+3c1dd7c2-65da-489a-ab96-994b923d59f2,Manga Pipoca de cinema,0
+cbb55831-c26e-47cc-b666-637431a85305,Laranja,0
+4c0ffa27-fc3c-4b1d-af52-db4a3aa56321,Pipoca com manteiga,0
+ba725768-76aa-4dd4-a8ec-de258580a13e,Alcaravia,0
+f3ba6c66-3e5b-42d3-b69b-fddce778af94,Jogo de formas de pão Papel filme para alimentos,0
+58411667-2c78-45a0-a675-231733637308,Quinoa,0
+c5b992b5-06f7-431b-89d0-9fee074e7a72,Pimenta-do-reino Frigideira de alumínio,0
+d9e6b5de-a6be-4998-a4d3-bd5eebeb3fe0,Panela de aço inox,0
+12605be1-2ae8-4468-8ffb-3885bde1f7fa,Espinafre Leite,0
+368f3221-b974-4b65-9c9e-90bf7031be01,Creme para acne Tigelas descartáveis,0
+c8e954ee-f5c8-4672-9e39-746d79dbc767,Frigideira de aço inox,0
+5072790a-0b4c-41c8-b777-b88058863920,Sanduicheira,0
+b273a5ba-be2d-4bc3-a844-ebe9c98a1025,Refrigerante Limpador de superfícies,0
+4141971a-b158-4cdb-9ae3-2b4a99c34f45,Tapioca,0
+8b50b607-48b2-4c92-a816-8142e38562c6,Coco fresco ralado,0
+6cb44f24-2b02-466f-aa9b-630de1d300bd,Assadeira antiaderente,0
+bc6bf3e8-12b7-4e43-8a8b-be725b190206,Hortelã,0
+c155ed4d-6a98-4021-88c1-7b074a3d9a60,Limpador de inox,0
+5663651f-a94f-4f10-8132-2e120400c97d,Açúcar demerara Detergente para louça,0
+8abfe0a8-9a06-43c0-864e-1e1f7bd72616,Sabonete líquido Sabonete em barra,0
+a4481037-2e72-4d48-a1a5-9bf6707fe7a5,Cominho,0
+7f018ff4-3c9c-4ee0-92c2-048109f5fca7,Cebola-roxa,0
+ef355ecb-ff98-4045-87b4-8ddc2648ac36,Jogo de pratos de porcelana Iogurte,0
+857e4e6a-3bed-4a53-83bb-506b61aeac29,Pasta de pimenta Faca de chef,0
+f9258e14-cb87-4fad-869e-869da6d4f9e6,Milho Forma de alumínio,0
+9c846a46-1afe-4921-b819-4d9783b96998,Jogo de talheres Orégano,0
+5540aeb1-5bfa-4711-ac31-c9b30e184a35,Noz de castanha,0
+b8f4c326-7e2e-4e65-8673-ad5ef348ddb0,Perfume com notas de rosa Vinagre de maçã,0
+d690d1ae-0e92-4e3b-8a33-cd469bfc28a0,Assador,0
+0871fd8f-671f-4292-b89d-98c54a410001,Forma de cupcake Amendoim com casca,0
+e72acdff-ba6e-425e-b57c-62dbbf5ddc53,Frigideira de ferro,0
+26a4fdcf-47d5-4631-bc6f-bac26719d358,Frigideira de alumínio Espremedor de frutas,0
+fb728615-2021-4705-9569-82a34cd7df2d,Granola com castanhas Faca de cortar carnes,0
+b6307b66-0400-4905-b820-3d2240f120f4,Feijão Condicionador reparador,0
+bc967cb2-0953-4659-beb8-e4c2d9f840ad,Iogurte,0
+b8de765e-17cc-409f-9c6c-878b9f6f033b,Desodorante em creme Forma de cerâmica,0
+c711781a-89e3-455d-b1fe-eb963183a156,Jogo de pinças Frigideira,0
+c70187d2-c194-4404-9e3f-0619b001a3e2,Panela de ferro Coentro,0
+67c3cafc-c70b-4560-98f9-bdeed907eb39,Manteiga Creme para pés,0
+ac539e76-557b-4378-a0ac-433b31a90ba6,Perfume cítrico Forma de silicone,0
+c4805fcf-b9a4-40d1-8318-5e0cb283edaa,Açúcar cristal,0
+8c91772c-3f5b-491d-88b2-b3b10fc7a92b,Desodorante aerosol Amendoim com casca,0
+7312c288-c484-4787-9448-0d3b38700776,Limpador de madeira Jogo de descascadores,0
+e64ee9d2-b457-4929-880f-25ab6750bce9,Ervilha,0
+e02a3cf6-80fb-48b4-b8ed-05e0a3609925,Manjericão Espremedor de frutas,0
+38567672-0963-4945-b582-d98b4eebd8f6,Chá preto Condicionador volumizador,0
+fb89665e-ec37-4e60-80d6-b5c2523dfb50,Castanha de caju,0
+7de51995-0119-4571-96d2-d52881fd9793,Assador Rolo de massa,0
+19392743-5ea4-42f1-8e98-473953304097,Panela Amêndoa com mel,0
+d3b8ffa3-5a19-461e-98f5-9bc30020e5d3,Copos de plástico,0
+f251ac98-5fba-4ea2-9aa9-526742f9f1ef,Uva Creme para acne,0
+ab918e5d-c328-4cf0-ad65-853e7b0702a5,Panela de cerâmica Chá de capim-limão,0
+b5c5a44f-0de0-45ae-9a37-333e7ce4c836,Corta-massa Forma de silicone,0
+645cc03d-c9a3-411a-a3bb-0f176bcaf39c,Mel de flor,0
+adcfab1f-5262-4496-ad6b-d08a2a4aeaae,Detergente para limpeza pesada,0
+96448a73-46c2-41f5-aa9d-bfe1b053780e,Mel de abelha Canela,0
+f45c4bc8-cecc-46f9-a403-ffde2e8a3e0d,Desodorante com fragrância floral,0
+e832412f-7467-4554-bc61-a27f1ca8428e,Pipoca gourmet Rolo de massa para bolos,0
+4148c801-62db-4ee5-92d7-1df4ff33c2a7,Tábua de cortar,0
+d2264c56-6790-4d7d-9488-abc639b11e46,Banana Forma de torta,0
+9ab6b17c-12e5-4fbb-95ef-1dda808dd153,Esponja para limpeza pesada Amendoim caramelado,0
+e83d89aa-8078-47c8-b06a-fa225138114c,Jiló Pasta de caju,0
+4f8d022a-c472-4923-8773-57bf25cb7cae,Pasta de amendoim Sopa de legumes,0
+be4e94ad-59ac-47db-8abf-9c439ed7bad6,Coco fresco ralado,0
+e5ca77c2-4958-4de0-97ec-c16f797727ed,Biscoito de chocolate Condicionador anti-frizz,0
+9e544254-80ad-43ab-a92e-bc75baea7650,Mel Jogo de formas de torta,0
+5d33dcb9-30db-47d2-8ff5-e839a927345d,Refrigerante,0
+c82068e3-5e8a-4b22-8694-8ad337ffab1f,Vinagre balsâmico Forma de pudim,0
+9fac33f3-09f2-4dbd-b435-4c4080196159,Jogo de potes para alimentos,0
+dfce93b4-f1c4-4988-8487-8282bd8b2d48,Limpador de superfícies,0
+22f6958a-e3f2-48f0-ace3-26ef18722015,Macarrão,0
+677617f2-9ff0-4c71-8f72-a4574a2361c4,Rolo de massa,0
+96396f66-4016-42b1-a842-3a73a5f6cda3,Condicionador,0
+2765d788-ff03-4514-829f-e84a869ea9e6,Noz de castanha,0
+18094912-23e8-41ec-9c73-2738636acbb3,Sopa de legumes Tomate,0
+57346661-e588-414d-9316-920864048c76,Bolacha Xampu para cabelos secos,0
+5b47460b-fd77-407e-82c2-1857e2855cf4,Peito de frango,0
+f5f6934c-c9d2-4755-b5ce-1779b1c46fb1,Chá de hortelã Frigideira de ferro,0
+ee79066b-bd32-40b2-ace5-d22b2a3dc8d2,Molho de pimenta Papel toalha decorado,0
+f9709f64-2c72-4e3d-8aee-98a2e8843b67,Bacon,0
+208eccae-5d3f-4e97-b278-e9263c7ccba3,Biscoito de maizena Papel filme,0
+0bab099d-dece-4801-82d4-d7199771a8b6,Papel para limpeza,0
+b8eb0a0e-f1f5-4591-8439-05bbcb296319,Frigideira de alumínio Assadeira de metal,0
+9f37b592-81b4-4760-9caf-f66ecdd07ec3,Coco em pedaços Rabanete,0
+2e0e8673-0ae4-4807-9583-0911b6584396,Frigideira Arroz,0
+5ea894b5-723b-4969-a1a9-c9a07c6ee55a,Uva Chocolate,0
+6c7ceb76-1da5-48ae-9d6b-742b52c893bd,Vinho,0
+7dc4ca4d-9a0a-428a-8a4e-53334b746d14,Forma de metal Coco,0
+66155bad-7aab-436c-9904-70fc6124dafc,Moinho de café Jogo de panelas de inox,0
+96130bcf-8296-45c9-991f-3bc53610e008,Cafeteira Molho de alho,0
+84f304e9-23a1-42c2-b0df-c13bb55b9c1f,Papel alumínio para cozinha,0
+d7896f0f-6b2f-42a3-963d-9a1cd49d2642,Papel toalha absorvente Esponja para limpeza leve,0
+23b20cd8-9a5a-4dd3-aa13-134748f9aeb9,Açúcar demerara Caldo de carne,0
+efb9edc6-de1e-420e-a3f1-2e4615b490bd,Manteiga de amendoim,0
+62d194a0-e52f-41e9-ab88-1cbc2f85b4b1,Manjericão Jogo de potes herméticos,0
+271f46c9-49ac-4887-bc84-d7841229a929,Jogo de copos de plástico Creme hidratante para o corpo,0
+f30b4653-7c0e-4392-9d2d-d9b703641c26,Castanha salgada Gengibre,0
+e549f534-45ef-4038-b9e8-0074aeece223,Leite Creme hidratante,0
+e9368493-70f7-41a3-9d4d-70c293f42a9a,Amendoim com casca,0
+6a8f88ae-f167-4c9c-ab6c-253f98d2ea76,Desodorante natural Jogo de facas,0
+584aef03-2ad3-4ff4-be01-1cb56e97ce12,Açúcar cristal,0
+6a21ab0e-f9e3-435b-b68f-de643700340f,Desodorante com fragrância cítrica Xampu anticaspa,0
+df3d074d-8ddd-4ff5-a5db-dc68dda5370e,Tesoura de cozinha Rum,0
+303a2f17-a032-4ae5-82c1-5963daeb52e5,Frigideira de alumínio,0
+1a48e0dc-d7e6-4cb4-b23a-3033107fe6c8,Detergente de limão,0
+dd01068d-2efb-4744-a0c5-4a501a62193e,Xampu hidratante,0
+0ee3c95e-8544-440b-8d57-735fce5d9c35,Sabonete em barra Biscoito de chocolate,0
+98429e09-caf6-4c08-895c-a169a50d9884,Panela elétrica Detergente para limpeza pesada,0
+94c5bf24-cfa8-4a3d-a640-fba9cc389f66,Condicionador para cabelos crespos Pasta de alho,0
+c1e56dc7-59a4-4d4c-a1be-1223e01bb039,Condicionador anti-frizz Papel para limpeza,0
+04cd825b-e5ae-4d7b-8bef-6021a75e31b3,Amendoim com casca Mel de flor,0
+fb00000d-8187-4d52-a608-90e523a123bc,Sopa de lentilhas Potes descartáveis,0
+7f6745c3-54c9-4b43-9367-cb3824a1668e,Tigelas de inox,0
+759df33e-d712-436f-b2df-daf4f0bcda97,Perfume com notas de jasmin,0
+8e23f1d2-1ba5-4224-b2d0-2950e222ebf4,Grão-de-bico Papel para limpeza,0
+c4972262-a56b-4153-9321-8f26d4a9880f,Geleia de pêssego Ralador de queijo,0
+31fa2e3f-d8f5-427a-8e2e-c7def33d38b8,Cebolinha Sabonete esfoliante,0
+daddb66d-27c5-4de0-8f10-25dea6e3df86,Forma de alumínio,0
+380d88c8-4ef4-4aa1-8011-a9e0176b0de8,Pratos de porcelana,0
+5172ea23-2ce6-45f3-911a-cbd4c9043830,Coco fresco Assadeira de vidro,0
+9d5a794e-8dbf-441c-8e4b-9ea488707fad,Iogurte grego Coco em pedaços,0
+22a3d14a-1a27-4b27-ab89-97fedcbbce77,Jogo de tábuas de cortar,0
+616eb5b7-a486-4c39-9ed9-5cfd1d96413d,Tigelas de inox,0
+29828289-6b17-4ab8-80e0-791d57c3cafd,Jiló,0
+ed73e20c-c25e-4e89-8380-e91a68fc9f92,Frigideira antiaderente Champanhe,0
+2cc45767-4e2f-4eb7-a3d9-9b0a0c21f46b,Sabonete,0
+7fd829bc-ff38-48fd-ace0-5250bda3fb7b,Tesoura de cozinha Sopa de ervilha,0
+8b3bdd03-c87b-482d-a56a-d7996c208dbc,Farinha,0
+833560ca-0752-426e-8710-1ee61801a708,Geleia de framboesa,0
+8ab68153-af66-42fe-a5b1-4b09a39ec8ce,Perfume com notas de jasmin Esponja para limpeza pesada,0
+52580da0-51ac-4097-bfe1-9fb7ed274103,Vodka Biscoito de polvilho,0
+cc875fb9-6322-49e6-9807-ea2d6b09c386,Champanhe Pão,0
+51fd9cb1-7fd3-4dca-ac96-0a30bbc4a3be,Jogo de formas de torta Jogo de formas de pão,0
+34e6658e-73d5-4cea-b79b-251985d61b10,Brócolis,0
+fb3d1242-91ef-4d3f-add4-3743787334e4,Amendoim com mel Geleia de laranja,0
+8ec2454d-7fab-43fa-b605-3ba200cbdc50,Potes para alimentos,0
+f3fd87d9-7552-4bef-b953-78ac0820b356,Peito de frango,0
+1fc14e11-e4a8-4ea4-a022-c7c089b66802,Condicionador,0
+ddfa6b54-3bc2-4d03-b0ba-4a040ecf2210,Geleia de uva Molho de pimenta,0
+64408872-ca33-4520-b5f1-273c8c52707a,Sopa de frango,0
+f60ef046-e903-4877-9079-c9aabc784203,Tigelas Sabonete esfoliante,0
+970fd235-6cea-4130-af9a-5ec919033e8e,Descascador de legumes,0
+b9a59eb4-801a-41f8-923c-5f4235680660,Jogo de pratos de porcelana Iogurte grego,0
+c0e235bf-4997-4f16-9b07-fa812eb91f50,Panela de cobre Alface,0
+a82704e1-f922-4406-a702-1ef9c926bcb7,Espremedor de frutas Orégano,0
+4efbf7d2-281c-4e7c-a97b-025697cbc0b0,Pipoca doce Potes para alimentos,0
+54bcdf17-f57b-4aee-b9a8-69bc828eefac,Sabonete com vitamina E,0
+c793ef3b-4457-467b-af18-eabf237d178e,Pepino,0
+5fcb3029-2985-4d7b-b925-48e3c17f0550,Centrífuga,0
+d813ea3f-ed42-4889-ac3d-5843a59348b7,Mel de flor,0
+ed276330-a207-4dd5-8a7b-c4eebbc996a0,Pratos,0
+cfddb395-6e33-4d18-8cbe-653191a9779f,Ralador de queijo Forma de vidro,0
+1129770d-3a9f-4cb5-a366-d106ce3ce639,Forma de bolo Suco de laranja,0
+6d91a17c-e9be-45ff-982b-f51cc5d6ec00,Açúcar Brócolis,0
+98e8df66-aff4-4fb4-aa98-edb4a74fa811,Iogurte,0
+b92f5ee4-0a5a-454f-a98d-ea1cd8883ce4,Detergente para limpeza leve Brócolis,0
+9098b4e2-06f0-4ebc-b9f0-60fdcd961218,Jogo de panelas de cerâmica,0
+c63121c3-3fc8-4968-b31d-94158b447d4e,Esponja para limpeza leve Coco fresco,0
+f90b625c-f3e4-45bb-904d-b7bd1cd95f87,Amendoim doce Torradeira,0
+d5e5ac88-6a6d-4d6e-807f-ea772f424c5a,Batata-doce Coco em pedaços,0
+57513f6f-8dee-4cca-ad43-b4b36dfd7650,Panela de cerâmica Amendoim com casca,0
+f59e09fa-7f02-4163-9bc9-5d6ac309653b,Forma de torta Pratos,0
+fa9ae31d-d5c6-44a0-bea6-c4bf7e090925,Limpador para vidros,0
+743c6153-2498-44b8-8377-bd851160b4b0,Limpador de mármore Papel filme,0
+9d11207c-840d-4ee0-ab01-8ff268e70e30,Assadeira antiaderente Pipoca de cinema,0
+ba7e2859-f15a-4a04-9ad1-007d3fd34bd3,Caldo de peixe,0
+77f425ba-bc6c-43d0-a89e-117f55c15442,Copos de vidro,0
+2ca164fe-334b-4a69-b0d8-b0565e11b553,Macarrão,0
+44e4907e-05e6-417d-a21b-5c9f99f0af2f,Molho,0
+966c2e6a-3b73-44bc-9449-0f4699a72090,Creme de leite Panela de alumínio,0
+69659cf6-0d34-4358-89d9-e3a768272963,Frigideira de cobre Tigelas de cerâmica,0
+9dfa5e41-97bb-4a42-ae20-c152bba4cd54,Chuchu Vinagre de vinho tinto,0
+108d1f6b-1935-4e76-9121-e9d7fecd7953,Jogo de panelas de inox,0
+8ee99bef-40eb-4495-80c9-5cd2b05a10bf,Perfume Forma de cupcake,0
+9960e954-6f63-4cf9-b656-4591750f257e,Faca de cortar carnes Frigideira de ferro,0
+47f926f8-5796-4604-acc4-ff327ddaf869,Sopa de legumes Centrífuga,0
+a1dd4b2e-cd4f-4da1-acaf-714508591438,Noz de macadâmia,0
+435a02ba-7d08-48a7-85ed-65829af830c5,Castanha salgada,0
+e9bba40f-9ca3-49d3-9cb2-fa3c70d31df2,Cenoura,0
+96bdd840-e1c0-4d39-9344-eefccff2069f,Perfume com notas de sândalo Frigideira de aço inox,0
+9c43ace6-6644-4749-9c43-a6a83b5a1974,Panela de ferro fundido Whisky,0
+d1cf3e47-6576-44e8-8598-7b5acfd72d0d,Esponja,0
+d52ad553-23c2-4852-a4fc-1f8218086521,Sopa de frango Cebola-roxa,0
+5b5c575f-97a4-469f-96a5-c7c99c3e798e,Café em grão Pistache doce e salgado,0
+c27ff168-0e8d-428d-99db-76e6f4012432,Pratos de porcelana,0
+5f9cbc8f-3ceb-4ef6-8af0-5940ed4f2b29,Alface,0
+73b4e9b1-3ef3-4418-84e1-fb0bea7c2c01,Jogo de utensílios de cozinha,0
+b9ddefb5-b3c9-4e29-a0d0-4115981114b2,Frigideira de aço inox,0
+ee081b34-a31c-49b6-91f5-19c41436795b,Chá de erva-doce Endívia,0
+c49ddfb1-7b80-4fbb-82d7-47e41b8f058c,Noz salgada Feijão,0
+df6a2a9b-ece8-40b8-bc0e-1251da66ce8c,Mel de abelha Gengibre,0
+6f540353-3eaf-4a64-9a90-6d2397d96408,Bolacha integral Liquidificador,0
+50dc0435-bbe3-4d32-8252-2e5ec4dd9142,Jogo de potes para alimentos Condicionador para cabelos crespos,0
+9f0068ff-ce85-47f7-b592-005650ffc06a,Perfume com notas de jasmin,0
+048b5098-81ae-4cfa-9711-4b6f58a7be96,Pipoca com chocolate,0
+aaafe9b0-4b5f-492b-b1aa-b1c23b0f0258,Amêndoa torrada Jogo de tigelas de vidro,0
+fadb88cd-1701-4547-9d58-a988fdbdb5e0,Tomate Tomilho,0
+25c8bee5-79f5-4c18-a126-8df67f03058d,Desodorante em creme,0
+d2e5122f-c53e-4ab3-bc3c-08b101c99db5,Forma de pudim,0
+c91f8284-1a48-4264-8553-052ca21ae55f,Esponja para limpeza leve,0
+0bfcd0ff-4935-4dc2-b6d5-535863ccb5a6,Granola com frutas,0
+213c6ce0-d523-4710-a82c-af6a57264c9c,Jogo de raladores Maçã,0
+f3dbcbae-8842-4f19-8e01-924b3fbd1f29,Panela de pressão Sopa de frango,0
+d96106dd-d59f-4920-b8ec-479c47599489,Detergente de limão,0
+43eb9885-ea70-419d-9c87-b20ab0d10d9e,Orégano,0
+95f4b84f-8527-4855-a670-572cbe965727,Forma de pudim,0
+e0781785-ca2e-40fa-b806-952ab3f5a6f8,Cerveja artesanal,0
+8dadb057-23c5-42aa-967d-80b9ea2cc9e8,Sabonete para pele sensível,0
+cdb30f2c-64cc-4c22-9801-9a98a0bed27e,Faca de chef,0
+485a76e6-9bc3-49a1-9a0b-635c459bf1da,Detergente para louça Salsinha,0
+68645b0f-abf3-4f38-9fe4-b4b1acfdcb87,Papel toalha,0
+aaaae05a-96b3-4d72-9db7-65a018e968e6,Noz salgada Pepino,0
+69b3ead7-4499-444e-b552-ae043057ceda,Molho de tomate,0
+1c798790-e9bf-4fac-8a12-a285b288ad59,Geleia de framboesa Creme para mãos,0
+cbbff512-6f7c-472a-b3ba-23605dac3340,Papel higiênico,0
+988ec838-bc01-465b-9ab9-bc6046238d3c,Sabonete Alface,0
+222549c9-efb2-4d38-b311-b0f8e5aa9ce7,Condicionador para cabelos crespos,0
+eddc318b-677b-4a1d-a8d4-154105cfae00,Sabonete em barra,0
+ea291081-0cd7-42dc-b4fd-94da6123f6d0,Jogo de tigelas,0
+a893b471-cc9d-4fa9-9422-6ce0c1023003,Cerveja artesanal Copos,0
+0477f6e4-6b1c-4f32-ad7d-b4672ffcb366,Descascador Milho,0
+67d6369d-2001-447f-9159-5952b0e48adb,Descascador de legumes Pratos,0
+5e409923-8534-4eb8-ae6c-a5910fa7a05a,Molho,0
+3fcde8cc-4a3a-4741-adec-1cf3abe5d34e,Creme anti-estrias,0
+75146e9c-4b77-4640-a4f2-663974e16c69,Pipoca com manteiga,0
+2cab9ddb-646d-45a4-b5ee-51d4a52e9af0,Sabonete esfoliante Espremedor de frutas,0
+f1501aab-195a-4bb1-85f5-8e6602b84b0b,Jogo de copos de plástico Geleia de uva,0
+fc93505f-b891-479e-8b2b-f1e2b2b86be7,Moinho de café Pasta de caju,0
+4bef4c10-0b33-4ad5-89af-e06f2d1f20fa,Cenoura,0
+8e6ef6ef-c2b3-4c21-9926-642ddd9f4f2a,Castanha Creme de milho,0
+5e615a40-cb19-4afa-a8b0-5c46c52f4309,Papel filme para alimentos Vodka,0
+f18c840b-c43f-47e4-a8fe-383de15c38f7,Faca de chef Jogo de potes herméticos,0
+79ee1692-ec9b-4665-82ff-7280287e7787,Manga,0
+0641f854-c5f4-475b-a57f-9c6612a59a70,Pasta de tomate,0
+b10fe6bc-1a05-45a9-9a69-f9f2853e4b3f,Limão,0
+954a641e-8cdb-4824-a540-ff3e52c5d6e0,Alcaravia,0
+a36e370b-9386-48c3-8f96-d23080f3aaae,Pipoca com caramelo,0
+352aec9b-829a-4ca4-b67b-20abc7d3733d,Sopa de frango Salsinha,0
+cbc972f5-cf41-40fa-8230-07e56a864db8,Biscoito Tomilho,0
+7446ebd6-8c7f-4780-bc3f-c29dd7ebc13a,Pepino,0
+c692e9b9-975c-44e6-99f4-58a9afb4ab95,Pimenta Sabonete com óleo de coco,0
+13ece433-4bba-4dca-a490-236646d49242,Jogo de tigelas de plástico Creme para mãos,0
+220838c3-cc0e-45d8-b7b0-372683bf79a9,Banana Creme para mãos,0
+1d888438-0b5e-4c59-bb1a-1e00b54c022f,Geleia de framboesa,0
+cbbc115b-07dd-40d5-be71-6074d6f43eaf,Jogo de copos Desodorante sem álcool,0
+c36633b1-8c4b-4f89-a239-c9fe667ef555,Jogo de facas Xampu para cabelos lisos,0
+692f118c-b185-436a-83f1-7b47e4c3f058,Sabonete para pele sensível Ervilha,0
+bb17078d-8f40-4eb7-845b-c875b3232e5d,Chá de camomila,0
+7fb631bc-dbc3-4200-8163-5ad965acc8c0,Perfume com notas de jasmin,0
+23ee79fb-423b-4062-9944-3b6752af77b8,Creme para mãos Papel para embrulho,0
+c933eda0-524f-44f7-b620-62236dd0125b,Creme de cogumelos Geleia de laranja,0
+669bfb49-ed6c-4cc7-9165-d1dd7e5344b0,Noz de macadâmia,0
+a782c115-97bf-41a2-8bf9-fca2cf89ff8c,Xampu anticaspa,0
+6121f0dc-1e98-4b48-b0fa-23e922e6e5f8,Sabonete líquido,0
+da807953-c556-43b6-bc6a-adfffcb392ac,Pratos de plástico Tomate,0
+0c50d46a-c7cd-4194-8bcf-0e6978991897,Pasta de tomate Faca de chef,0
+c46925e5-42e9-498e-8490-e1092e5e9ffa,Bolacha,0
+f71c329e-bcea-4d50-bd87-9e05df9dffb9,Açúcar de confeiteiro Jiló,0
+0056def7-7c55-443a-b6b5-0391474ef320,Rum,0
+69d3f7ee-3ef9-416f-99ae-104d9d96b339,Detergente Pinça de cozinha,0
+394861c5-2132-48dc-9bf4-8f9b927155eb,Condicionador anti-frizz Jogo de panelas de alumínio,0
+3dc0e471-94e3-4a8c-8923-ba5dc75c75f3,Assador Pipoca com queijo,0
+d4e6e32b-3880-4436-b494-06e5782323eb,Jogo de escorredores Jogo de formas de bolo,0
+9706a3a0-6288-4bc9-9322-7a0088c25388,Xampu para cabelos lisos,0
+7e84fd10-0336-46f9-933a-75da8939dedd,Jogo de talheres Panela de ferro,0
+93954251-742d-4028-8944-f8f716b63041,Amendoim com casca,0
+6b6e5195-fecc-4e6b-9b15-1c99866da833,Desodorante aerosol,0
+569fc821-281a-466b-82f3-bd1979fa35de,Processador de alimentos Amendoim doce,0
+c5f80991-605d-47dd-9e8e-b67338825994,Geleia de uva Tábua de cortar,0
+76166460-3854-49d6-81e2-a3a40f26a47c,Geleia de uva Papel toalha absorvente,0
+4fc5a76c-b5b3-4cea-bb38-148c59366f75,Granola,0
+874fafa2-a6c4-4025-9e4c-698d23221f2e,Pipoca com chocolate,0
+7a452449-6d18-4c5b-9c49-289e595ea11a,Jogo de talheres de plástico Papel para limpeza,0
+a9c011d8-f65b-4390-99da-57f2d20f9313,Desodorante roll-on Vinagre de arroz,0
+bf07ac72-4b36-4267-b456-ee4a49d7761c,Pistache com caramelo,0
+9206ed27-63f4-442f-b809-2552f5caab3c,Café em grão Carne moída,0
+1e34f1aa-4ce6-4a6e-9145-941d0ffc308f,Tábua de madeira,0
+a6943667-777a-4260-be84-8ac662358e9c,Coco em pedaços Forma de metal,0
+58ec0b15-2a30-4be8-92d7-3ca84049de6d,Sabonete com óleo de coco Creme de milho,0
+285279e4-f5e4-40e2-a7de-89a1dff8a436,Champanhe Granola,0
+b9beebc0-1859-4e5c-b8f1-5e140ed22c28,Castanha Creme de tomate,0
+a75d951c-b33c-44c9-9d64-e24c921a99e9,Cabelos de milho para canjica Sabonete líquido,0
+644f1cc3-7028-4ca0-897e-86ba274c8964,Creme de leite Vinho,0
+49b73211-6e6e-49d7-9cad-3a4b29a78705,Jogo de tesouras Bolacha integral,0
+dc4d3d01-ac39-4e97-ae91-755672a9e451,Esponja macia,0
+1014f19d-2609-4a7e-aa25-f08a315eff6f,Vodka,0
+5ad98c19-69dc-4b79-9027-294f269b1436,Chá de erva-doce,0
+0617a061-082b-435b-9d91-e42d50f28bda,Mel Pimenta,0
+b30e4b31-02f2-45ee-a50b-548f884101e8,Jiló Sabonete com extrato de aloe vera,0
+8e6f3bd4-ceec-4431-ae7f-8975542a5114,Chuchu Açúcar cristal,0
+42b41864-a5fb-471e-9cb9-ceeba16c48db,Champanhe Pinça para alimentos,0
+793d088e-ab83-41ba-aa06-26e156d8b4ed,Descascador de legumes,0
+48c3e1e8-b7d4-4593-8e39-a3a49c11d9e7,Detergente para limpeza leve Desodorante com fragrância amadeirada,0
+569947ce-ae45-4f28-8a31-66345eaa6f03,Molho de tomate Grão-de-bico,0
+c3cd707b-0dde-4aa4-ac77-a9e415159a69,Chá de hibisco,0
+44a46f57-a696-4f56-a453-083a2496e5b2,Açúcar de confeiteiro,0
+f163a307-ef92-4ad9-93f1-6f4576669aa5,Panela de alumínio,0
+95423169-d5f8-4ce1-9e31-e49dc626471f,Biscoito Detergente para limpeza leve,0
+00444501-10f5-4e16-a608-398b7844ad74,Panela de pressão,0
+40c90c4e-549c-4e49-a94b-8280c7d29af5,Uva,0
+c26e50a1-956a-4caa-9fef-c789bcb49837,Xampu,0
+66d5bf85-f614-4dcc-ad28-3bfb6f228893,Coco em pedaços doce Batata-doce,0
+c2d4f4e7-09f7-43c4-8b22-fb304c0fd2d7,Xampu anti-frizz Pimentão,0
+70d6b977-12e1-4dab-8ffe-8ac108773a77,Vinagre de maçã,0
+a17e869d-d9e1-48b6-8992-8c213d0b5efb,Perfume com notas de baunilha Molho,0
+365051cb-3680-4583-b5bc-16d95d17845f,Presunto,0
+2a8a73d8-0e16-459c-952e-4785ccb518c3,Pratos de plástico,0
+346e812c-a345-4769-b2be-c898c894e419,Papel alumínio para churrasco Detergente para louça,0
+229ab389-8450-420f-9f71-4138bcca0cfb,Copos de vidro,0
+12d4050c-990b-47c5-8b21-cbd15ab545ff,Coco ralado,0
+3c769ebf-f826-4204-8583-2ccaf8b313ec,Panela de pressão,0
+47d201a9-f089-4b5a-b6fc-9a94c70abdcd,Cebolinha Óleo,0
+a2439e9c-292d-4e6d-9c28-45c8cc7d6e39,Detergente neutro Manteiga de amendoim,0
+f067a452-7c74-4a2a-bb0c-f5f80c84ceb1,Champanhe Desodorante natural,0
+a10eb6f2-a4e9-491c-9da0-83934f5cc428,Milho,0
+e18819f4-ed40-4720-a8fd-8c0e6d96c39b,Cabelos de milho para canjica,0
+4e0a8889-3fbe-4fc0-8b79-731a427f7645,Noz de macadâmia Arroz,0
+6d80b131-f246-42f1-9f0e-7277ba828f77,Faca de pão Amendoim com casca,0
+8540ff6b-ff61-419a-89f8-e087c1b37f72,Chá,0
+110c9932-1259-460c-a1fc-5b5f67fe81b1,Assadeira de vidro,0
+e53a257b-0294-4047-bed4-8c84c317ad2a,Sopa de frango Perfume com notas de baunilha,0
+47df8b77-c1b5-4042-b522-22b4997f18dd,Caldo de galinha,0
+aa1e1cca-ac5e-437b-b2b1-462891f5312c,Batata,0
+7d9d173b-e780-42d0-a0e6-b09e21d4db3a,Cerveja artesanal,0
+f8fa1047-07c1-406d-8dec-a0611a075c8d,Pistache doce Sabonete com fragrância,0
+b19f9e24-3488-4c6d-80c3-5e9096c261b7,Manjericão Frigideira de cobre,0
+eef454b0-3be8-4af1-a7cc-d55b5fc9e0ae,Jogo de tábuas de cortar,0
+39823a0d-8250-42ef-8e09-e64f1b76f9f1,Biscoito,0
+9425c723-758b-4665-8e3a-61f2dfbe5f22,Chá verde,0
+85631e96-3c6e-4dd7-975e-3fda7b451401,Cominho,0
+cf60829a-7ede-409e-8ec6-2d8315b409ba,Tábua de cortar,0
+61a43f2d-672b-454f-aca8-68d1dbb7cebc,Panela de ferro fundido,0
+2951a3d9-b9e5-4f2a-a9cc-0a3960418642,Sopa de ervilha Jogo de tigelas de plástico,0
+19923409-3c6a-49ee-b67a-e807f4f070be,Tomilho Cebola,0
+4c3a94e1-37dc-496b-b3f5-8e41e0945f54,Cebola-roxa,0
+de69de54-bdd0-42a0-8454-3c5447bf3baf,Chuchu Jogo de facas,0
+4ea2ce05-1e38-4acb-a22a-e8d73e527605,Coco em pedaços doce Vinagre de arroz,0
+f4e5a95b-0d4a-441f-8781-f4b0f7a149ef,Pasta de amendoim Coco,0
+6b57a347-70b1-4efa-843e-8cc49eb1d586,Jogo de rolos de massa,0
+74e2528b-8f16-4c18-a63d-9b3dab1ac22e,Presunto Desodorante em creme,0
+454a338d-7912-4d4f-b519-0f29acae0b9f,Biscoito amanteigado Pipoca com cheddar,0
+f5f6970d-d8a9-45da-817e-f33f2393f33e,Frigideira de cobre,0
+46c5bb1a-f63e-4adc-b175-e7de037adb63,Panela de cerâmica,0
+3be1e517-6fc3-4ecb-bcc4-d3cc3a5e6047,Copos de plástico Sopa de legumes,0
+b0387aff-4d28-47c3-ba23-8c78a2fbb9f4,Manga Esponja para limpeza pesada,0
+5632c95c-a0cb-44e3-9502-78305f6e0608,Rúcula,0
+54e82bf0-b6f2-465c-9ebd-1a04a8d54da4,Condicionador,0
+a1576c8a-3839-4a5a-a3de-8da10cd0b815,Batata,0
+25137fe0-9048-4386-802d-1c03ee7972a5,Feijão Alecrim,0
+7ccc8729-58ef-4228-abdb-06f6667161e1,Tábua de vidro Pipoca de cinema,0
+5814ef93-6af9-4cdf-b43b-3dce257839d4,Jogo de formas de bolo,0
+b284984e-5e56-4786-913d-213d9775318f,Forma de cerâmica,0
+a84d6c78-a36b-4f8d-b866-b2a450d182c1,Panela antiaderente,0
+42308e97-2845-4bc2-98cc-5889bdf8af1a,Iogurte Perfume amadeirado,0
+7686ffbf-9ee8-4b70-8e08-6077522c525f,Chaleira elétrica Corta-massa,0
+1e5a7ec2-b06c-40d4-9687-166b4cc32b30,Pratos de plástico Noz de castanha,0
+4ff8f527-e60d-4c08-8dc2-c9168a9cb736,Pratos descartáveis,0
+df1f2ebd-acbf-4dc0-be5c-60982a0df0e8,Sopa de batata Xampu anti-frizz,0
+8bed4437-c881-4c0a-a656-abd3e0da7890,Perfume com notas de jasmin,0
+cbcd597e-536c-410b-8b10-b7b494b45506,Jogo de tesouras,0
+57922ce1-153c-4bf1-9dae-cc07405bf59b,Chá de erva-doce,0
+7eb15380-1a71-4d49-a7e0-7f3c274befff,Papel para embrulho,0
+b37c45a5-aa2d-454c-9de4-c186e3721861,Biscoito de polvilho Jogo de panelas,0
+7e89f1b2-ccb0-4c80-925f-dc65c26c19f9,Descascador de legumes,0
+1585f78f-153b-4b56-8392-c39b20098b3b,Condicionador para cabelos coloridos Feijão,0
+41cb35fa-9f4f-45eb-9deb-f4fde3430eb3,Jogo de tigelas de plástico,0
+a856b8aa-59fd-4e03-83cb-8380a1b3e165,Pinça de cozinha,0
+80609a81-b5e5-40ce-9f87-1c6e3c592d72,Tábua de plástico,0
+9fbb1bfc-9ba9-44f5-aa63-d1ccd1889595,Rum,0
+3f052d15-1020-412d-93b2-5055c4aa36d2,Perfume com notas de jasmin,0
+dff2ab08-3492-4f55-abd4-01881e91373c,Jogo de pratos de porcelana,0
+6a9f9c5d-0d66-4ba4-9a71-20104a5ee9bf,Xampu anticaspa Escorredor de frutas,0
+72f0ce7c-b983-41c9-9403-2e6c1d35400c,Detergente neutro,0
+cf62acad-8bdc-4af6-9a07-2e5c077b2d92,Sabonete antibacteriano,0
+7449af23-1add-41b1-821b-1aba5cc7721a,Copos de plástico Limpador de mármore,0
+06289d25-037c-497c-8c6c-8c62cdf00b5b,Jogo de pratos de porcelana,0
+663a99da-2f2a-4099-ba02-0f7b4197db7e,Pratos de porcelana Leite,0
+15e1efe5-93d3-4d10-839d-444407ddaaf8,Jogo de formas de cupcake Orégano,0
+9ab91a94-6f82-4d0f-bfa3-4878739d4f7b,Castanha de caju Noz caramelada,0
+bf11bc6c-91ba-4c0c-adb0-029bb30277a5,Rolo de massa para tortas Banana,0
+fd0d63f2-ae3d-4343-a79a-2cd0e86281ea,Refrigerante,0
+50d3e1c7-238c-4a4a-904f-dc67010e503b,Geleia de framboesa Jogo de potes para alimentos,0
+de1cc5f2-8aee-41b8-8777-cefc996a4008,Esponja para limpeza leve,0
+295184a1-dff2-443c-9698-72ad13330356,Perfume cítrico Papel toalha,0
+bc913420-e149-4f6f-85dd-06f5dac638b8,Castanha de caju,0
+64953027-f12f-4853-8b4a-6837078f73ef,Assador Tábua de vidro,0
+c5e0cb11-134e-4a57-a47d-58fa110dbb4d,Ralador de queijo,0
+2233a5b2-737e-40e2-95db-bf8712b1cfb0,Pasta de pimenta,0
+03d595d9-9ee6-4043-9ddf-705487c0d951,Potes para alimentos,0
+a79333fe-1591-47c0-995a-6299d56509a7,Molho de soja,0
+9ae21b39-cd05-4b18-9bc2-92e571c54b0c,Panela de pressão Espinafre,0
+d1006dc1-fe30-48dd-86c0-e04bdd15a036,Assadeira de vidro,0
+63dbcae6-f840-46e5-8db2-adead62f354e,Vodka,0
+de6916b1-d882-4f56-8a41-4761d426832e,Escorredor de legumes Peito de frango,0
+8cbc7b43-57eb-4480-85d7-8092a60a414b,Amêndoa torrada e salgada,0
+8c742e30-f2cd-49d3-82e5-fc8d9f3f9498,Limpador para vidros Jogo de copos,0
+674f5ee6-74bb-441d-95f0-aad759fd7481,Cenoura Alcaravia,0
+41e0e125-26b1-4f83-890a-42b812c55865,Creme de leite Xampu para cabelos coloridos,0
+18bb2762-8f03-4a6d-91f5-547fe93ca03c,Xampu para cabelos secos Escorredor de arroz,0
+4f0c69fe-579b-4f36-8dbe-aae670d67125,Tábua de plástico Batata-doce,0
+c4b3bef0-6c8d-430d-89e7-812abc325147,Óleo Forma de pudim,0
+1bbf9ffa-5aa2-4c2a-83eb-8f82facd99d7,Papel para limpeza Mel de flor,0
+eead94bb-5cbb-4a86-840b-3cf1a1734645,Pimenta Rolo de massa para pizza,0
+96add353-62d8-4567-810e-5a953feddd6b,Chá,0
+b7cc99b3-2c26-4be6-b3e3-12f24076fb7f,Mel de abelha Sopa de lentilhas,0
+ad028892-0406-4d61-80ab-67294bc4cb09,Mel de flor,0
+2d1756b0-1174-4e71-bf34-4c5f909c9b2f,Suco de laranja Forma de pão,0
+4d04fb6c-73a3-4be6-bdb0-e6e7548d0270,Amendoim com mel,0
+71f5f0fe-267a-4623-b3a9-69c3f936b736,Biscoito,0
+02a4c284-ba41-4bfa-ab9f-42a910747a4a,Creme hidratante,0
+bc5d109b-0296-42a7-9bc9-ce94e53d6b50,Xampu Castanha,0
+007b8129-0900-4c58-95f2-969dc4e48628,Panela antiaderente Tomilho,0
+fcc280a0-7e8d-49d2-9ffc-144724310618,Cabelos de milho para canjica Pistache doce e salgado,0
+e49e9479-79be-4e0b-9ea1-69ae15cd4d4e,Alecrim,0
+27fe748e-24c5-4166-b67d-d587a6011f80,Pistache Coco fresco,0
+92804f77-866b-4efa-86e8-92a9a0bbe4d4,Sabonete com vitamina E Papel toalha,0
+5ebc2d6f-487c-4d28-b7e2-f54fe3a7e176,Tigelas de vidro,0
+a4db5c9f-8507-4ccb-b656-a73b00a20942,Açúcar,0
+de515f5f-1f05-418b-bae5-1a605c1ae077,Amêndoa torrada Jogo de formas de torta,0
+f3575051-c91b-422b-8f5c-7c38b35d0388,Condicionador anti-frizz Óleo,0
+30cf720c-f878-45ce-8dc7-ff2125f3a8de,Papel filme,0
+aabbc94b-97cb-49ec-bac5-9f7c92767a47,Papel para embrulho Jogo de potes herméticos,0
+94f576af-a66c-44be-8d7d-b55ed34f365c,Tábua de vidro Vinho,0
+f41b629e-99c5-4e6d-b5bd-2b03d4e641ef,Pipoca gourmet,0
+c22d9de3-8c53-4b40-b5dd-73ce7eddfd31,Jogo de potes herméticos Coco fresco ralado,0
+319d3793-1727-47f3-8cb6-a8366294dc59,Jiló,0
+721e7092-edfa-4f68-ba5c-95aac44c26e7,Biscoito de queijo Chá verde,0
+0fa1e46d-993d-4132-a8c6-3f148e1ddc1b,Espremedor de frutas Tábua de plástico,0
+a3b326f6-5543-40cb-8422-ae8274d57a4a,Amendoim caramelado,0
+a6c06e53-c6b4-44d3-a9f6-c1c594fe95c0,Limpador de mármore,0
+b7766bb6-d156-4ca6-aee0-6741d483d26c,Açúcar demerara Centrífuga,0
+ae0ca877-cdc8-4c22-acdd-b3748fe30637,Esponja macia,0
+c6a5675e-fdda-4237-b488-9cad1e994b7e,Panela de ferro,0
+58732e43-0681-4c94-b67e-051cb42696e7,Salsão,0
+ffcd36c1-5c02-4ae9-8fa0-3e90956d97cd,Acelga Presunto,0
+490f4da6-7b8f-47db-965a-c516c3fd1a90,Pimentão,0
+f26823bb-2901-4d6d-84ef-bb436c039950,Esponja macia,0
+1e7dd0f1-1fd6-4274-883a-41ba0f59f60e,Jogo de raladores,0
+b7fba0d7-dd03-4a98-9f2e-31cab75f58b9,Sopa de frango,0
+e915ed0e-c849-4a8b-9adc-90f1a66b19db,Amendoim doce Copos descartáveis,0
+948048db-d065-4fc1-85fa-9a143f5c557b,Caldo de peixe Rúcula,0
+b818e071-5f84-43a6-890d-a9ec107395f5,Potes herméticos Granola com chocolate,0
+8f104117-8dd5-4a72-a502-535122f336e6,Frigideira de cerâmica,0
+52a4c643-a0fd-4cf0-9461-de7959a01ee8,Ervilha Esponja para limpeza leve,0
+d5e52a0c-4397-47eb-9bcd-80c424231f63,Forma de vidro,0
+2fdd0731-21c9-4cb6-90d9-16c183be0373,Faca de legumes,0
+75c21b6a-a5aa-4b69-90c8-03f87ed11e70,Molho de alho Papel alumínio,0
+03a27f4b-5743-4c0f-a375-6da169ad2f4b,Papel alumínio para cozinha,0
+5115611a-df76-4622-ab15-2408edb99762,Copos de plástico Pasta de avelã,0
+e2e6f188-ea0c-48ee-8d16-1864998ed699,Batata-doce,0
+3b381710-42df-423b-88b3-a47529ad5928,Batedeira,0
+6b367fb9-8672-4ab0-9e82-531eaf32f095,Pistache doce,0
+3f104747-9a9e-4d3b-8b75-61893195d10d,Pipoca com chocolate Açúcar,0
+30579dad-0be0-49f2-bd00-25e3cc332c0d,Noz de macadâmia,0
+835efb1e-85a4-44e8-a968-4eb50ab62b5f,Detergente para limpeza leve,0
+8ba04e90-6a02-4ad4-ac3c-c9c809b75433,Sabonete líquido Cominho,0
+5ca64b6d-e083-4fad-9fa6-1988ed81e0cc,Forma de alumínio,0
+b313067a-d6da-4e0d-8ced-784ee4b3b851,Forma de torta Papel toalha decorado,0
+1f2063ac-1c2d-436c-aed6-cd61a281c5ea,Chocolate Molho de alho,0
+a6dedd7f-4855-4032-a6c9-d4b1c302869f,Abobrinha Panela de pressão,0
+da0054fb-5049-4f65-97fa-fb81bdeecdaf,Batata,0
+e52eea87-f9db-43a1-9ede-02df2a83fbff,Champanhe,0
+51e98229-f34a-486c-8f89-4d8e2217db94,Descascador de legumes,0
+f075457a-34db-4600-97ec-9c984b169a07,Caldo de galinha,0
+6074d1c5-e000-4633-b1c8-cec3589d1143,Rolo de massa para tortas Noz de castanha,0
+91c01f53-7fc1-4d3b-83f4-c42aad4c2c99,Açúcar cristal Jogo de potes para alimentos,0
+8bc2eb0b-e337-4c8a-9137-6e5ee47c5f02,Jogo de pratos de porcelana,0
+0fd69904-0737-42fb-9d0b-7e12a454c291,Ralador de queijo Pistache doce,0
+af4c94cb-a43a-4143-bec1-12c4eec2261d,Jogo de potes herméticos,0
+b8c440d2-b249-450d-95b1-310a49a06d16,Chá verde,0
+eceab7b0-da33-4a06-af9b-406d739baa50,Desodorante em creme,0
+68940bdc-70af-435f-b3f0-2ad9a5ee990a,Sabonete com vitamina E,0
+22613b49-2aa9-4ba7-b17c-20c1eb4ba666,Pipoca doce,0
+da5962b1-ec9b-4c34-a4f2-94f96e72bad2,Processador de alimentos,0
+7b14adcd-c4a3-41c9-a432-14df3bb48189,Sal,0
+31e13a18-58f7-49b5-afa5-c8d6084457c5,Suco de laranja Limpador multiuso,0
+f60dce6d-c918-4624-a989-ad3399e76fed,Sopa de batata,0
+5a91059b-013a-46c8-ae90-0b2521238bce,Creme de leite Geleia de morango,0
+5f097940-04e9-42dd-aa5c-66b9d888172c,Creme para mãos,0
+b9118ec1-36d3-47b5-be34-b17ef74593be,Papel toalha absorvente Panela antiaderente,0
+b5077a54-5933-4073-b24e-5fa00ff20037,Pepino Chaleira elétrica,0
+12e9ce2c-e1bd-4c96-842d-a7d57e9a6cbe,Descascador de legumes,0
+5be4e5dd-193f-421c-950d-897993540828,Chocolate,0
+2efddb03-3810-46c8-9474-ada9b802a0df,Chá de hortelã Rabanete,0
+ea080052-0c54-4ab5-a844-0a080c1be964,Tomate,0
+eaf5433b-1208-43ea-9bdd-78f8c17789ce,Macarrão,0
+40409e55-a26a-4bf5-aefa-61bef5132cfb,Forma de pão,0
+1fa378ec-e6af-4719-9968-622263105e35,Pipoca gourmet,0
+fb46fc6d-6fd9-4c0f-b5c7-03915a5e8ced,Assadeira de vidro,0
+a7df2340-fb50-4d72-b623-319afe6b40ad,Torradeira,0
+63f51522-dd42-450b-b946-7c444d2b3822,Forma de bolo Biscoito de queijo,0
+27589e5e-cb63-4d61-9b5e-92d49224dffe,Amendoim com casca Desodorante roll-on,0
+80be66cd-939a-4c16-ad23-a185f79ed2ca,Desodorante,0
+074639ed-b5a4-4fe9-a423-532f18cd5dfc,Limpador de madeira Tesoura de cozinha,0
+5e9d1a92-e6bb-4e92-b925-adc36965ac26,Grão-de-bico Jogo de pratos de porcelana,0
+b394a6d8-4ec0-4c50-a29e-1ebec13bbe95,Esponja para limpeza pesada,0
+3f2d881a-4f81-44e6-b35e-f7361eb583f2,Geleia de uva,0
+d7793c58-021e-41f2-a361-40a30f4f0551,Bolacha de leite,0
+6a055144-f940-4af1-a977-a88e97ca51d3,Jogo de tigelas de plástico,0
+eb4f8c52-238c-468f-9db1-9d2ac6e3e0f0,Descascador de frutas,0
+0f32f749-b259-4589-9516-b875e5ee9f11,Escorredor de frutas Amendoim salgado,0
+08942a6a-b43e-4466-a8c9-cc93e035ce1e,Xampu anti-frizz Rum,0
+a630988d-ac04-4e6b-9fe5-29e2acda3dba,Jogo de talheres de plástico,0
+9dfaf8d6-2e51-4079-9331-0ce4a161bd59,Processador de alimentos,0
+bffc16e5-e3ce-410c-a242-f6a15a806379,Amendoim com mel Detergente neutro,0
+611204c5-f548-4fb6-8e04-ebd794866c3b,Jogo de panelas,0
+db78b743-44ae-4a29-9a5b-b91b5fde2a88,Jogo de panelas de alumínio Panela de cobre,0
+2cfb2a53-196d-4c67-bee2-d8cfb15857c3,Jogo de talheres de plástico,0
+41b7e5ff-7f76-4040-8351-0043f35cee13,Jogo de tigelas de vidro Xampu para cabelos coloridos,0
+660db8e6-0d3b-42b9-8806-4ed52690f5f7,Orégano,0
+ed03beb8-f6c5-44fb-93cc-4bbf691a4586,Nozes,0
+509d2428-1684-4ac7-90e9-581223e66a1a,Pinça de cozinha,0
+1e81b33c-f785-46c8-838b-a851af880992,Tigelas de vidro Coco em pedaços doce,0
+c3cee42c-753a-4399-86c7-2107983da3f1,Espinafre Jogo de panelas,0
+be86b2d8-3765-4431-a989-a06185459036,Jogo de tigelas,0
+7bb97f3e-0250-4b93-b3b0-0d3cd2ecaa4c,Cerveja,0
+8e99addf-8fb8-4184-b5ab-a13a0feeb9b7,Amêndoa crua Granola com frutas,0
+2512bae9-ef91-4a53-9c2a-3fc75fb6db80,Perfume com notas de baunilha,0
+3ba4cb23-0c17-4cc1-afba-1eed165507eb,Coco fresco ralado Papel filme,0
+6e2eb45f-acc6-4810-b0e2-731907621a61,Faca de cozinha Coco em pedaços,0
+1a0b93c7-20b8-47ad-943a-808748189d1f,Frigideira Chá,0
+6a9ccee4-1cfa-4511-847b-d002b9ea3e9a,Açúcar Refrigerante,0
+57cf220f-bf94-4a80-9949-c333388fc625,Jogo de panelas,0
+1a0571d1-2f72-437c-97bb-c855e8132817,Cebola-roxa,0
+3750cef6-f895-4fed-bbac-fe52a308970c,Pão,0
+fbeb034f-d3b7-4b51-a98b-9be114b0ab49,Descascador de legumes,0
+8127367f-9e1b-41c8-b675-3c96cac0fbb2,Faca de legumes Potes descartáveis,0
+f34ca393-be12-4914-8bce-da11d03f6367,Tigelas descartáveis Chá de hortelã,0
+07ed0cd6-1ce8-4560-8f94-d90a59f6b98a,Biscoito de maizena Bolacha recheada,0
+fb1f36c0-283e-4d35-bf27-3704f8974914,Vodka,0
+5baeb9fc-df7c-4b74-87ad-2b5d02b58d5a,Hortelã,0
+afbcf436-aedf-4228-8848-7b020347ee87,Amendoim torrado,0
+be5f1f96-519c-40a4-bd12-45a845c1149c,Forma de bolo Peito de frango,0
+9e9f08ac-12ba-480a-815a-aefd6ee8a0ac,Canela,0
+bcbef707-50d4-4fd3-94dd-0f6af72d143b,Detergente de limão,0
+0909a1ef-edc8-4acf-900e-316eeea87784,Bolacha integral Centrífuga,0
+3bf3beee-655e-4890-9dea-5c67ff460d05,Castanha salgada,0
+0dd23184-28f4-4500-81d9-1a5dc9abeed0,Xampu hidratante,0
+397403e6-bc5c-4888-bc95-3b9b73dad8c0,Sopa de frango,0
+14844786-bfa3-4409-85cd-f8a48a4af991,Sabonete com fragrância,0
+9f91ed99-0fbe-484f-b9f0-0ee9c03b2c13,Rúcula Detergente neutro,0
+65869657-84e1-453f-800a-47657db2f354,Sabonete com fragrância,0
+0884d2ea-98bb-49ff-ad11-4e9076350793,Caldo de carne,0
+32f6aa3f-5639-4869-80d2-3b1f96e81103,Panela elétrica,0
+d5483f2c-bf31-4ea8-853e-054449fe717d,Pimentão,0
+dcf55fbf-05a8-440f-a578-89466ab67745,Espremedor de frutas,0
+fe22528d-36d9-4a0a-b350-5a750d8fc124,Chá de hibisco,0
+f5a6a8e1-d561-4b87-b49f-e8433eb0da93,Frigideira Pipoca com cheddar,0
+6d513e57-fcc1-49d6-a5b1-6af2e57220e5,Jogo de formas de bolo,0
+8a178b85-4461-41bf-92bf-8990b3262e9d,Forma de metal,0
+6acb8f11-5e54-44ca-87f0-bbed67294b75,Castanha Panela de pressão,0
+b2aace0e-da81-4681-a14f-3e5af388ea3a,Geleia de framboesa Desodorante roll-on,0
+3c11a504-b2a1-4298-9851-2a4c79618416,Limpador de mármore,0
+bc8b5c51-b510-4529-a6af-8c184aa7d982,Rúcula,0
+a56fc422-acf7-4a4f-8f57-249ba5ea8689,Castanha doce Pistache com caramelo,0
+be997883-89b9-4e30-9dfc-d9df0b9946cf,Forma de vidro,0
+e6b9da84-424e-432e-a3ff-487b58d8c064,Tapioca Castanha-do-pará,0
+5c6a7652-a67f-4571-aa21-7a3a3abd3464,Sabonete Descascador de frutas,0
+e0085b6f-cac6-4779-b92f-79843e84f836,Jogo de tigelas de plástico Laranja,0
+06ab16c3-0fd6-4b47-b6b3-7df211b34811,Potes para alimentos,0
+b3827bc1-2fb8-42b1-ac64-2dd7265018a7,Castanha doce Desodorante sem álcool,0
+e8266991-64ae-4604-b59f-154e4a3b85ff,Sabonete para pele sensível,0
+0e46880c-2fbf-4686-89ee-c6f674c2d80b,Molho de alho Jogo de copos,0
+17f4d4c4-5038-4d3f-9c27-cda999403fb8,Assadeira de alumínio,0
+8987e6ae-a5bf-4705-b156-cd7a920b75d7,Jogo de descascadores Pipoca de micro-ondas,0
+a5bd157d-c937-4d7c-8cf8-ae7bf02eaa99,Copos de vidro,0
+5fa2e931-96d2-4121-8503-b7a3afe119be,Amêndoas Desodorante sem álcool,0
+2f7075d4-5dd9-4eba-be59-1fba29189e9a,Geleia de morango Rúcula,0
+8f185707-a32a-41e2-948d-ce070733ea54,Panela de aço inox Jogo de formas de torta,0
+d4dc8869-ba9b-41d7-b584-1d705b730c94,Amendoim torrado,0
+372346e0-90fb-4084-ba6a-6a9c014e09e5,Jogo de formas de bolo,0
+d5bbfee8-affe-4604-8d05-5dde25e6208b,Talheres de plástico Esponja para limpeza pesada,0
+06b8a2d3-7dbd-414b-bd92-f3708cae4e7d,Talheres de plástico Creme de cogumelos,0
+761ab28b-5d85-4f2c-a196-cffb0af70fc6,Ralador de legumes,0
+ef038368-93ab-4a13-b33a-f2e512a868f9,Creme hidratante para o corpo,0
+4e1111ae-edc2-453a-86f3-12b656db11da,Canela,0
+d5b264f8-1c4a-466d-8eb2-7559961807c2,Limpador de madeira Couve,0
+b33e8925-09e3-4225-a0e3-bdd7d7180f7c,Sanduicheira Desodorante aerosol,0
+c066ddd0-e82a-4c28-b32e-f47d576eba27,Rúcula Condicionador volumizador,0
+47c8eaef-2aea-46e7-bd86-2e499758a83e,Pasta de alho Alface,0
+55ce0fdf-76c3-4a9d-875f-029ed308ebfd,Perfume cítrico Cabelos de milho para canjica,0
+b4c1ad5f-a05d-4d15-9afc-619f45cc28d5,Macarrão Molho de pimenta,0
+dd8ca8e2-56ee-4931-b32d-0839c901fafe,Forma de alumínio,0
+c958d95f-73a9-4623-af7b-b8b707579fa6,Creme de tomate Arroz,0
+bf476f03-1659-4aaa-90cb-d79eca11a5fe,Papel higiênico,0
+838abc7a-277a-405f-9af8-4997c831d48d,Carne moída Bolacha de chocolate,0
+53949a3c-b58e-4844-9496-6cf95337b356,Pistache com caramelo,0
+9de3f9c6-6d92-4f52-b310-8ffe5ec0077b,Açúcar,0
+05b63329-77af-4a08-8d72-4c923ec74e4a,Desodorante Granola com mel,0
+07868005-0cc4-4c21-8096-b6390f39322d,Leite,0
+0883e52b-1b59-45c1-8772-8cf43a6c0ffe,Jogo de tábuas de cortar Vodka,0
+a123f12e-4822-4e0f-9e1a-85f5a56f2451,Vinagre de vinho tinto Condicionador volumizador,0
+c1454849-5ebc-4568-b107-aac2a6099119,Biscoito,0
+379bdc96-c8d8-4be1-b953-eabb43b938c3,Ralador,0
+a77d0c33-35f1-4281-9733-7d2776e94456,Nozes Perfume com notas de rosa,0
+e34c8ce5-133a-4780-89c8-e5496b0952a4,Jogo de panelas de alumínio Creme de tomate,0
+de1d2b6a-4ca7-45f5-8237-bcfbed29446b,Coco fresco Escorredor de legumes,0
+540de540-3597-49c7-890e-df99e4041fb0,Bolacha de chocolate Castanha doce,0
+0d09d6e7-f10b-4efd-abdf-6f11153a97ae,Limpador de madeira,0
+794885d9-8ecb-4e21-a097-08de85e3168a,Jogo de copos de vidro,0
+488e05e5-6a00-4102-94e1-3fe6687ce285,Pipoca com caramelo Iogurte,0
+a38d79d9-ea6b-4d66-ab8f-b74715d789cd,Chá preto Castanha de caju,0
+5ea87dfe-2dff-434d-9211-314ee4c0338c,Brócolis Desodorante natural,0
+ed1487c0-0f2e-47a3-b56c-a28f06a180e8,Castanha-do-pará,0
+b96ee17a-ac26-4ed1-9420-a8dc289ece98,Xampu hidratante Tigelas de plástico,0
+703a863a-74a2-4f97-9bca-ed2b5b0e2177,Copos de vidro Tigelas descartáveis,0
+19908b33-5e75-45ae-b3a3-fd230d0a2005,Pimentão,0
+3887b699-cf27-47f7-a8c0-d73eecc348c0,Escorredor de legumes Cravo,0
+56858779-7ac4-4106-aedf-1a6b0a0adc4e,Creme para pés Amêndoa torrada,0
+7d315b8d-bffc-418d-b81d-016b1d54300c,Óleo Esponja,0
+ba8e7246-017a-4de6-9b78-88b6f5c9424a,Grão-de-bico Papel toalha absorvente,0
+e49ec704-a24b-4d26-838b-a9080b7643e4,Milho,0
+784360a8-ed5b-4e1e-a165-a4b583c23c85,Jogo de formas de pão,0
+584c1b4d-5f04-454a-b87a-140ed19ec8dd,Pratos de plástico,0
+ffa67b19-00b8-4ac3-9bf1-9cbaaba4569a,Rolo de massa para tortas Rabanete,0
+a96f96f9-c6f8-496c-ae38-11c53b408e3a,Acelga,0
+aa560d1e-1b0c-4d34-b91b-19d395b61d34,Escorredor de legumes Laranja,0
+70832fef-782d-4fcd-aef2-a35b8307f0c3,Condicionador anti-frizz Whisky,0
+17cfe546-cabc-4f42-a723-60e16f9bcec8,Cravo Açúcar,0
+07f23f5e-070f-451c-9637-65f48e88c77b,Abacaxi Vodka,0
+05823647-c5cf-44b2-986d-af3a6bb336e8,Sopa de batata Molho de tomate,0
+04d07c2e-2abf-4130-99ab-c516deae6214,Jogo de facas Pasta de avelã,0
+53d6cf9b-e0d8-4bed-8393-36fbab21cbc4,Leite,0
+c7e56847-4347-4059-b864-1d03d601ef9c,Peito de frango Amendoim caramelado,0
+2c28b6a5-2c8c-4798-bc51-ddabe8abe9fc,Limpador multiuso,0
+bb2b7baf-c35b-476a-b0c0-2e69edaf75c0,Limpador de mármore Rolo de massa para tortas,0
+5a120e60-35e4-4fd1-bab4-8a9edb442c1e,Espremedor de frutas,0
+d3d9c133-779d-43a5-bb56-574be366879d,Molho de pimenta Perfume,0
+dd9824db-7658-4473-a9cb-84dbf1b0c104,Cabelos de milho para canjica,0
+1afb5dd7-1208-4f0a-b9ce-c1d40e225c9f,Xampu hidratante,0
+6f627e93-49b6-4b77-afd6-0dbb731c7ed1,Banana,0
+e750ef63-c57d-4257-9148-d405d1ddc55a,Sabonete para pele sensível,0
+a2761f77-60de-4057-a5bb-ad8876c5f285,Esponja para limpeza pesada Geleia de uva,0
+890e5d2e-aef5-4640-a14f-5fe00663d9ba,Forma de alumínio Amêndoa torrada e salgada,0
+8cc9189d-d3e0-49b5-aab8-8cd40aa7f5d0,Endívia Papel toalha,0
+84203e35-b92e-4822-8f78-61a8230af940,Perfume,0
+59c71e7e-5d39-4aa9-9f95-38715826cfc4,Sabonete para pele sensível Caldo de carne,0
+42ddec82-4e03-4794-9a6b-d53903077d14,Desodorante roll-on,0
+17825f41-6d95-4f4c-9d51-aefa4771d2b3,Pistache doce,0
+517d7fc5-6341-4b01-8d8b-6c9d47f2d3a9,Perfume com notas de baunilha Batata,0
+6e271fa7-64cb-44c1-9efa-5b52f889cfb5,Amendoim com casca Jogo de tábuas de cortar,0
+402ecd99-276b-46ec-8442-911c2e557698,Grill,0
+2c7fa704-00bd-4ae3-8bbe-85fb3854022a,Coentro Esponja,0
+43c48e53-650b-4cc7-a049-767a995ee966,Pimentão,0
+5757a9bc-c02d-49d7-a51d-9b4c3f235083,Assadeira de alumínio Grill,0
+0755aec5-f767-45c4-876b-0e848dcf6c7e,Sopa de legumes Forma de pão,0
+311d3716-a65b-4c79-a938-099adb319cdd,Tomilho,0
+f894ba6d-804c-42cb-8da7-728dc258c7c3,Biscoito de maizena Forma de silicone,0
+5d2792c0-4c8c-45cb-83e1-ee016044aa16,Bolacha recheada Talheres,0
+1f37e166-df79-4fee-828f-fba9a8143b82,Cereal matinal Jogo de pinças,0
+cdf8cd0a-2490-4c2d-92b6-92f50efe8345,Molho de soja Perfume com notas de rosa,0
+cef6b87a-1564-4dcc-81a4-eb93254eaf0a,Jogo de assadeiras Amendoim,0
+915e99f4-6bb1-4976-9e84-b9efb8a8ab99,Pipoca de cinema,0
+e2294bac-7b85-4344-9b42-a6c84a6f70e7,Jogo de talheres,0
+6a45374b-df92-4983-b1bb-e335fa962412,Jogo de escorredores Corta-massa,0
+0c259fbb-75e9-4072-90ef-4aed5e5cc3c7,Jogo de talheres de plástico,0
+df4dca83-9fb1-4e16-a440-963fa03790be,Tapioca Sabonete esfoliante,0
+ec0c4a1b-a589-47fa-a5a9-eccbe23fe991,Açúcar Pratos,0
+8768c733-30cd-4bc5-9fa2-8fc23190b0b5,Papel para limpeza,0
+10b5f5bc-f9b4-43e8-874e-3203f887d019,Brócolis Linguiça,0
+d63a041e-09c5-4d69-be62-3075e5de2da7,Potes para temperos Geleia de uva,0
+ffee528d-3c0c-4aea-aeb0-7d4dd11ffe45,Potes para alimentos,0
+452458d7-c460-4079-b44d-82545bf9ea1b,Geleia de framboesa,0
+104f9e06-4d17-4e86-8d20-addf941c4375,Amêndoa crua,0
+f9214b3d-24b1-4c3f-9347-2870ba59cc89,Pasta de pimenta,0
+f7098957-bd6a-485a-814a-355ac8955249,Jogo de tigelas de vidro Bolacha recheada,0
+ad1f53c6-5da3-47b3-8608-237e0dc5d239,Sopa de frango,0
+30e7f0bc-27f6-4ce5-83f6-2a7673cb6928,Molho de soja,0
+74d2c206-5e76-4c68-a46e-9330dd8bbe1a,Pipoca de cinema Perfume cítrico,0
+3ed692ad-24c4-4f6b-9b7b-14ba8fb428c0,Jogo de talheres de inox,0
+6451e721-0e95-4b59-a722-86bdc60d0fad,Creme para pés Abobrinha,0
+955bf513-194c-4489-a850-92094bfa9138,Potes para alimentos,0
+a4613e12-6312-4648-afeb-81fcdf680823,Frigideira de aço inox Detergente para limpeza leve,0
+a9e02b0a-f74b-42cd-9169-1416fbf50471,Granola com frutas,0
+3828ec3c-3aaf-4a39-a245-7f3951169b97,Limão,0
+f70d02da-23a2-46c8-84c9-62ff4c01fe80,Forma de cerâmica,0
+f824ba18-cbf2-42d0-b0ef-978e39ddfcf7,Cabelos de milho para curau,0
+64678313-7c0b-4d69-95ad-2a0c32783981,Creme para mãos,0
+615454ae-fbf6-4422-9ac4-94ef91cef8b6,Panela de pressão Chá de camomila,0
+3a2d0a1e-0334-4a11-afec-a7092027114a,Jogo de copos,0
+a0b94f9c-c319-475f-8633-e514aa6c35d4,Cabelos,0
+e1ea2818-ae24-4f58-979d-12552afad5e3,Pimenta,0
+be8bf576-0388-494f-b947-8645cc8d83e4,Acelga Tábua de vidro,0
+8983c40c-c1f8-4af6-ace6-f649e6c06fcd,Linguiça,0
+08f108cd-48ea-4371-904b-10ebb5c2ee89,Tapioca Potes herméticos,0
+964e64a8-9238-4179-9289-3287611e13e2,Geleia de uva Pasta de pimenta,0
+6c5f4dec-28cd-41bd-af1b-cce6f0392759,Alho Jogo de talheres de inox,0
+d6533527-4328-4be3-af5f-2ee08bf97366,Jogo de potes herméticos,0
+0b452471-960d-4b4c-a110-768a70d82663,Açúcar Amendoim caramelado,0
+3daa304f-e4f9-48d8-9b78-01cd7ac87842,Limpador multiuso Forma de bolo,0
+9ea43c2e-6d94-4ad7-a33e-37a95374c629,Jogo de formas de pão Potes herméticos,0
+866deca5-48fb-4fcd-9fd2-35350158aa3d,Perfume cítrico Alface,0
+0c2123b5-83d9-4108-9e51-8f5a3517509c,Cabelos de milho Amêndoa crua,0
+5ae4f9b2-7b31-429a-b91b-ef1ded029c05,Grão-de-bico Perfume com notas de sândalo,0
+d77fdaaa-78c9-45bb-9c68-02e082419717,Jogo de talheres,0
+941de5aa-d309-47aa-b401-fbed34aff752,Limpador de mármore,0
+64d65ffe-a2ca-4784-a8ce-f17e080353f6,Biscoito de queijo,0
+8c1e54a9-2d92-4ccc-8b7a-9c7df778cea0,Panela elétrica,0
+c1145d9b-2404-4791-8fe8-0434c77f4684,Tigelas Sopa de ervilha,0
+59184a4a-c93b-43ff-bd9b-7783ecebdf9a,Refrigerante,0
+b46e8499-c871-4c96-a01a-42192ea98b04,Sabonete com fragrância Uva,0
+d338e37a-3688-422b-b8db-2496d8b2d504,Pratos Jogo de copos de plástico,0
+0ff5490c-3c48-4693-a96d-4482892dd07c,Cebola Forma de vidro,0
+38d15d27-deb8-45e7-aa78-5cc73e927f1c,Xampu fortificante Papel higiênico,0
+e0ffa437-63b0-4806-9f78-39fd85dee1f0,Cerveja,0
+fd84a875-5e0c-496a-958c-e6b94d8d1e32,Jogo de panelas de inox,0
+52c35b34-e223-421e-bbab-f84e34209407,Bolacha de chocolate,0
+55d45056-6ed0-44c1-8c9f-6147c5b64f44,Xampu fortificante Creme para pés,0
+10fb28e3-e545-4ba0-a56e-8a47f03e36cf,Limpador de inox Escorredor de legumes,0
+2187ca0d-2dce-4066-a7ad-b9a7ede0ee27,Mel de flor,0
+2eaf19d9-2506-42ac-b510-215b8478c44e,Cenoura,0
+b1dacfb6-6fae-4e7c-8850-777f34910e9c,Refrigerante,0
+3c93c8ee-fbe0-46d8-9295-b65dc004af4c,Champanhe Acelga,0
+4d15a4ce-0065-4ef2-9ed3-9bfc2b9e8623,Rolo de massa para bolos Hortelã,0
+84c2cc4c-876f-4a54-af11-61371eead346,Pipoca com cheddar Forma de bolo,0
+e10b64b8-62f7-4e8a-9a6e-a34a0741c446,Tigelas descartáveis Pasta de pimenta,0
+756b0598-6e85-4309-a65f-662915307622,Papel toalha absorvente,0
+6ada7b49-3aa1-470c-ac43-b5d134b43192,Bacon,0
+abfa269f-aac5-4795-8e1c-12197f8a18df,Castanha de caju Tomate,0
+689c232f-9410-4198-a2e0-f010f4b79de7,Jogo de formas de cupcake,0
+088b4cbb-7114-4b89-aa25-d1fba167735a,Iogurte grego,0
+eb28ddde-249b-4c75-8ab4-c2bfb5c27ede,Potes de vidro Sal,0
+8f6472cc-e38c-4ff1-907a-f6a6148d9826,Centrífuga Rolo de massa para bolos,0
+818f8cd1-5049-4ff2-9dfb-7c3b0c1e928c,Endívia Tábua de plástico,0
+af7f45e4-3fe7-4118-8414-e401af403650,Forma de cupcake,0
+eda86ccc-8f12-440b-8a76-50a6d0d84d4c,Papel para limpeza,0
+ab73363f-3f95-4061-b6a8-5ce0defe20a2,Macarrão Papel para limpeza,0
+9b2c94d9-cd6c-482f-9b2a-686965827052,Pasta de caju,0
+2e04a97c-1fe6-4330-b56f-07229d6347e7,Hortelã,0
+0c673c5a-1231-4f1e-9c5b-70d8dc7ae67a,Açúcar demerara Jogo de copos de plástico,0
+1ed47fed-1a7a-4eef-85d3-3df3c0aabbc4,Refrigerante,0
+103efceb-5046-4fb0-a734-fead7795fd50,Mel Biscoito de maizena,0
+64405695-76d5-480f-810b-64ab0cd063b0,Noz caramelada,0
+9bcefeef-153e-4b67-9ab9-17ef719bbaa1,Rolo de massa para pizza,0
+2db8a154-91b5-448c-b6fd-370f09746f8c,Noz caramelada,0
+39b33165-829d-42a8-a847-da155f71d59f,Tapioca Potes de plástico,0
+6cd6c05e-71d0-4321-aade-f061d364b064,Sabonete líquido Geleia de framboesa,0
+4b0d6728-e9ad-400e-abd0-29a0288971a0,Café Jogo de potes herméticos,0
+f6fde24d-682d-44f7-a43d-a8117c1b87a7,Abobrinha,0
+114d3b20-2932-4c36-8ec4-3746ef75c4dc,Papel alumínio,0
+1ac46367-a8f1-41ac-9ae3-993d4aa7e87e,Papel toalha decorado,0
+2ecd330c-98a3-468b-a26a-ff31f3352c3c,Sabonete,0
+d805b8f2-5f81-45c0-a0e7-c20570080b6b,Talheres,0
+64b6abb2-3403-4ded-af13-fc8dd6092bcb,Batata-doce Vinho,0
+ed6099dd-cf72-4125-9c26-161b99bbcd9d,Tigelas descartáveis,0
+308c5a18-68f3-427b-9d8c-329db9991782,Berinjela Geleia de framboesa,0
+1e4d132d-48bb-4cf2-b471-12de7d3d1547,Limpador para vidros Pistache com caramelo,0
+a3a981bf-8c55-4e0b-af40-0cbb4cdc87b6,Creme para rugas Condicionador anti-frizz,0
+6de291ca-c651-4959-b409-43319c04806f,Frigideira de cerâmica Rolo de massa para bolos,0
+0c6b05de-0c14-4bfc-9013-0f52f6d79952,Cominho Couve,0
+f08979ad-e712-4174-a5de-87c5bb60aa3b,Detergente para louça,0
+31e5c778-c67e-4db2-8947-b49ffbcb354c,Frigideira de ferro,0
+d22c7556-52e3-44ad-9bb2-bde821a9db9d,Forma de cupcake,0
+b840a610-5b4b-4f80-a671-2ac8ef8bb641,Pratos descartáveis,0
+e148df45-111a-4cdf-8732-22e08563039f,Chuchu,0
+7c538630-c339-4ca6-b1e1-50d23a49434a,Jogo de panelas de inox,0
+e20d1f38-cdcc-4001-99f6-e653f61e1973,Cravo Faca de pão,0
+fc9b84f1-7dcd-4b05-80ef-0f0488ec2bc0,Mel Cebola,0
+8675a4fb-1ab1-49df-91d5-27e1db24ac50,Frigideira de alumínio,0
+bf7cff9f-6114-4186-bb61-bca6b6eb39c4,Amendoim caramelado Processador de alimentos,0
+2023cef8-dca2-49e3-92ca-63240b3d05dc,Whisky Gengibre,0
+ff467a8d-7c9e-4f83-a9cb-629e5c9b7fae,Liquidificador,0
+8bc28a48-8bd0-4e40-8cfd-3e6edb216472,Grão-de-bico Peito de frango,0
+a35f4caa-d9f8-4a04-be45-0bf89da13903,Leite Potes descartáveis,0
+5462cc7b-bd90-4014-ba28-bcd4d5923980,Jogo de panelas de inox Farinha,0
+7a85f4f5-cd96-4aaf-adeb-286efb4e1d4d,Faca de cozinha Laranja,0
+bc46afc8-374d-4962-b474-85038a5fa56c,Limpador de madeira Gengibre,0
+f7bb7fd8-a5e0-4c1d-b03c-48a9398c117c,Jogo de formas de cupcake,0
+5693ee3c-9c1e-403f-b0bd-374d86d72fb7,Manjericão Granola com chocolate,0
+1a35b7fa-eb78-461a-988a-99a86db89d24,Cabelos,0
+c8b95354-53de-478a-8469-fc138665cebc,Amêndoa com mel,0
+1ff01f5d-1373-4ca7-8c90-878dfade2abb,Pratos Papel filme,0
+d5721b58-3647-4ca4-b2d8-7d3924d4144c,Brócolis Jogo de pratos de plástico,0
+d909b61b-abf0-4c89-b81c-c48e2598168f,Potes descartáveis,0
+4f3526f0-24c5-4437-a98d-a2b07364a40b,Pipoca com queijo Creme de leite,0
+fd774f23-61a3-4189-8ccf-a6bae3320ea3,Lentilha,0
+c1e162c7-7f2c-4fc3-b9a1-a2f96f4d3401,Suco de laranja,0
+8264e745-cc9f-4bfd-b8d7-45f258bccfaa,Jogo de formas de cupcake,0
+327918c1-2f8c-4685-a787-38ade53c7aa2,Condicionador reparador,0
+5456070b-2369-405a-8673-b44125e3b259,Vinagre de arroz Jogo de potes de vidro,0
+c8e3cdbd-1ae5-41ea-b84b-de07292a2509,Forma de vidro Couve,0
+b3eccf39-5bdf-495f-a9ba-0ed38e04730a,Biscoito de chocolate,0
+613553bd-846b-48ec-b0bd-a09dc756c982,Jogo de formas de bolo Jogo de pratos,0
+44c7f091-aaf4-4536-83a6-a028180df339,Amêndoa com mel,0
+0ac2be7d-5500-48aa-9f4f-ec3598529a02,Jiló Panela antiaderente,0
+b340574a-18dd-4a5f-8857-b7fb94ccee90,Potes para alimentos,0
+ce4ee751-51d7-4a1d-8c17-dbbd5c7a6edd,Tapioca,0
+93e2f8a4-e6f2-423d-9669-f23ef431fa2a,Pão Frigideira de ferro,0
+4ec288df-1a7b-4f34-8bf3-8562da15da5b,Noz-moscada,0
+e98e12dd-9bf5-421b-b9c5-e61c9b4069b3,Pratos de plástico,0
+cc2faadd-183c-48fc-b9a4-026dd4b3b651,Panela de ferro fundido Sabonete com extrato de aloe vera,0
+f59e7f55-eae3-4c22-b44d-69f8e8aff08e,Potes descartáveis Rolo de massa para tortas,0
+ff916d5e-1dd1-4818-9b43-381aa12d90c6,Forma de bolo,0
+dca19d66-cd62-4255-98f9-162bcb5335a5,Forma de cupcake Ralador,0
+43a74cc3-f404-4184-bc3c-bb41e4aa8ef1,Molho de alho Amêndoa com mel,0
+86463b44-0d12-4304-971f-1d7620f27f11,Pipoca com caramelo Condicionador para cabelos crespos,0
+4af6dbff-f944-44f1-99e3-90401827006a,Jogo de tesouras,0
+45c3013a-ecda-4bba-8049-78bc3df87d0d,Desodorante em creme,0
+e034fd41-65d4-4d44-b401-1ab9517f5b47,Coco em pedaços doce Xampu anti-frizz,0
+55a3644c-53ff-4c77-b8fc-4a5d7701104d,Pão,0
+cb089204-d11a-45b5-8d4a-fbe9c24f944b,Esponja,0
+e92bcde4-7a30-4f18-8b69-75f4df4d223a,Pasta de pimenta Creme para pés,0
+71cd8f2e-c7a7-42dc-9daa-418625390ded,Condicionador anti-frizz Creme anti-estrias,0
+63016370-847a-43d9-bad5-bf097ddc3843,Endívia,0
+e0c774ac-6b70-407f-ba83-398a73e51ef1,Xampu anticaspa,0
+ee831e39-62e7-4744-a647-7ddd629efceb,Coco Banana,0
+f83cacde-4d04-4193-ba66-fa003386ddd9,Geleia de uva Castanha de caju,0
+4b4add1f-6cd3-4f09-9738-11d1f4a75c12,Xampu anti-frizz,0
+3ebbb272-417a-4611-8334-031a45e6c2e6,Faca de legumes Sabonete com fragrância,0
+45a07335-3721-4b5b-bc18-5fe4fac8b6ff,Molho Geleia de laranja,0
+fb0b9dff-5097-46c0-91cf-272955fb08cc,Tapioca Rolo de massa para bolos,0
+98f37427-3b06-4dd9-89d7-fc5bbbacfb94,Detergente neutro,0
+567e0053-7d64-423e-9559-4104c3c8305e,Coco fresco ralado Suco de laranja,0
+d9c22e30-31ba-4a77-931f-dbed982c20a5,Panela antiaderente Perfume com notas de sândalo,0
+86c364c7-32e8-40e8-81e3-224c55669071,Processador de alimentos Pinça de cozinha,0
+725ffc7e-319c-4fa8-9571-0e309307117f,Endívia Creme de tomate,0
+3b1631f7-918d-43ab-9206-8ce271c87437,Panela antiaderente Creme anti-idade,0
+7556c298-e186-443d-9a09-f7b9bd48b9a1,Limpador de mármore,0
+5c0099f3-1bca-4d90-ad0f-08c93fc14be2,Pratos de plástico,0
+7aaba07e-ab5e-46e1-9ecc-b8327e4f0128,Presunto Castanha,0
+0fb8d92b-ed62-4a53-9279-d15ddb0c63a8,Sopa de batata,0
+491c7cc9-4761-4ac1-8b2c-9dbb47f4521d,Coentro Condicionador volumizador,0
+e5254aa4-310c-4036-893b-2c1a67298ea2,Feijão,0
+4f56bcbb-2f27-45d3-8f0b-0ae57db43d17,Cebola-roxa Potes de plástico,0
+a9a18307-2cd8-4506-83ad-f2c7931d1043,Jogo de rolos de massa Detergente para limpeza leve,0
+a2a8dcb6-4e2b-4486-8dad-ce152be81c07,Panela de pressão Jogo de tigelas de plástico,0
+3169450c-4fd9-463e-a65c-302118fb2808,Panela de cobre,0
+17da6434-3579-44b1-83ff-6aecf95490de,Chá,0
+31972ebc-4110-4a57-a490-15be11d68cc0,Jogo de tábuas de cortar,0
+4f0881de-d530-465e-a4d5-4bcc7e15e362,Sopa de batata,0
+95345824-fd17-471a-a61d-1689cfad7702,Forma de torta,0
+cc234442-c664-45b2-8d22-f8173cc913a5,Cerveja artesanal Bolacha integral,0
+bca9d256-4c9b-40a1-8130-c6c18bdbbcbe,Jogo de pratos Creme para mãos,0
+8994e83f-aec3-4666-b30e-4af3f8bc6f15,Xampu anticaspa Jogo de tábuas de cortar,0
+5bdeae0f-8ae8-410d-a7a6-1d379bc7532b,Cravo,0
+f338c1a0-240b-42e5-8318-dfbdc54056d5,Sabonete,0
+386192b4-3410-4185-b5f5-791635905e34,Tomilho,0
+c9acdd87-4957-4e72-9ca1-d3709613bd02,Forma de torta Bolacha integral,0
+297cefd6-a010-4971-9f5a-30bfbee6629a,Tigelas de vidro,0
+b4d752d0-3e01-45ff-9624-30f4161870d9,Espremedor de frutas,0
+b887c5c9-dea6-4d86-a0dc-bf2428b7ff69,Banana,0
+cc9daca6-6208-483b-a5d7-a15c08c6e655,Pipoca com manteiga,0
+33e1f7d2-05e0-4f02-8bcc-ff714ed163f5,Limpador de inox Granola com chocolate,0
+5177209b-abd8-41f8-b972-766a42c3c650,Pratos de porcelana,0
+3411eb10-9897-45bc-a47d-70470fed166f,Biscoito de maizena,0
+b1150814-dd42-47b4-a748-5b90ee1354e2,Espinafre Forma de alumínio,0
+0d3227cd-cffc-4421-b45f-787a3ed1b0a7,Jogo de descascadores,0
+802800e6-8deb-4043-9bc3-d8566f065ba9,Linguiça,0
+6002f446-7ea8-45f2-a4ce-34d9e35c75b1,Forma de alumínio,0
+111cd33d-6131-4408-aa57-e92c80bed431,Panela antiaderente Rabanete,0
+eea71f91-c804-46ae-af61-f07e01e625bd,Jogo de tigelas,0
+76f0c71d-889f-44ab-9f0a-2fcd691667b4,Assadeira antiaderente,0
+1e47283e-7224-4a1d-9a72-35c82666a9ce,Cereal matinal,0
+a2d18635-beb8-4893-b70e-eecb2c334d4f,Talheres de plástico,0
+b7abb009-8b9b-4af5-9a41-2e08290db0c1,Frigideira de alumínio,0
+06d53c76-31c3-461b-9a0b-9ce576f87af2,Limpador de mármore Desodorante aerosol,0
+84d5b075-ad1a-4822-9b38-de9f8eaf12dd,Café em grão Lentilha,0
+6f52fc16-536f-41c6-94f5-a43a9adeca49,Jogo de formas de cupcake Xampu para cabelos coloridos,0
+6f6c7dd7-8f9e-4270-9d51-13fe641f8dda,Desodorante aerosol Geleia de pêssego,0
+671246eb-a7c7-42ab-b295-a94e21f15ac1,Jogo de potes herméticos Faca de pão,0
+53a41524-639c-44e7-adfe-ed7b8ffee31d,Jogo de panelas de cerâmica Xampu,0
+ad00d73a-19c5-48e3-8502-c8c170d3952f,Panela de pressão,0
+0c2c7853-21b7-4600-bb14-0b768de27d65,Papel para limpeza,0
+a25d7452-483a-4f67-a03a-41697e36df09,Jogo de panelas de alumínio,0
+b48ed54d-1821-4ec3-ae7a-a33295050353,Jogo de formas de torta,0
+2d031896-fc76-49ab-b240-9c7b7889e739,Frigideira de aço inox,0
+f6696e4b-7c17-4089-8e4b-3d783704b5a5,Tábua de vidro,0
+28ef8989-9980-44db-b92f-5da1df1d2d14,Cebola-roxa,0
+9dc253c8-7c43-44a1-acec-ee57a4735337,Tigelas de vidro Queijo,0
+71d0bd64-73e1-4008-877a-4339563f7b63,Jogo de rolos de massa Tomate,0
+4bb99091-a0d8-4a2c-8604-28156d8b7230,Esponja para limpeza leve,0
+713e0ac0-e6a7-423f-b2ea-89f12c81dad7,Amêndoa com mel,0
+8123d624-5abb-488f-b4b3-17ec7e7a2b4b,Sopa de frango Orégano,0
+41373bd3-b494-4dc4-ac6f-ccd277e976eb,Pasta de pimenta Desodorante roll-on,0
+c364a22b-bcff-415d-ba3a-ddb5a2688918,Pistache com caramelo,0
+c8b2ccb7-4322-44bc-843a-bdac5bf4607a,Mel,0
+ad1a5b54-5df0-481e-813b-7a852d979fd0,Pasta de avelã Iogurte grego,0
+83af3c40-299b-499a-b5ae-4535282ccac9,Ralador Papel higiênico,0
+996217c7-dc3e-41bb-858b-10fd25905298,Papel toalha Cominho,0
