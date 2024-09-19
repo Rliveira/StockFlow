@@ -4,14 +4,14 @@ import Beans.Produto;
 import Exceptions.OperacoesInsuficientesException;
 import Repositorios.RepositorioOperacao;
 
-public class ThreadCalculoLucro extends Thread implements ThreadProcessamento {
+public class ThreadCalculoFinanceiro extends Thread implements ThreadProcessamento {
     private String idThread;
     private RepositorioOperacao repositorioOperacoes;
     private Produto produto;
     boolean temProduto;
 
     // CONSTRUTOR:
-    public ThreadCalculoLucro(String idThread, RepositorioOperacao repositorioOperacao) {
+    public ThreadCalculoFinanceiro(String idThread, RepositorioOperacao repositorioOperacao) {
         this.idThread = idThread;
         this.repositorioOperacoes = repositorioOperacao;
         this.produto = null;
@@ -50,6 +50,10 @@ public class ThreadCalculoLucro extends Thread implements ThreadProcessamento {
                 } else{
                     System.out.println("Produto não definido para a thread " + idThread);
                 }
+
+                //Descomentar as 2 linhas abaixo somente quando for realizar testes
+                //Testes teste = Testes.getInstancia();
+                //teste.getListaProdutosTeste().add(produto);
 
                 this.temProduto = false; // Reseta a flag após processar o produto
                 notifyAll(); // Notifica outras threads para continuar

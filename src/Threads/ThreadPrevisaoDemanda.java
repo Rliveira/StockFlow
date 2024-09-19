@@ -46,6 +46,10 @@ public class ThreadPrevisaoDemanda extends Thread implements ThreadProcessamento
                     System.out.println("Produto não definido para a thread " + idThread);
                 }
 
+                //Descomentar as 2 linhas abaixo somente quando for realizar testes
+                //Testes teste = Testes.getInstancia();
+                //teste.getListaProdutosTeste().add(produto);
+
                 temProduto = false; // Reseta a flag após processar o produto
                 notifyAll(); // Notifica outras threads para continuar
             }

@@ -4,6 +4,7 @@ import Beans.Estoque;
 import Beans.Produto;
 import Exceptions.HistoricoInsuficienteException;
 import Repositorios.RepositorioOperacao;
+import StockFlow.Testes;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -35,6 +36,7 @@ public class ThreadCalculoTempoEsgotamento extends Thread implements ThreadProce
                         return; // Sai do loop se a thread for interrompida
                     }
                 }
+
                 // Processa calculo de esgotamento
                 if (produto != null) {
                     try {
@@ -48,30 +50,35 @@ public class ThreadCalculoTempoEsgotamento extends Thread implements ThreadProce
                                     produto.getNome(), tempoEsgotamento);
                         }
                     } catch (HistoricoInsuficienteException e) {
-                        throw new RuntimeException(e);
-                    }
+                        System.out.println(e.getMessage());                    }
                 } else {
                     System.out.println("Produto não definido para a thread " + idThread);
                 }
+
+                //Descomentar as 2 linhas abaixo somente quando for realizar testes
+                Testes teste = Testes.getInstancia();
+                teste.getListaProdutosTeste().add(produto);
+
                 temProduto = false;
                 notifyAll();
-
             }
         }
     }
 
     @Override
     public String getIdThread() {
-        return null;
+        return idThread;
     }
 
     @Override
     public void setProduto(Produto produto) {
-
+        this.produto = produto;
+        this.temProduto = true;
+        notify(); // Notifica a thread para sair do estado de espera e realizar o cálculo de previsão por demanda.
     }
 
     @Override
     public boolean isTemProduto() {
-        return false;
+        return temProduto;
     }
 }
