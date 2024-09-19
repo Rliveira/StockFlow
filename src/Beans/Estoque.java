@@ -1,7 +1,6 @@
 package Beans;
 
 import Repositorios.RepositorioOperacao;
-import Threads.ThreadAlertaEstoqueBaixo;
 
 import java.io.*;
 import java.time.LocalDateTime;
@@ -125,12 +124,12 @@ public class Estoque implements Serializable{
     }
 
     public void salvarParaArquivo() {
-        try (BufferedWriter writer = new BufferedWriter(new FileWriter("estoque.txt"))) {
+        try (BufferedWriter writer = new BufferedWriter(new FileWriter("estoque2.txt"))) {
             for (Produto produto : produtos) {
                 writer.write(produto.getId() + "," + produto.getNome() + "," + produto.getQuantidade());
                 writer.newLine();
             }
-            System.out.println("Estoque salvo com sucesso em estoque.txt");
+            System.out.println("Estoque salvo com sucesso em estoqueOriginal.txt");
         } catch (IOException e) {
             System.out.println("Erro ao salvar o estoque: " + e.getMessage());
         }
@@ -138,10 +137,10 @@ public class Estoque implements Serializable{
 
     public void lerArquivo() {
         produtos.clear(); // Limpa o estoque atual antes de carregar do arquivo
-        try (BufferedReader reader = new BufferedReader(new FileReader("Estoque500.txt"))) {
+        try (BufferedReader reader = new BufferedReader(new FileReader("Estoque2.txt"))) {
             String linha;
 
-            //Loop lê linha por linha de estoque.txt, pegando os atributos salvos,
+            //Loop lê linha por linha de estoqueOriginal.txt, pegando os atributos salvos,
             //convertendo de string para os tipos correspondentes e cria o objeto produto.
             while ((linha = reader.readLine()) != null) {
                 String[] dados = linha.split(",");
@@ -154,7 +153,7 @@ public class Estoque implements Serializable{
                 produto.setId(id);
                 produtos.add(produto);
             }
-            System.out.println("Estoque carregado com sucesso de estoque.txt");
+            System.out.println("Estoque carregado com sucesso de estoqueOriginal.txt");
         } catch (IOException e) {
             System.out.println("Erro ao ler o estoque: " + e.getMessage());
         } catch (NumberFormatException e) {
